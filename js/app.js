@@ -267,9 +267,26 @@ async function initAdRotator(container) {
     return slide;
   });
 
+  const nav = el("div", { className: "ad-rail-nav", "aria-label": "Sponsor controls" }, [
+    el("button", {
+      type: "button",
+      className: "ad-nav-btn ad-nav-prev",
+      "aria-label": "Previous sponsor",
+      text: "‹",
+    }),
+    el("button", {
+      type: "button",
+      className: "ad-nav-btn ad-nav-next",
+      "aria-label": "Next sponsor",
+      text: "›",
+    }),
+  ]);
+
+  chrome.appendChild(nav);
   container.append(chrome, viewport);
 
   if (slides.length < 2) {
+    nav.hidden = true;
     return { destroy() {} };
   }
 
@@ -284,11 +301,15 @@ async function initAdRotator(container) {
     else start();
   }
 
-  function show(nextIndex) {
+  function show(nextIndex, direction) {
     if (animating || nextIndex === index) return;
     animating = true;
+    const dir = direction === "prev" ? "prev" : "next";
     const prev = slides[index];
     const next = slides[nextIndex];
+
+    container.classList.toggle("ad-dir-prev", dir === "prev");
+    container.classList.toggle("ad-dir-next", dir !== "prev");
 
     prev.classList.remove("is-active");
     prev.classList.add("is-leaving");
@@ -296,7 +317,6 @@ async function initAdRotator(container) {
     prev.setAttribute("tabindex", "-1");
 
     next.classList.remove("is-leaving");
-    // force reflow so enter-from-right applies
     void next.offsetWidth;
     next.classList.add("is-active");
     next.setAttribute("aria-hidden", "false");
@@ -307,19 +327,22 @@ async function initAdRotator(container) {
       animating = false;
     };
 
-    if (reduced) {
-      // crossfade / instant — no slide travel
-      window.setTimeout(done, 280);
-    } else {
-      window.setTimeout(done, 480);
-    }
-
+    window.setTimeout(done, reduced ? 280 : 480);
     index = nextIndex;
+    restartTimer();
+  }
+
+  function goNext() {
+    show((index + 1) % slides.length, "next");
+  }
+
+  function goPrev() {
+    show((index - 1 + slides.length) % slides.length, "prev");
   }
 
   function tick() {
     if (paused || document.hidden) return;
-    show((index + 1) % slides.length);
+    goNext();
   }
 
   function start() {
@@ -328,12 +351,83 @@ async function initAdRotator(container) {
     timer = window.setInterval(tick, AD_ROTATE_MS);
   }
 
+  function restartTimer() {
+    if (!paused && !document.hidden) start();
+  }
+
   function stop() {
     if (timer != null) {
       window.clearInterval(timer);
       timer = null;
     }
   }
+
+  nav.querySelector(".ad-nav-prev").addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    goPrev();
+  });
+  nav.querySelector(".ad-nav-next").addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    goNext();
+  });
+
+  // Swipe / drag on the viewport
+  let touchStartX = null;
+  let touchStartY = null;
+  let swiping = false;
+
+  function onPointerDown(e) {
+    const pt = e.touches ? e.touches[0] : e;
+    touchStartX = pt.clientX;
+    touchStartY = pt.clientY;
+    swiping = false;
+    setPaused(true);
+  }
+
+  function onPointerMove(e) {
+    if (touchStartX == null) return;
+    const pt = e.touches ? e.touches[0] : e;
+    const dx = pt.clientX - touchStartX;
+    const dy = pt.clientY - touchStartY;
+    if (Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy)) {
+      swiping = true;
+      if (e.cancelable) e.preventDefault();
+    }
+  }
+
+  function onPointerUp(e) {
+    if (touchStartX == null) return;
+    const pt = e.changedTouches ? e.changedTouches[0] : e;
+    const dx = pt.clientX - touchStartX;
+    touchStartX = null;
+    touchStartY = null;
+    if (swiping && Math.abs(dx) > 40) {
+      if (dx < 0) goNext();
+      else goPrev();
+    }
+    swiping = false;
+    window.setTimeout(() => setPaused(false), 400);
+  }
+
+  viewport.addEventListener("touchstart", onPointerDown, { passive: true });
+  viewport.addEventListener("touchmove", onPointerMove, { passive: false });
+  viewport.addEventListener("touchend", onPointerUp);
+  viewport.addEventListener("mousedown", onPointerDown);
+  window.addEventListener("mouseup", onPointerUp);
+
+  // Prevent accidental link click right after a swipe
+  viewport.addEventListener(
+    "click",
+    (e) => {
+      if (swiping) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    },
+    true
+  );
 
   container.addEventListener("mouseenter", () => setPaused(true));
   container.addEventListener("mouseleave", () => setPaused(false));
