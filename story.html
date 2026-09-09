@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#1d9bf0" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Truth Brief" />
+  <link rel="manifest" href="manifest.webmanifest?v=6" />
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png" />
+  <title>Story · Friday Truth Brief</title>
+  <meta name="description" content="Story detail: overview, known facts, misrepresentations, and narratives. Demo sample edition." />
+  <script>
+    (function () {
+      try {
+        var stored = localStorage.getItem("ftb-theme");
+        var theme = stored || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        document.documentElement.setAttribute("data-theme", theme);
+      } catch (e) {
+        document.documentElement.setAttribute("data-theme", "light");
+      }
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Source+Sans+3:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css?v=6" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="demo-banner" role="status">
+    <strong>Sample edition</strong> — example data for layout preview. Not a live fact-check.
+  </div>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">Friday Truth Brief</span>
+      </a>
+      <div class="header-meta">
+        <span class="week-chip" id="week-label">Loading…</span>
+        <nav class="nav" aria-label="Primary">
+          <a href="index.html">This week</a>
+          <a href="archive.html">Archive</a>
+        </nav>
+        <button type="button" class="install-btn" hidden>Install / Add to Home Screen</button>
+        <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle light and dark mode" title="Toggle theme">
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 14.5A8.5 8.5 0 1 1 9.5 3 7 7 0 0 0 21 14.5z"/>
+          </svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"/>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+  <div id="install-ios-tip" class="install-hint" hidden role="status">
+    <strong>iPhone / iPad:</strong> tap the Share button
+    <span aria-hidden="true">□↑</span>
+    then <strong>Add to Home Screen</strong>.
+  </div>
+  <main id="main">
+    <div id="story-root" class="loading">Loading story…</div>
+  </main>
+  <footer class="site-footer">
+    <div class="inner">
+      Friday Truth Brief · Cory Brewer · weekly politics brief · verify sources<br />
+      Inspired by X’s clean reader UX — not affiliated with X or any platform.
+    </div>
+  </footer>
+  <script src="js/app.js?v=6"></script>
+</body>
+</html>

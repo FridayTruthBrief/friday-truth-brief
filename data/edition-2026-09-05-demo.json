@@ -1,0 +1,598 @@
+{
+  "editionDate": "2026-09-05",
+  "title": "Friday Truth Brief — Week of September 5, 2026",
+  "isDemo": true,
+  "methodology": "This sample edition uses fictional composite scenarios to demonstrate layout and structure. In a live product, each Friday we would rank the week's most-covered political stories, document verifiable facts with primary citations, catalog demonstrable misrepresentations with severity tags, and note narrative techniques that push readers toward unsupported conclusions. Claims are weighed against primary documents, official records, and contemporaneous reporting—not against partisan preference.",
+  "stories": [
+    {
+      "rank": 1,
+      "id": "budget-ceiling-vote",
+      "title": "[DEMO] Senate clears stopgap funding after marathon session",
+      "summary": "A 59–41 vote advanced a short-term funding bill; social posts claimed a 'secret midnight giveaway.'",
+      "tags": ["Congress", "Budget", "Senate"],
+      "overview": "On Thursday evening the Senate passed a continuing resolution to fund federal operations through mid-November. The bill largely extends current spending levels with a modest disaster-aid rider. Floor debate ran late; the clerk recorded the roll call at 11:42 p.m. ET. Demo scenario only—not a real vote.",
+      "knownFacts": [
+        {
+          "claim": "The measure passed 59–41 with bipartisan support.",
+          "evidence": "Official roll-call record lists 59 yeas and 41 nays; twelve members of the minority party voted yes.",
+          "sources": [
+            {"name": "Congressional Record (demo)", "url": "https://example.com/congress/cr-2026-09-04-cr", "date": "2026-09-04"},
+            {"name": "Senate Clerk Roll Call (demo)", "url": "https://example.com/senate/vote-8842", "date": "2026-09-04"}
+          ]
+        },
+        {
+          "claim": "The text primarily continues FY2026 levels plus a $4.2B disaster supplemental.",
+          "evidence": "Section 101 references prior appropriation acts; Title II itemizes FEMA and HUD disaster accounts totaling $4.2 billion.",
+          "sources": [
+            {"name": "Bill text S.CR-441 (demo)", "url": "https://example.com/bills/scr-441", "date": "2026-09-03"}
+          ]
+        },
+        {
+          "claim": "No new entitlement expansions were included in the enrolled text.",
+          "evidence": "CRS summary notes the CR is a clean extension aside from the disaster title; CBO score shows near-zero mandatory-spending delta.",
+          "sources": [
+            {"name": "CRS In Focus (demo)", "url": "https://example.com/crs/if12990", "date": "2026-09-04"},
+            {"name": "CBO Cost Estimate (demo)", "url": "https://example.com/cbo/scr-441", "date": "2026-09-04"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "PulseWire Daily (demo)",
+          "pieceTitle": "Senate sneaks $400B welfare expansion at midnight",
+          "pieceUrl": "https://example.com/pulsewire/midnight-welfare",
+          "claimMade": "The CR created a $400 billion permanent welfare expansion.",
+          "whyInaccurate": "The enrolled text contains no new permanent entitlement. The $400B figure appears to conflate a decade-long baseline projection from an unrelated earlier proposal that was not in this bill.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Capitol Ledger (demo)",
+          "pieceTitle": "Only one party kept government open",
+          "pieceUrl": "https://example.com/capitol-ledger/one-party",
+          "claimMade": "Support came exclusively from the majority party.",
+          "whyInaccurate": "Twelve minority-party senators voted yes; describing the coalition as single-party omits the recorded cross-aisle votes.",
+          "severity": "omission"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "headline",
+          "description": "Hyperbolic dollar figures in headlines",
+          "example": "\"$400B Midnight Giveaway Passes\"",
+          "howItMisleads": "Anchors readers on a fabricated permanent cost, making a routine CR sound like a structural expansion."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Focusing only on the late hour",
+          "example": "Segments looping \"midnight vote\" without showing the public bill text available for days.",
+          "howItMisleads": "Implies secrecy when the schedule and text were posted in advance; lateness alone is not concealment."
+        },
+        {
+          "type": "framing",
+          "description": "Casting disaster aid as partisan pork",
+          "example": "Maps highlighting aid counties by party registration only.",
+          "howItMisleads": "Suggests patronage when FEMA formulas are disaster-driven; party maps omit damage assessments."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "border-metrics-release",
+      "title": "[DEMO] DHS releases August border encounter numbers",
+      "summary": "Encounters fell 11% month-over-month; rival briefs claimed both a 'collapse' and a 'cover-up surge.'",
+      "tags": ["Immigration", "DHS", "Data"],
+      "overview": "DHS published August southwest-border encounter statistics showing 148,200 total encounters, down about 11% from July. Expulsions and Title 8 processing both moved modestly. Demo dataset for layout only.",
+      "knownFacts": [
+        {
+          "claim": "August encounters totaled approximately 148,200, down ~11% from July.",
+          "evidence": "DHS monthly workbook lists southwest land-border encounters at 148,212 for August versus 166,540 in July.",
+          "sources": [
+            {"name": "DHS CBP Stats Workbook (demo)", "url": "https://example.com/dhs/cbp-aug-2026", "date": "2026-09-03"}
+          ]
+        },
+        {
+          "claim": "Gotaways estimates were revised upward for July by 2,100 after audit.",
+          "evidence": "Footnote in the workbook revises July gotaways from 28,400 to 30,500 following sensor reconciliation.",
+          "sources": [
+            {"name": "DHS technical note (demo)", "url": "https://example.com/dhs/gotaways-revision", "date": "2026-09-03"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Frontier Report (demo)",
+          "pieceTitle": "Border collapses as encounters plummet 40%",
+          "pieceUrl": "https://example.com/frontier/collapse-40",
+          "claimMade": "Encounters fell 40% in August.",
+          "whyInaccurate": "Official month-over-month change is ~11%. The 40% figure compares August to a peak month from 2024, not July 2026, without stating the baseline.",
+          "severity": "misleading"
+        },
+        {
+          "outlet": "OpenGate News (demo)",
+          "pieceTitle": "Secret gotaway surge buried in fine print",
+          "pieceUrl": "https://example.com/opengate/gotaway-surge",
+          "claimMade": "DHS hid a massive new gotaway surge in August.",
+          "whyInaccurate": "The revision applies to July, not August, and is a 2,100 adjustment—not a new August surge. Calling a documented footnote a 'secret burial' overstates concealment.",
+          "severity": "false"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "image",
+          "description": "Archival crowd photos labeled as current",
+          "example": "Thumbnail from 2021 used with August 2026 headline.",
+          "howItMisleads": "Visual intensity implies today's volume matches a prior peak, contradicting the newer counts."
+        },
+        {
+          "type": "channel_presentation",
+          "description": "Split-screen with opposite absolute claims",
+          "example": "One panel \"BORDER COLLAPSE\" vs another \"COVER-UP SURGE\" without shared axes.",
+          "howItMisleads": "Viewers absorb mutually exclusive frames; neither anchors on the same published table."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "scotus-cert-grant",
+      "title": "[DEMO] Supreme Court grants cert in state AI-disclosure case",
+      "summary": "Court will hear whether a state law requiring AI labels on political ads violates the First Amendment.",
+      "tags": ["Supreme Court", "Tech", "Elections"],
+      "overview": "The Court granted certiorari in Northbridge v. State Election Board, a challenge to a state statute requiring clear AI-generation labels on paid political ads. Oral argument is tentatively calendared for January. Demo case name and docket.",
+      "knownFacts": [
+        {
+          "claim": "Cert was granted on a single question presented about compelled speech in political advertising.",
+          "evidence": "Order list notes grant limited to Question 1; Questions 2–3 denied.",
+          "sources": [
+            {"name": "Supreme Court Order List (demo)", "url": "https://example.com/scotus/orders-2026-09-02", "date": "2026-09-02"}
+          ]
+        },
+        {
+          "claim": "The state law imposes civil fines, not criminal penalties, for unlabeled AI political ads.",
+          "evidence": "Statute §14-220 provides civil penalties up to $10,000 per violation; no jail term.",
+          "sources": [
+            {"name": "State code excerpt (demo)", "url": "https://example.com/state/elec-ai-label", "date": "2025-11-12"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Liberty Desk (demo)",
+          "pieceTitle": "Court greenlights jail time for memes",
+          "pieceUrl": "https://example.com/libertydesk/jail-memes",
+          "claimMade": "The case upholds criminal punishment for ordinary meme posters.",
+          "whyInaccurate": "Cert grant is not a merits ruling, the statute is civil-only, and it targets paid political ads—not casual unpaid memes.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Civic Wire (demo)",
+          "pieceTitle": "Justices rubber-stamp free-speech kill switch",
+          "pieceUrl": "https://example.com/civicwire/kill-switch",
+          "claimMade": "The Court already upheld the law as constitutional.",
+          "whyInaccurate": "A cert grant schedules argument; it does not affirm the lower court on the merits.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "headline",
+          "description": "Treating cert as a final judgment",
+          "example": "\"SCOTUS OK's AI Speech Ban\"",
+          "howItMisleads": "Readers infer the law is settled when briefing has not begun."
+        },
+        {
+          "type": "framing",
+          "description": "Expanding scope from paid ads to all speech",
+          "example": "Explainers showing TikTok teens as the regulated class.",
+          "howItMisleads": "Widens the perceived target beyond the statute's paid-ad definition."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "fed-rate-hold",
+      "title": "[DEMO] Fed holds rates; markets misread dissent count",
+      "summary": "FOMC kept the target range unchanged; two dissents were for a cut, not a hike.",
+      "tags": ["Economy", "Federal Reserve", "Markets"],
+      "overview": "The Federal Open Market Committee left the federal funds target range unchanged and published a statement noting sticky services inflation. Two members dissented in favor of a 25 bp cut. Demo FOMC release.",
+      "knownFacts": [
+        {
+          "claim": "The target range was unchanged at the September meeting.",
+          "evidence": "FOMC statement announces no change to the target range.",
+          "sources": [
+            {"name": "Federal Reserve FOMC Statement (demo)", "url": "https://example.com/fed/fomc-2026-09-04", "date": "2026-09-04"}
+          ]
+        },
+        {
+          "claim": "Two dissents favored easing, not tightening.",
+          "evidence": "Implementation note and minutes preview list Governors A and B dissenting for a 25 bp reduction.",
+          "sources": [
+            {"name": "FOMC implementation note (demo)", "url": "https://example.com/fed/impl-note-sep", "date": "2026-09-04"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "TickerPanic (demo)",
+          "pieceTitle": "Hawks seize Fed as twin dissents demand hikes",
+          "pieceUrl": "https://example.com/tickerpanic/hawk-dissents",
+          "claimMade": "The two dissents called for rate increases.",
+          "whyInaccurate": "Both recorded dissents sought a cut. Direction is inverted.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Main Street Macro (demo)",
+          "pieceTitle": "Fed admits recession has begun",
+          "pieceUrl": "https://example.com/msm/recession-admit",
+          "claimMade": "The statement declared the U.S. already in recession.",
+          "whyInaccurate": "The statement does not use 'recession' and cites mixed labor data; NBER has made no such dating.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "selective_emphasis",
+          "description": "Highlighting only the word 'sticky'",
+          "example": "Chyrons reading STICKY INFLATION FOREVER",
+          "howItMisleads": "Omits balancing language about cooling goods prices and gradual progress."
+        },
+        {
+          "type": "channel_presentation",
+          "description": "Red flashing graphics on a hold decision",
+          "example": "Siren overlays typically reserved for emergency cuts.",
+          "howItMisleads": "Visual urgency implies crisis action when policy was unchanged."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "state-edu-voucher",
+      "title": "[DEMO] Midwest state expands education savings accounts",
+      "summary": "Legislature raised ESA eligibility to 200% of median income; cost estimates diverge widely online.",
+      "tags": ["Education", "State Policy", "Budget"],
+      "overview": "The governor signed HB 318 expanding eligibility for education savings accounts. Fiscal notes project $210–280 million in year-one transfers depending on take-up. Demo statute.",
+      "knownFacts": [
+        {
+          "claim": "Eligibility rises from 150% to 200% of state median household income.",
+          "evidence": "Enrolled HB 318 §3 amends the income cap accordingly.",
+          "sources": [
+            {"name": "State legislature enrolled act (demo)", "url": "https://example.com/state/hb318-enrolled", "date": "2026-09-01"}
+          ]
+        },
+        {
+          "claim": "Official fiscal note midpoint estimate is about $245 million for FY2027.",
+          "evidence": "Legislative Budget Office table shows low/mid/high scenarios $210M / $245M / $280M.",
+          "sources": [
+            {"name": "LBO Fiscal Note (demo)", "url": "https://example.com/lbo/hb318-fn", "date": "2026-08-20"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Public Square Daily (demo)",
+          "pieceTitle": "Law defunds every public school overnight",
+          "pieceUrl": "https://example.com/psd/defund-overnight",
+          "claimMade": "HB 318 zeroes out public K–12 appropriations.",
+          "whyInaccurate": "The act expands an ESA program; the general K–12 formula appropriation remains in the separate education budget bill.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Choice Monitor (demo)",
+          "pieceTitle": "Expansion costs taxpayers almost nothing",
+          "pieceUrl": "https://example.com/choicemonitor/almost-nothing",
+          "claimMade": "Year-one cost is under $20 million.",
+          "whyInaccurate": "Even the low official scenario is $210 million; $20M understates by an order of magnitude.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "All-or-nothing school-destruction frame",
+          "example": "Empty classroom stock photos with 'THE END OF PUBLIC SCHOOLS'.",
+          "howItMisleads": "Turns an eligibility expansion into a claim of system abolition unsupported by the budget tables."
+        },
+        {
+          "type": "headline",
+          "description": "Minimizing fiscal impact",
+          "example": "\"Tiny Tweak, Huge Freedom\"",
+          "howItMisleads": "Softens a nine-figure fiscal note into a rounding error."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "climate-rule-pause",
+      "title": "[DEMO] EPA stays methane rule pending court review",
+      "summary": "Agency administrative stay pauses enforcement dates; activists and industry both overstated permanence.",
+      "tags": ["Environment", "Regulation", "Courts"],
+      "overview": "EPA issued an administrative stay delaying compliance deadlines for a subset of oil-and-gas methane standards while appellate briefing proceeds. The underlying rule is not vacated. Demo administrative action.",
+      "knownFacts": [
+        {
+          "claim": "The stay pauses specified compliance dates; it does not vacate the 2025 methane final rule.",
+          "evidence": "Federal Register notice states stay is temporary pending judicial review and preserves the rule text.",
+          "sources": [
+            {"name": "Federal Register notice (demo)", "url": "https://example.com/fr/epa-methane-stay", "date": "2026-09-02"}
+          ]
+        },
+        {
+          "claim": "Affected sources remain subject to preexisting NSPS requirements not covered by the stay.",
+          "evidence": "EPA FAQ lists which subparts remain in force.",
+          "sources": [
+            {"name": "EPA methane FAQ (demo)", "url": "https://example.com/epa/methane-faq-stay", "date": "2026-09-02"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Green Signal (demo)",
+          "pieceTitle": "EPA shreds methane protections forever",
+          "pieceUrl": "https://example.com/greensignal/shreds-forever",
+          "claimMade": "The agency permanently repealed the methane rule.",
+          "whyInaccurate": "An administrative stay is temporary and preserves the rule pending litigation; repeal requires separate notice-and-comment.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Energy Beacon (demo)",
+          "pieceTitle": "Court already killed the rule—EPA just admitting it",
+          "pieceUrl": "https://example.com/energybeacon/court-killed",
+          "claimMade": "A court vacated the rule and EPA is merely acknowledging that.",
+          "whyInaccurate": "No vacatur order exists yet; the stay is an agency pause during ongoing review.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "selective_emphasis",
+          "description": "Equating stay with repeal",
+          "example": "Timelines labeled 'RULE DEAD' on day one of the stay.",
+          "howItMisleads": "Collapses temporary procedure into permanent policy change."
+        },
+        {
+          "type": "image",
+          "description": "Flames vs. pristine prairie dichotomy",
+          "example": "Split imagery implying immediate environmental catastrophe or total deregulation.",
+          "howItMisleads": "Emotional extremes replace the actual procedural status."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "house-ethics-referral",
+      "title": "[DEMO] House Ethics Committee refers member for review",
+      "summary": "Bipartisan referral cites gift-rule questions; viral posts alleged both exoneration and indictment.",
+      "tags": ["Congress", "Ethics", "Accountability"],
+      "overview": "The House Committee on Ethics announced a bipartisan referral of Rep. Jordan Hale (demo) to the Office of Congressional Conduct for further review of travel and gift disclosures. No criminal charges were filed. Demo ethics matter.",
+      "knownFacts": [
+        {
+          "claim": "The committee vote to refer was bipartisan.",
+          "evidence": "Committee release states the motion carried with members of both parties voting yes.",
+          "sources": [
+            {"name": "House Ethics press release (demo)", "url": "https://example.com/ethics/hale-referral", "date": "2026-09-03"}
+          ]
+        },
+        {
+          "claim": "Referral is an investigative step, not a finding of guilt.",
+          "evidence": "Committee rules describe referrals as initiating further inquiry without adjudicating violations.",
+          "sources": [
+            {"name": "Ethics Committee Rulebook excerpt (demo)", "url": "https://example.com/ethics/rules-referral", "date": "2024-01-15"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "PartyLine Now (demo)",
+          "pieceTitle": "Hale cleared of all wrongdoing",
+          "pieceUrl": "https://example.com/partyline/hale-cleared",
+          "claimMade": "The committee fully exonerated the member.",
+          "whyInaccurate": "A referral for further review is the opposite of clearance; no exoneration letter was issued.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Hammer Feed (demo)",
+          "pieceTitle": "DOJ indictment imminent after ethics bombshell",
+          "pieceUrl": "https://example.com/hammer/indictment-imminent",
+          "claimMade": "Federal prosecutors have already drafted an indictment.",
+          "whyInaccurate": "No DOJ announcement, charging document, or confirmed investigation timeline accompanies the House referral.",
+          "severity": "misleading"
+        },
+        {
+          "outlet": "District Voice (demo)",
+          "pieceTitle": "Only the other party wanted this probe",
+          "pieceUrl": "https://example.com/districtvoice/only-other-party",
+          "claimMade": "Referral was a purely partisan strike.",
+          "whyInaccurate": "The committee stated the referral vote included members of both parties.",
+          "severity": "omission"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Binary cleared-vs-indicted frame",
+          "example": "Hot takes ignoring the intermediate 'further review' status.",
+          "howItMisleads": "Forces audiences into certainty when the process is early-stage."
+        },
+        {
+          "type": "channel_presentation",
+          "description": "Countdown clocks to arrest",
+          "example": "Chyrons with ticking 'INDICTMENT WATCH'.",
+          "howItMisleads": "Invented urgency for a House process with no announced criminal timetable."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "trade-tariff-pause",
+      "title": "[DEMO] USTR announces 90-day tariff exclusion window",
+      "summary": "Limited exclusions for specific industrial inputs; social media claimed a total trade-war surrender.",
+      "tags": ["Trade", "Economy", "White House"],
+      "overview": "USTR opened a 90-day window for firms to request exclusions on a defined list of intermediate goods. Baseline tariff schedules otherwise remain. Demo trade notice.",
+      "knownFacts": [
+        {
+          "claim": "The exclusion process covers a published HTS list, not all tariffs.",
+          "evidence": "USTR notice annex lists specific Harmonized Tariff Schedule codes eligible for requests.",
+          "sources": [
+            {"name": "USTR Federal Register notice (demo)", "url": "https://example.com/ustr/exclusion-window", "date": "2026-09-01"}
+          ]
+        },
+        {
+          "claim": "Approvals are case-by-case and time-limited.",
+          "evidence": "Notice states grants last up to 12 months and require product-specific justifications.",
+          "sources": [
+            {"name": "USTR FAQ (demo)", "url": "https://example.com/ustr/exclusion-faq", "date": "2026-09-01"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Sovereignty Watch (demo)",
+          "pieceTitle": "White House scraps all China tariffs",
+          "pieceUrl": "https://example.com/sovwatch/scraps-all",
+          "claimMade": "Every tariff on Chinese goods was eliminated.",
+          "whyInaccurate": "Only a narrow exclusion-request window opened; schedules remain unless individual exclusions are granted.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Global Markets Brief (demo)",
+          "pieceTitle": "Exclusions automatically approved for all applicants",
+          "pieceUrl": "https://example.com/gmb/auto-approve",
+          "claimMade": "Filing guarantees approval.",
+          "whyInaccurate": "The process is discretionary and product-specific; auto-approval is not stated.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "headline",
+          "description": "Total surrender language",
+          "example": "\"TRADE WAR OVER\"",
+          "howItMisleads": "Converts a procedural exclusion window into a wholesale policy reversal."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Highlighting lobbyist quotes over the annex",
+          "example": "Segments featuring only advocates predicting blanket relief.",
+          "howItMisleads": "Crowds out the actual limited HTS list readers need to judge scope."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "vaccine-advisory-update",
+      "title": "[DEMO] CDC advisory panel tweaks fall vaccine guidance",
+      "summary": "ACIP narrowed a recommendation for one age band; viral posts claimed vaccines were 'banned.'",
+      "tags": ["Public Health", "CDC", "Science"],
+      "overview": "ACIP voted to adjust fall respiratory-vaccine guidance for healthy adults ages 18–29, shifting from universal routine recommendation to shared clinical decision-making in that band only. Other age groups unchanged. Demo advisory update.",
+      "knownFacts": [
+        {
+          "claim": "The change applies to healthy adults 18–29; high-risk individuals in that band retain a routine recommendation.",
+          "evidence": "ACIP summary and CDC MMWR draft language carve out high-risk conditions.",
+          "sources": [
+            {"name": "ACIP meeting summary (demo)", "url": "https://example.com/cdc/acip-sep-2026", "date": "2026-09-04"},
+            {"name": "CDC MMWR early release (demo)", "url": "https://example.com/cdc/mmwr-vac-fall", "date": "2026-09-05"}
+          ]
+        },
+        {
+          "claim": "Vaccines remain authorized and available for the affected age band.",
+          "evidence": "FDA authorizations and CDC vaccine pages show no revocation; pharmacies continue offering doses.",
+          "sources": [
+            {"name": "FDA authorization letter (demo)", "url": "https://example.com/fda/auth-fall-vac", "date": "2026-08-15"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "PureHealth Channel (demo)",
+          "pieceTitle": "CDC bans vaccines for adults under 30",
+          "pieceUrl": "https://example.com/purehealth/bans-under-30",
+          "claimMade": "Vaccination is prohibited for people under 30.",
+          "whyInaccurate": "Shared clinical decision-making is not a ban; products remain available and recommended for high-risk adults in the band.",
+          "severity": "false"
+        },
+        {
+          "outlet": "City Clinic Blog (demo)",
+          "pieceTitle": "Nothing changed—ignore the headlines",
+          "pieceUrl": "https://example.com/cityclinic/nothing-changed",
+          "claimMade": "ACIP made no material change to guidance.",
+          "whyInaccurate": "The recommendation category for healthy 18–29 adults did change; denying any change omits the vote's substance.",
+          "severity": "omission"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "headline",
+          "description": "Ban language for a recommendation tweak",
+          "example": "\"VACCINES BANNED FOR YOUNG ADULTS\"",
+          "howItMisleads": "Equates advisory nuance with prohibition."
+        },
+        {
+          "type": "framing",
+          "description": "All-ages panic vs. total denial",
+          "example": "Opposite camps either claiming universal withdrawal or zero change.",
+          "howItMisleads": "Polarizes audiences away from the actual age-band-specific update."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "city-housing-upzone",
+      "title": "[DEMO] Major city council passes transit-corridor upzoning",
+      "summary": "Ordinance raises height limits near rail; both 'luxury-only' and 'neighborhood destruction' claims overreached.",
+      "tags": ["Housing", "Cities", "Local Government"],
+      "overview": "The city council adopted Ordinance 612 raising allowable heights and density along designated transit corridors, with inclusionary set-asides. Implementation begins in Q1 2027. Demo local ordinance.",
+      "knownFacts": [
+        {
+          "claim": "The ordinance requires 15% below-market units in projects over 50 units in the upzoned overlay.",
+          "evidence": "Ord. 612 §7 sets the inclusionary percentage and project-size threshold.",
+          "sources": [
+            {"name": "City Clerk ordinance text (demo)", "url": "https://example.com/city/ord-612", "date": "2026-09-02"}
+          ]
+        },
+        {
+          "claim": "Single-family zones outside the corridor overlay are unchanged.",
+          "evidence": "Zoning map annex shades only parcels within ½ mile of listed transit stops.",
+          "sources": [
+            {"name": "Planning dept. map annex (demo)", "url": "https://example.com/city/ord-612-map", "date": "2026-09-02"}
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Neighborhood Sentinel (demo)",
+          "pieceTitle": "City erases all single-family neighborhoods",
+          "pieceUrl": "https://example.com/nsentinel/erase-sfh",
+          "claimMade": "Citywide single-family zoning is abolished.",
+          "whyInaccurate": "Changes apply only inside the transit overlay; most residential parcels retain prior zoning.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Urbanist Daily (demo)",
+          "pieceTitle": "Law guarantees affordable homes for every applicant",
+          "pieceUrl": "https://example.com/urbanist/guarantees-every",
+          "claimMade": "Anyone who applies will receive a below-market unit.",
+          "whyInaccurate": "Inclusionary set-asides create a limited share of units with eligibility screens—not an entitlement for every applicant.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "image",
+          "description": "Photoshopped skyscraper invasions of bungalow streets",
+          "example": "Composite images of 40-story towers on quiet cul-de-sacs outside the overlay.",
+          "howItMisleads": "Depicts intensity and geography the ordinance does not authorize."
+        },
+        {
+          "type": "framing",
+          "description": "Luxury-only vs. utopia binary",
+          "example": "Coverage that ignores the 15% set-aside or treats it as universal housing.",
+          "howItMisleads": "Pushes readers toward absolute conclusions unsupported by the text."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Spotlighting one controversial parcel",
+          "example": "Looping footage of a single historic block as if it represents the whole city.",
+          "howItMisleads": "Anecdote substitutes for the mapped corridor scope."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "editionDate": "2026-09-05",
+  "title": "Friday Truth Brief — Week of September 5, 2026",
+  "isDemo": false,
+  "methodology": "Coverage window: Monday, September 1 through Sunday, September 7, 2026 (Labor Day week), with editionDate set to that Friday (2026-09-05). Ranked by documented national political salience using primary records (House Clerk roll calls, Congress.gov bill actions, agency press releases, court opinions) and on-record wire/major-outlet reporting. Known facts cite named sources with URLs and dates. Misrepresentations appear only when a specific published claim can be checked against a documented record; otherwise the section is empty. Narrative notes describe framing visible in real headlines or ledes—not unverified allegations of lying. Editorial prototype brief for Cory Brewer: readers should verify linked sources. Not a substitute for primary documents.",
+  "stories": [
+    {
+      "rank": 1,
+      "id": "cr-funding-hr6500",
+      "title": "House clears stopgap funding; Trump signs Continuing Appropriations Act",
+      "summary": "H.R. 6500 passed the House 370–48 on Sept. 1 and became Public Law 119-103 on Sept. 2, funding agencies through Dec. 11 ahead of the midterms.",
+      "tags": [
+        "Congress",
+        "Budget",
+        "White House"
+      ],
+      "overview": "Facing a Sept. 30 fiscal-year cliff and three prior partial shutdowns this Congress totaling 161 days (per Reuters), leaders moved early. The Senate had already passed the Continuing Appropriations and Extensions Act, 2027, 90–6 on Aug. 8. On Sept. 1 the House concurred in the Senate amendments 370–48 under suspension (Roll Call 286). President Trump signed the measure the next day, extending funding through Dec. 11 so campaigns could proceed without a fourth shutdown fight.",
+      "knownFacts": [
+        {
+          "claim": "The House agreed to the Senate amendments to H.R. 6500 by 370–48 on Sept. 1, 2026 (Roll Call 286).",
+          "evidence": "House Clerk roll call lists yeas 370, nays 48; party breakdown shows 193 Republican and 176 Democratic yeas, with 19 Republican and 29 Democratic nays.",
+          "sources": [
+            {
+              "name": "U.S. House Clerk — Roll Call 286",
+              "url": "https://clerk.house.gov/Votes/2026286",
+              "date": "2026-09-01"
+            },
+            {
+              "name": "Congress.gov — H.R. 6500 actions",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/6500/all-actions",
+              "date": "2026-09-02"
+            }
+          ]
+        },
+        {
+          "claim": "The bill became Public Law 119-103 on Sept. 2, 2026, after presentation to the president.",
+          "evidence": "Congress.gov action history records 'Became Public Law No: 119-103' on 2026-09-02; Reuters reported the White House said Trump signed the funding bill that day.",
+          "sources": [
+            {
+              "name": "Congress.gov — H.R. 6500 all actions",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/6500/all-actions",
+              "date": "2026-09-02"
+            },
+            {
+              "name": "Reuters — Trump signs bill to avert shutdown",
+              "url": "https://www.reuters.com/legal/government/trump-signs-bill-avert-government-shutdown-before-midterm-elections-2026-09-03/",
+              "date": "2026-09-02"
+            }
+          ]
+        },
+        {
+          "claim": "The stopgap funds federal agencies generally through Dec. 11 and followed a 90–6 Senate passage in August.",
+          "evidence": "Roll Call and congressional reporting describe funding through Dec. 11; Senate Record Vote 228 on Aug. 8 was 90–6. Roll Call coverage notes Senate-added anomalies (e.g., WIC flexibility, disaster/wildland fire funds, Olympic/housing items) and that the CR blocked a White House request for $1 billion to begin 'Trump-class' battleships while including other Navy shipbuilding acceleration language.",
+          "sources": [
+            {
+              "name": "Roll Call — Funding extension clears House",
+              "url": "https://rollcall.com/2026/09/01/funding-extension-clears-house-avoiding-shutdown-threat/",
+              "date": "2026-09-01"
+            },
+            {
+              "name": "Congressional Record highlights (Aug. 7–8 Senate passage)",
+              "url": "https://www.govinfo.gov/content/pkg/CREC-2026-08-07/html/CREC-2026-08-07-pt1-PgD823.htm",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Coverage framed the vote primarily as midterm risk-management rather than as appropriations policy.",
+          "example": "CNN headline/lede: 'Congress votes to avert government shutdown ahead of midterm elections' emphasizing campaign timing over the Dec. 11 cliff.",
+          "howItMisleads": "Accurate on motive reported by members, but can obscure substantive CR contents (Border Patrol transfer limits, OMB grant-rule delay, shipbuilding anomalies) that will return in December negotiations."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Some hard-right objections highlighted 'Senate changes' without noting the bipartisan floor margin.",
+          "example": "Fox News Digital reporting on the procedural rule fight noted five Republican 'no' votes on the rule over Senate CR changes even as the CR itself passed 370–48.",
+          "howItMisleads": "Emphasizing intraparty procedural drama can imply the funding bill itself lacked broad support when the recorded roll call was overwhelmingly bipartisan."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "midterm-sprint-trump-approval",
+      "title": "Labor Day midterm sprint opens with Trump at 33% and a Dallas GOP convention ahead",
+      "summary": "Reuters/Ipsos held Trump at 33% approval for a third straight survey; Democrats led on enthusiasm and among independents as Republicans prepared an unusual midterm convention in Dallas.",
+      "tags": [
+        "Elections",
+        "Polling",
+        "RNC"
+      ],
+      "overview": "As the unofficial final campaign stretch began around Labor Day, multiple outlets treated presidential approval and chamber control forecasts as the week's defining political weather. A Reuters/Ipsos poll completed Aug. 31 kept Trump at 33% approval—tied for his career low in that series—while showing higher Democratic enthusiasm and an independent preference for Democrats on the generic ballot. Party officials previewed a first-of-its-kind RNC midterm convention in Dallas featuring Trump both nights.",
+      "knownFacts": [
+        {
+          "claim": "A Reuters/Ipsos poll of 1,167 U.S. adults (Aug. 28–31; MoE ±3 points) found 33% approve of Trump’s job performance—the third consecutive Reuters/Ipsos survey at that level.",
+          "evidence": "Reuters reported the 33% figure, 46% of Democrats vs 31% of Republicans 'very enthusiastic' about November voting, independents 36% Democratic / 22% Republican on the congressional ballot, and 71% disapproval of Trump’s handling of cost of living (including four in 10 Republicans).",
+          "sources": [
+            {
+              "name": "Reuters — Trump approval stuck at 33%",
+              "url": "https://www.reuters.com/world/us/trumps-approval-stuck-33-democrats-appear-more-fired-up-midterms-reutersipsos-2026-08-31/",
+              "date": "2026-08-31"
+            },
+            {
+              "name": "Newsweek summary of midterm polling",
+              "url": "https://www.newsweek.com/midterm-polling-2-months-before-election-day-12391551",
+              "date": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "claim": "Cornell political scientists’ midterm forecast released Sept. 3 gave Democrats roughly an 8-in-10 chance of a House majority (~226–209 seat point estimate).",
+          "evidence": "Cornell Chronicle reported the APSA meeting release by Peter Enns et al., based on data collected at least 100 days before the Nov. 3 election, with simulation ranges noted.",
+          "sources": [
+            {
+              "name": "Cornell Chronicle — Midterm forecast favors Democrats for House",
+              "url": "https://news.cornell.edu/stories/2026/09/midterm-forecast-strongly-favors-democrats-win-house-majority",
+              "date": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "claim": "Republicans scheduled a two-day midterm convention in Dallas with Trump speaking both nights and Vance, Cabinet officials, and key Senate nominees on the program.",
+          "evidence": "AP/WTOP and ABC News wire previews describe Trump keynote Wednesday and closing remarks Thursday after Vance; speakers listed include RFK Jr., Scott Bessent, Ken Paxton, and Mike Rogers.",
+          "sources": [
+            {
+              "name": "AP via WTOP — Trump wants voters to pretend he’s on the ballot",
+              "url": "https://wtop.com/us-politics/2026/09/trump-wants-voters-to-pretend-hes-on-the-ballot-the-republican-party-is-going-along-for-the-ride/",
+              "date": "2026-09-08"
+            },
+            {
+              "name": "ABC News — What to watch as Republicans gather in Dallas",
+              "url": "https://abcnews.com/Politics/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263972",
+              "date": "2026-09-07"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "selective_emphasis",
+          "description": "Some coverage treats a single pollster’s 33% as the sole approval number without noting other surveys of likely voters sitting higher.",
+          "example": "Newsweek juxtaposes Reuters/Ipsos adults at 33% with Emerson likely voters nearer 40% approve / 56% disapprove, cautioning against direct trend comparison.",
+          "howItMisleads": "Omitting sample differences (adults vs likely voters) can make approval look uniformly catastrophic or uniformly stable depending on which number is chosen."
+        },
+        {
+          "type": "framing",
+          "description": "Convention previews frame the event as Trump nationalizing the midterms around himself.",
+          "example": "AP/WTOP: 'Trump wants voters to pretend he’s on the ballot. The Republican Party is going along for the ride.'",
+          "howItMisleads": "Highlights a real strategic choice, but can underweight down-ballot candidate quality, redistricting, and local issues that still decide individual races."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "missouri-redistricting-referendum",
+      "title": "Missouri Supreme Court blocks 2025 congressional map; puts referendum on November ballot",
+      "summary": "A unanimous Sept. 3 ruling held HB 1 never took effect, restored the 2022 map for November, and ordered Proposition A onto the ballot; state officials vowed a U.S. Supreme Court appeal.",
+      "tags": [
+        "Elections",
+        "Redistricting",
+        "Courts"
+      ],
+      "overview": "At President Trump’s urging in 2025, Missouri Republicans redrew congressional lines targeting Democrat Emanuel Cleaver’s Kansas City seat. After opponents submitted a referendum petition, Secretary of State Denny Hoskins refused ballot placement. On Sept. 3 the Missouri Supreme Court unanimously reversed, holding the petition legal and timely, enjoining use of the 2025 map for the Nov. 3 general election, and ordering the 2022 districts used unless voters approve HB 1.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 3, 2026, the Supreme Court of Missouri unanimously held the referendum petition legal, sufficient, and timely, so HB 1 never took effect.",
+          "evidence": "Opinion summary: because the petition was timely, HB 1 was referred as of Dec. 9, 2025; 2022 districts remain in force for November 2026 unless voters approve HB 1; secretary ordered to certify the petition and place it on the ballot before Sept. 8.",
+          "sources": [
+            {
+              "name": "Missouri Supreme Court opinion SC101805 (PDF via Election Law Blog)",
+              "url": "https://electionlawblog.org/wp-content/uploads/Opinion_SC101805.pdf",
+              "date": "2026-09-03"
+            },
+            {
+              "name": "Missouri Independent — Court blocks map, orders referendum",
+              "url": "https://missouriindependent.com/2026/09/03/missouri-supreme-court-blocks-gerrymandered-congressional-map-orders-referendum-vote/",
+              "date": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "claim": "The referendum will appear as Proposition A; a Yes vote enacts the 2025 map, a No vote rejects it.",
+          "evidence": "Missouri Independent quotes the ballot question text referencing House Bill No. 1 (2025 Second Extraordinary Session) and notes People Not Politicians will urge No.",
+          "sources": [
+            {
+              "name": "Missouri Independent — Proposition A ballot language",
+              "url": "https://missouriindependent.com/2026/09/03/missouri-supreme-court-blocks-gerrymandered-congressional-map-orders-referendum-vote/",
+              "date": "2026-09-03"
+            },
+            {
+              "name": "STLPR — Court puts referendum on ballot",
+              "url": "https://www.stlpr.org/government-politics-issues/2026-09-03/missouri-supreme-court-referendum-congressional-map",
+              "date": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "claim": "Attorney General Catherine Hanaway said the state would immediately seek relief from the U.S. Supreme Court.",
+          "evidence": "Quoted in Missouri Independent news release reaction: 'Our office will move immediately to seek relief from (the United States Supreme Court).'",
+          "sources": [
+            {
+              "name": "Missouri Independent — AG appeal vow",
+              "url": "https://missouriindependent.com/2026/09/03/missouri-supreme-court-blocks-gerrymandered-congressional-map-orders-referendum-vote/",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Partisan labels in headlines ('win for Democrats' vs 'constitutional crisis') outran the narrow legal holding.",
+          "example": "NYT: 'Missouri Supreme Court Delivers Win for Democrats in Redistricting Case' versus Secretary Hoskins calling the ruling a 'constitutional crisis.'",
+          "howItMisleads": "The opinion turns on state referendum procedure and whether HB 1 ever took effect—not a federal partisan scoreboard—yet campaign framing invites readers to treat a statutory/constitutional ruling as pure team victory/defeat."
+        },
+        {
+          "type": "headline",
+          "description": "Social-media summary from Trump emphasized 'changing the maps back' without the referendum mechanism.",
+          "example": "Missouri Independent quotes Trump saying the court 'ridiculously ruled in favor of changing the maps back to what they were a long time ago.'",
+          "howItMisleads": "Omits that voters still decide Proposition A; the court restored the prior map pending that vote rather than permanently 'changing maps back' by judicial fiat alone."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "iran-war-midterm-calendar",
+      "title": "White House aides push to keep Iran war 'quiet' until after November 3",
+      "summary": "Reuters reported internal discussions to contain escalation before midterms even as tit-for-tat strikes continued and Trump publicly threatened harder retaliation.",
+      "tags": [
+        "Foreign Policy",
+        "Iran",
+        "White House"
+      ],
+      "overview": "Entering a seventh month of U.S.-Israel conflict with Iran that began with attacks on Feb. 28, senior aides told Reuters they want relative quiet until the midterms while leaning on economic pressure—then possibly reconsider kinetic options after Nov. 3. Public polling showed deep disapproval; overnight exchanges and Trump’s Truth Social threats underscored how fragile any pause is.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 2, Reuters reported four people familiar with discussions saying top Trump aides are pushing to limit escalation before the midterms; White House officials said they would consider ramping up after Nov. 3.",
+          "evidence": "Named Reuters reporters (Bose, Pamuk, Slattery) cite anonymous officials including the line 'November is a priority' and note Vance and Rubio among those favoring relative quiet; White House spokeswoman Olivia Wales statement emphasized pressure and blockade without confirming an election-timed pause.",
+          "sources": [
+            {
+              "name": "Reuters via SRN — Trump aides seek quiet in Iran war",
+              "url": "https://srnnews.com/trump-aides-fearing-a-midterm-rout-push-to-keep-iran-war-quiet-for-now/",
+              "date": "2026-09-02"
+            },
+            {
+              "name": "Al Jazeera — Why US midterms could be pivotal for Iran war",
+              "url": "https://www.aljazeera.com/news/2026/09/04/iran-war-why-us-midterms-could-be-a-pivotal-moment",
+              "date": "2026-09-04"
+            }
+          ]
+        },
+        {
+          "claim": "A late-August Reuters/Ipsos poll cited in the same reporting found about 31% approve and 63% disapprove of the war; another Reuters/Ipsos cut showed 36% approve of the war.",
+          "evidence": "SRN/Reuters Iran piece cites 31%/63%; Aug. 31 Reuters approval story cites 36% approve of the war and links gas-price discontent to the conflict since February bombing began.",
+          "sources": [
+            {
+              "name": "Reuters via SRN — war approval figures",
+              "url": "https://srnnews.com/trump-aides-fearing-a-midterm-rout-push-to-keep-iran-war-quiet-for-now/",
+              "date": "2026-09-02"
+            },
+            {
+              "name": "Reuters — approval poll with Iran war figure",
+              "url": "https://www.reuters.com/world/us/trumps-approval-stuck-33-democrats-appear-more-fired-up-midterms-reutersipsos-2026-08-31/",
+              "date": "2026-08-31"
+            }
+          ]
+        },
+        {
+          "claim": "Trump publicly threatened escalation if Iran retaliated for recent U.S. strikes, while also saying elections were not factoring into strategy.",
+          "evidence": "Reuters quotes his Truth Social post threatening a 'much harder and higher level' response and notes his public denial that elections drive Iran strategy, contrasting anonymous aides’ calendar comments.",
+          "sources": [
+            {
+              "name": "Reuters via SRN — Trump Truth Social threat quoted",
+              "url": "https://srnnews.com/trump-aides-fearing-a-midterm-rout-push-to-keep-iran-war-quiet-for-now/",
+              "date": "2026-09-02"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "channel_presentation",
+          "description": "Official messaging stresses crushing pressure and capability; anonymous sourcing stresses electoral calendar constraints.",
+          "example": "Wales statement that Trump 'destroyed Iran’s military capabilities' and maintains a 'most powerful naval blockade' versus aides telling Reuters 'the calendar is driving Iran.'",
+          "howItMisleads": "Audiences hearing only one channel miss the documented tension between public maximalism and reported private de-escalation preferences."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "russia-sanctions-house-stall",
+      "title": "Senate-passed Russia sanctions package stalls in the House over tariff powers",
+      "summary": "Speaker Johnson cast doubt on a pre-election floor vote for the Graham-championed sanctions bill amid Democratic and some GOP concerns about 100% tariffs and energy prices.",
+      "tags": [
+        "Congress",
+        "Foreign Policy",
+        "Sanctions"
+      ],
+      "overview": "H.R. 5334, the Lindsey O. Graham Sanctioning Russia and Iran Act, passed the Senate 86–11 in early August. During the House’s short September work period it did not advance. Reporting attributed the stall to worries that tariff authorities aimed at large buyers of Russian energy could raise fuel prices and expand presidential trade powers Democrats already contest in court.",
+      "knownFacts": [
+        {
+          "claim": "The Senate passed H.R. 5334, the Lindsey O. Graham Sanctioning Russia and Iran Act, 86–11 (Vote 224) around Aug. 7–8, 2026.",
+          "evidence": "Congressional Record Daily Digest highlights list Senate passage by 86 yeas to 11 nays as Vote No. 224.",
+          "sources": [
+            {
+              "name": "Congressional Record Daily Digest — Aug. 7, 2026",
+              "url": "https://www.govinfo.gov/content/pkg/CREC-2026-08-07/html/CREC-2026-08-07-pt1-PgD823.htm",
+              "date": "2026-08-07"
+            }
+          ]
+        },
+        {
+          "claim": "Speaker Mike Johnson said around Sept. 3–4 that a House vote before Nov. 3 was uncertain, citing Democratic opposition and 'pockets' of Republican concern.",
+          "evidence": "Bloomberg-syndicated and Times of India reporting quote Johnson that lawmakers 'believe in sanctioning Russia, but you have to have the right formula' and note limited floor days.",
+          "sources": [
+            {
+              "name": "Deseret News — Russia sanctions package hits a wall",
+              "url": "https://www.deseret.com/politics/2026/09/07/what-happens-to-russia-sanctions/",
+              "date": "2026-09-07"
+            },
+            {
+              "name": "Bloomberg via Hromadske — bill likely stalled until November",
+              "url": "https://hromadske.ua/en/world/270485-russia-sanctions-bill-likely-stalled-in-us-house-until-november-amid-tariff-concerns-bloomberg",
+              "date": "2026-09-04"
+            }
+          ]
+        },
+        {
+          "claim": "The legislation would authorize steep tariffs (reported as up to 100%) on major purchasers of Russian crude/gas and facilitators of sanctions evasion.",
+          "evidence": "Multiple secondary reports summarizing the Senate-passed text describe 100% tariff authority on the five largest buyers of Russian oil/gas and top evasion helpers; business groups’ opposition over consumer energy prices is cited.",
+          "sources": [
+            {
+              "name": "Bloomberg via Hromadske — tariff provisions summary",
+              "url": "https://hromadske.ua/en/world/270485-russia-sanctions-bill-likely-stalled-in-us-house-until-november-amid-tariff-concerns-bloomberg",
+              "date": "2026-09-04"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "International coverage framed the stall as a 'breather' for India and other Russian oil buyers.",
+          "example": "Times of India: 'Breather for India? Trump’s Russia sanctions bill may be stalled for now; could have led to 100% tariffs.'",
+          "howItMisleads": "Accurate on trade exposure, but can imply the bill is dead rather than delayed pending post-election House math and text changes Johnson said were still being worked."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "drug-pricing-mfn-deals",
+      "title": "White House announces nine more Medicaid most-favored-nation drug deals",
+      "summary": "On Aug. 31 Trump said new pharma agreements bring Americans 'the lowest price' paid abroad; TIME and experts noted the deals mainly affect Medicaid and that cash prices on TrumpRx remain higher than overseas.",
+      "tags": [
+        "Health",
+        "White House",
+        "Economy"
+      ],
+      "overview": "At an Oval Office event, the administration said nine mid-sized manufacturers joined prior MFN agreements (total 26 companies), covering claims of 90% of drugs used by Americans for Medicaid pricing matched to comparable countries, with some TrumpRx.gov cash offerings and tariff relief tied to U.S. production moves. Independent analysis stressed limited near-term help for most insured patients.",
+      "knownFacts": [
+        {
+          "claim": "On Aug. 31, 2026, the administration announced MFN deals with nine companies including Alcon, Astellas, BeOne, BridgeBio, CSL, Kyowa Kirin, Sun Pharma, Teva, and UCB, raising the total to 26.",
+          "evidence": "TIME lists the nine firms and the cumulative total; Reuters lists overlapping companies (Astellas, BeOne, CSL, BridgeBio, Sun, UCB, Teva) from the Oval Office event.",
+          "sources": [
+            {
+              "name": "TIME — What Trump's MFN deal means for drug prices",
+              "url": "https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/",
+              "date": "2026-09-01"
+            },
+            {
+              "name": "Reuters — drug pricing deals announced",
+              "url": "https://www.reuters.com/legal/litigation/trump-administration-announce-drug-pricing-deals-2026-08-31/",
+              "date": "2026-08-31"
+            }
+          ]
+        },
+        {
+          "claim": "Trump stated at the press conference: 'We now pay the lowest price paid by other countries anywhere in the world.'",
+          "evidence": "Direct quotation in TIME’s Sept. 1 report of the Aug. 31 event.",
+          "sources": [
+            {
+              "name": "TIME — Trump quotation on lowest prices",
+              "url": "https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/",
+              "date": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "claim": "Health-policy experts quoted by TIME said the main near-term benefit is fiscal for Medicaid, not broad retail price cuts for most patients; a JAMA research letter estimated ~$8.6B annual Medicaid savings from the first 17 company deals.",
+          "evidence": "TIME quotes Luca Maini (Harvard) that the main benefit is program fiscal health; cites Hwang et al. JAMA letter on $8.6B estimate and notes NYT reporting that TrumpRx cash prices remain far higher than overseas.",
+          "sources": [
+            {
+              "name": "TIME — expert analysis of MFN scope",
+              "url": "https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/",
+              "date": "2026-09-01"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "White House / President Trump (Aug. 31 remarks as quoted by TIME)",
+          "pieceTitle": "Oval Office announcement on most-favored-nation drug deals",
+          "pieceUrl": "https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/",
+          "claimMade": "'We now pay the lowest price paid by other countries anywhere in the world.'",
+          "whyInaccurate": "The documented deals target Medicaid MFN pricing (and limited TrumpRx cash offers). TIME reports experts saying most patients will not see changed costs, and cites New York Times reporting that U.S. consumers still pay much higher prices on TrumpRx than consumers abroad. Presenting Medicaid-reference deals as Americans writ large now paying the global lowest price overstates the scope.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Administration visuals of executives behind the president signal industry buy-in as consumer victory.",
+          "example": "TIME photo caption and lede emphasizing Oval Office pharma executives standing behind Trump during the price announcement.",
+          "howItMisleads": "Corporate photo-ops imply immediate patient savings when the contractual beneficiaries are primarily state/federal Medicaid budgets."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "house-scotus-size-amendment",
+      "title": "House rejects constitutional amendment to lock Supreme Court at nine justices",
+      "summary": "A Biggs-sponsored amendment failed 212–206 on Sept. 2—far short of the two-thirds needed—as Republicans used a messaging vote to spotlight Democratic openness to a 13-justice court.",
+      "tags": [
+        "Congress",
+        "Supreme Court",
+        "Elections"
+      ],
+      "overview": "With few legislative days left before Nov. 3, House GOP leaders queued messaging votes. The proposed amendment would constitutionalize a nine-justice Court. It failed on a near party-line tally well below the Article V threshold; even passage would have required two-thirds in the Senate and ratification by 38 states.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 2, 2026, the House voted 212–206 on the joint resolution—short of the two-thirds majority required for a constitutional amendment.",
+          "evidence": "Reuters and NBC News report the 212–206 result; CBS and Deseret note near party-line alignment (NBC: all but one Democrat opposed).",
+          "sources": [
+            {
+              "name": "Reuters — Democrats sink bid to cap Court at nine",
+              "url": "https://www.reuters.com/legal/government/democrats-sink-republican-bid-cement-us-supreme-courts-conservative-majority-2026-09-02/",
+              "date": "2026-09-02"
+            },
+            {
+              "name": "NBC News — Democrats block amendment",
+              "url": "https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736",
+              "date": "2026-09-02"
+            }
+          ]
+        },
+        {
+          "claim": "The Constitution does not fix the number of justices; the Court has had nine seats since 1869 after historical fluctuations.",
+          "evidence": "Reuters explainers in the same story recount historical size changes and FDR’s failed 1937 expansion effort.",
+          "sources": [
+            {
+              "name": "Reuters — historical court size context",
+              "url": "https://www.reuters.com/legal/government/democrats-sink-republican-bid-cement-us-supreme-courts-conservative-majority-2026-09-02/",
+              "date": "2026-09-02"
+            },
+            {
+              "name": "CBS News — House rejects GOP amendment",
+              "url": "https://www.cbsnews.com/news/house-supreme-court-constitutional-amendment-vote/",
+              "date": "2026-09-02"
+            }
+          ]
+        },
+        {
+          "claim": "Speaker Johnson called defending Court 'integrity' non-controversial; Rep. Jamie Raskin called the vote a partisan power grab amid war, inflation, and debt.",
+          "evidence": "Quoted in Reuters post-vote coverage.",
+          "sources": [
+            {
+              "name": "Reuters — Johnson and Raskin statements",
+              "url": "https://www.reuters.com/legal/government/democrats-sink-republican-bid-cement-us-supreme-courts-conservative-majority-2026-09-02/",
+              "date": "2026-09-02"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "headline",
+          "description": "Wire headlines emphasized cementing a conservative majority rather than the formal amendment mechanics.",
+          "example": "Reuters: 'Democrats sink Republican bid to cement US Supreme Court's conservative majority.'",
+          "howItMisleads": "The amendment would lock seat count regardless of which party later holds the presidency; 'cement majority' framing is campaign-true as motive but not what the constitutional text would enact."
+        },
+        {
+          "type": "framing",
+          "description": "NRCC/GOP messaging cast a No vote as proof Democrats want a 'socialist hellscape.'",
+          "example": "NBC quotes NRCC spokesman Mike Marinella: give Democrats power and they’ll transform America into an 'unrecognizable socialist hellscape.'",
+          "howItMisleads": "Equates opposition to relinquishing Congress’s historical power to set Court size with an affirmative socialist governing program."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "house-socialism-resolution",
+      "title": "House adopts nonbinding resolution condemning socialism and urging the SAVE America Act",
+      "summary": "H. Res. 1490 passed 220–192–2 on Sept. 1; eight Democrats joined Republicans. Leadership Democrats opposed it chiefly over voter-ID language, not capitalism vs socialism as such.",
+      "tags": [
+        "Congress",
+        "Elections",
+        "Messaging"
+      ],
+      "overview": "In a classic midterm messaging exercise, the House adopted H. Res. 1490 condemning socialism 'in all its forms,' including the DSA, while also calling for enactment of the SAVE America Act. The rule barely advanced after five Republicans rebelled and Democrats Jared Golden and Marie Gluesenkamp Perez supplied the margin—prompting a caucus 'breach of trust' statement from Jeffries’s leadership team.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 1, 2026, the House agreed to H. Res. 1490 by 220 yeas, 192 nays, 2 present (Roll Call 289).",
+          "evidence": "House Clerk roll call: Republicans 211–0; Democrats 8–192 with 2 present; 1 Independent yea.",
+          "sources": [
+            {
+              "name": "U.S. House Clerk — Roll Call 289",
+              "url": "https://clerk.house.gov/Votes/2026289",
+              "date": "2026-09-01"
+            },
+            {
+              "name": "Congress.gov — H.Res.1490 text/status",
+              "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1490/text",
+              "date": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "claim": "House Minority Leader Hakeem Jeffries said he opposed the resolution because it 'explicitly calls for enactment of the so-called SAVE America Act.'",
+          "evidence": "CBS News quotes Jeffries’s pre-vote statement tying opposition to the SAVE America Act and cost-of-living priorities.",
+          "sources": [
+            {
+              "name": "CBS News — House adopts resolution condemning socialism",
+              "url": "https://www.cbsnews.com/news/house-vote-condemns-socialism-supports-save-act/",
+              "date": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "claim": "Reps. Jared Golden and Marie Gluesenkamp Perez voted for the rule that unlocked the resolution after it nearly failed 209–208.",
+          "evidence": "Fox News Digital and CNBC report the 209–208 rule vote and subsequent leadership statement calling the move a 'significant breach of trust.'",
+          "sources": [
+            {
+              "name": "Fox News — Jeffries on breach of trust",
+              "url": "https://www.foxnews.com/politics/house-dems-overwhelmingly-reject-anti-socialism-resolution-moderates-defy-jeffries",
+              "date": "2026-09-02"
+            },
+            {
+              "name": "CNBC — House votes to condemn socialism",
+              "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+              "date": "2026-09-01"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Fox News",
+          "pieceTitle": "Jeffries, top House Democrats vote against resolution condemning socialism",
+          "pieceUrl": "https://www.foxnews.com/politics/house-dems-overwhelmingly-reject-anti-socialism-resolution-moderates-defy-jeffries",
+          "claimMade": "Headline and framing present leadership Democrats’ No votes primarily as opposition to condemning socialism.",
+          "whyInaccurate": "The roll call against H. Res. 1490 is real, but Jeffries’s on-record statement (CBS) centered on the resolution’s call to enact the SAVE America Act. Caucus Chair Pete Aguilar told CBS Democrats are capitalists and objected to adding a SAVE Act talking point. Treating the No as a clean pro-socialism signal omits the documented, stated rationale.",
+          "severity": "omission"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "headline",
+          "description": "Conservative outlets optimized 'Democrats refuse to condemn socialism' share text.",
+          "example": "Fox News headline focusing on Jeffries voting against a resolution 'condemning socialism.'",
+          "howItMisleads": "Collapses a multi-part messaging resolution (socialism + election provisions + SAVE Act) into a single culture-war binary."
+        },
+        {
+          "type": "framing",
+          "description": "Democratic leadership framed the measure as voter-suppression messaging rather than economic philosophy.",
+          "example": "Jeffries statement via CBS calling SAVE America Act the 'top legislative priority of far-right extremists' amid a cost-of-living crisis.",
+          "howItMisleads": "Can underplay that eight Democrats did vote Yes and that the resolution’s socialism clauses are not imaginary—even if nonbinding."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "cdl-trucking-fraud-crackdown",
+      "title": "DOT, DHS, and DOJ launch interagency crackdown on CDL school fraud",
+      "summary": "On Aug. 31 in Detroit, officials announced emergency removal of 110 CDL training providers, proposed removal of 160+ more, an HSI surge at 200+ schools, and a new Joint Task Force Crossroads of America.",
+      "tags": [
+        "Transportation",
+        "Immigration",
+        "DOJ"
+      ],
+      "overview": "Transportation Secretary Sean Duffy, DHS Secretary Markwayne Mullin, and DOJ partners cast commercial-driver training fraud—especially involving English-language proficiency failures—as a public-safety and immigration-enforcement priority. Primary agency releases quantify removals and investigations; political messaging heavily blamed the prior administration and 'sanctuary' policies.",
+      "knownFacts": [
+        {
+          "claim": "FMCSA announced emergency removal of more than 110 Entry-Level Driver Training providers linked to 5,000+ drivers later cited for English Language Proficiency failures.",
+          "evidence": "USDOT Aug. 31 press release details Action I emergency removals from the Training Provider Registry and the roadside-inspection matching methodology.",
+          "sources": [
+            {
+              "name": "U.S. DOT press release — trucking fraud crackdown",
+              "url": "https://www.transportation.gov/briefing-room/us-transportation-secretary-duffy-us-homeland-security-secretary-mullin-white-house",
+              "date": "2026-08-31"
+            },
+            {
+              "name": "DOJ OPA — Joint Task Force announcement",
+              "url": "https://www.justice.gov/opa/pr/us-attorneys-and-department-justice-join-departments-transportation-and-homeland-security",
+              "date": "2026-08-31"
+            }
+          ]
+        },
+        {
+          "claim": "A 40-state investigation of ~400 schools produced 160+ proposed removals; DOT said drivers from those schools were linked to 239 CMV-related fatalities.",
+          "evidence": "USDOT release Action II lists inadequate ranges, unlicensed instructors, missing records, and a 'classroom' claimed inside a school bus in a trailer; fatality linkage stated by the Department.",
+          "sources": [
+            {
+              "name": "U.S. DOT press release — investigation results",
+              "url": "https://www.transportation.gov/briefing-room/us-transportation-secretary-duffy-us-homeland-security-secretary-mullin-white-house",
+              "date": "2026-08-31"
+            }
+          ]
+        },
+        {
+          "claim": "HSI planned a synchronized Aug. 31 surge with Notices of Inspection at more than 200 driving schools across 23 SAC offices; DOJ formed Joint Task Force Crossroads of America covering IL/IN/MI/OH.",
+          "evidence": "USDOT and DOJ releases describe the surge and task force partners (USAOs plus DOT/FMCSA, FBI, DEA, HSI, ICE, ATF).",
+          "sources": [
+            {
+              "name": "U.S. DOT — HSI surge details",
+              "url": "https://www.transportation.gov/briefing-room/us-transportation-secretary-duffy-us-homeland-security-secretary-mullin-white-house",
+              "date": "2026-08-31"
+            },
+            {
+              "name": "DOJ — Crossroads of America task force",
+              "url": "https://www.justice.gov/opa/pr/us-attorneys-and-department-justice-join-departments-transportation-and-homeland-security",
+              "date": "2026-08-31"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Agency and Fox Business coverage folded ELP/training compliance into a broader 'illegal immigrant truckers' crime frame.",
+          "example": "Fox Business: 'The administration shut down hundreds of driving schools for granting licenses to illegal immigrants' (while also noting 110 emergency closures plus 160 proposed).",
+          "howItMisleads": "Training-provider registry removals for ELP-linked citations are not identical to proving each school 'granted licenses to illegal immigrants'; conflating categories inflates a single causal story."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Fatality counts are presented without clear causal versus correlational language in political soundbites.",
+          "example": "DOT states drivers certified by the 160+ schools are 'linked to' 239 fatalities; some officials’ rhetoric implies direct causation by immigration status alone.",
+          "howItMisleads": "'Linked to' training providers is weaker than 'caused by illegal alien drivers'; audiences may hear the stronger claim."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "save-voter-database-litigation",
+      "title": "Appeals court keeps block on overhauled DHS SAVE voter-check system",
+      "summary": "On Sept. 5 the D.C. Circuit upheld a district injunction against DHS’s Social Security–linked SAVE overhaul for voter citizenship checks; the administration prepared emergency Supreme Court relief.",
+      "tags": [
+        "Courts",
+        "Elections",
+        "DHS"
+      ],
+      "overview": "Following a March 2025 executive order on election integrity, DHS expanded SAVE—originally a benefits eligibility tool—to support state voter citizenship queries using Social Security data and bulk checks. Voting and privacy plaintiffs won a district block; on Sept. 5 the D.C. Circuit left that block in place 2–1. Administration filings argue the order threatens election integrity; critics note SSA data are not definitive citizenship proof and that some flagged voters were later confirmed citizens.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 5, 2026, the U.S. Court of Appeals for the D.C. Circuit voted 2–1 to uphold a block on the SAVE overhaul.",
+          "evidence": "The Hill and NOTUS report the 2–1 affirmance of Judge Sparkle Sooknanan’s injunction finding Social Security Act and privacy-law problems; Democracy Forward hosted the order PDF referenced in coverage.",
+          "sources": [
+            {
+              "name": "The Hill — Administration seeks to restore DHS system",
+              "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
+              "date": "2026-09-08"
+            },
+            {
+              "name": "NOTUS — DHS asks Supreme Court to revive database",
+              "url": "https://www.notus.org/courts/dhs-supreme-court-database",
+              "date": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "claim": "DHS told the Supreme Court the modified system had verified citizenship for more than 65 million voters across 26 states while flagging 28,635 potential non-citizens.",
+          "evidence": "Figures appear in the administration application as reported by NOTUS.",
+          "sources": [
+            {
+              "name": "NOTUS — DHS application statistics",
+              "url": "https://www.notus.org/courts/dhs-supreme-court-database",
+              "date": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "claim": "There is no public evidence of large-scale noncitizen voting; SSA data are not a definitive citizenship registry according to a former SSA general counsel quoted by NOTUS.",
+          "evidence": "NOTUS states there is no evidence of large numbers of noncitizens voting and quotes Tina Waddell that Social Security numbers are not verification of citizenship; notes Utah/Texas cases where flagged people were later verified as citizens.",
+          "sources": [
+            {
+              "name": "NOTUS — citizenship data limitations",
+              "url": "https://www.notus.org/courts/dhs-supreme-court-database",
+              "date": "2026-09-08"
+            },
+            {
+              "name": "SCOTUSblog — election-fraud concerns filing overview",
+              "url": "https://www.scotusblog.com/2026/09/citing-election-fraud-concerns-trump-administration-brings-dispute-over-voter-database-to-the-su/",
+              "date": "2026-09-08"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Administration filings frame any pause as an integrity emergency; privacy plaintiffs frame the tool as a disenfranchisement risk.",
+          "example": "Solicitor General language calling the district ruling an 'indefensible order that threatens the integrity of upcoming elections' (SCOTUSblog/NOTUS) versus advocates stressing false positive flags of U.S. citizens.",
+          "howItMisleads": "Both frames skip the intermediate factual question—error rates and match quality of SSA-linked bulk queries—on which the public record remains thin."
+        }
+      ]
+    }
+  ]
+}

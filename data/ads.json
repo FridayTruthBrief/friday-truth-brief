@@ -1,0 +1,34 @@
+{
+  "label": "Sponsored",
+  "placeholderNote": "Placeholder — not live ads",
+  "ads": [
+    {
+      "id": "ph-civic-lens",
+      "name": "Civic Lens Research",
+      "tagline": "Primary-source briefings for curious readers.",
+      "url": "https://example.com/civic-lens",
+      "accent": "#1d9bf0"
+    },
+    {
+      "id": "ph-open-ledger",
+      "name": "Open Ledger Docs",
+      "tagline": "Track public filings without the spin.",
+      "url": "https://example.com/open-ledger",
+      "accent": "#17bf63"
+    },
+    {
+      "id": "ph-signal-desk",
+      "name": "Signal Desk",
+      "tagline": "Calm weekly digests for busy citizens.",
+      "url": "#",
+      "accent": "#7856ff"
+    },
+    {
+      "id": "ph-fact-forge",
+      "name": "FactForge Archive",
+      "tagline": "Searchable citations — placeholder sponsor slot.",
+      "url": "https://example.com/factforge",
+      "accent": "#f45d22"
+    }
+  ]
+}

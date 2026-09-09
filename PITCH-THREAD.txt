@@ -1,0 +1,42 @@
+1/ Pitching Friday Truth Brief — an independent prototype for a weekly, evidence-first political brief.
+
+Inspired by X’s clean reader UX. Not affiliated with X. No false partnership claims.
+
+2/ Problem: political news moves faster than the record. Readers get takes and clips before they get documented facts. Spin fills the gap on every side.
+
+3/ Insight: people don’t need another opinion feed. They need a calm Friday brief — ranked stories with known facts + citations, misrepresentations called out, and narrative techniques named.
+
+4/ Product: Friday Truth Brief.
+
+Each story: Overview → Known facts → Misrepresentations → Narratives & spin.
+
+Mobile-clean. Light/dark. Built to scan in minutes.
+
+5/ Why X: this is where political narrative forms in public. A weekly truth brief beside the firehose reinforces X as a place for signal — not only hot takes.
+
+6/ Monetization (concept):
+• Free — Top 10
+• ~$1/mo — Top 20
+• ~$3/mo — Global Top 10 + US + local
+Optional: one labeled sponsored slot. No popups. No interruptive ads.
+
+7/ Proof: local demo exists today — full story UI, theme toggle, Plans mock, PWA shell ready for public HTTPS.
+
+Sample edition for layout. Not live journalism yet.
+
+8/ Ask (pick one):
+• Small pilot with a real Friday edition
+• License the format
+• Build-with on a scoped first week
+
+Independent until a deal exists.
+
+9/ What this is not:
+Not an official X product.
+Not a newsroom yet.
+Not an App Store app.
+Not partisan “truth” branding.
+
+10/ If you work on product / partnerships at X (or care about this format): happy to walk through the local demo.
+
+— Cory Brewer · Friday Truth Brief
