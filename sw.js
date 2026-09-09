@@ -1,7 +1,7 @@
 /**
  * Friday Truth Brief — service worker (relative URLs for GitHub project Pages)
  */
-const CACHE_VERSION = "ftb-v8";
+const CACHE_VERSION = "ftb-v9";
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const DATA_CACHE = `${CACHE_VERSION}-data`;
 const BASE = self.registration.scope;

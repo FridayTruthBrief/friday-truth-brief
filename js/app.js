@@ -212,11 +212,13 @@ async function initAdRotator(container) {
   container.innerHTML = "";
 
   const chrome = el("div", { className: "ad-rail-chrome" }, [
-    el("span", { className: "ad-rail-label", text: feed.label || "Sponsored" }),
-    el("span", {
-      className: "ad-rail-note",
-      text: feed.placeholderNote || "Placeholder — not live ads",
-    }),
+    el("div", { className: "ad-rail-titles" }, [
+      el("span", { className: "ad-rail-label", text: feed.label || "Sponsored" }),
+      el("span", {
+        className: "ad-rail-note",
+        text: feed.placeholderNote || "Placeholder — not live ads",
+      }),
+    ]),
   ]);
 
   const viewport = el("div", {
@@ -373,61 +375,64 @@ async function initAdRotator(container) {
     goNext();
   });
 
-  // Swipe / drag on the viewport
-  let touchStartX = null;
-  let touchStartY = null;
+  // Swipe / drag — Pointer Events on the whole rail (works on homepage + story)
+  let startX = null;
+  let startY = null;
   let swiping = false;
+  let activePointer = null;
 
   function onPointerDown(e) {
-    const pt = e.touches ? e.touches[0] : e;
-    touchStartX = pt.clientX;
-    touchStartY = pt.clientY;
+    if (e.pointerType === "mouse" && e.button !== 0) return;
+    // Don't steal clicks from nav buttons
+    if (e.target && e.target.closest && e.target.closest(".ad-nav-btn")) return;
+    activePointer = e.pointerId;
+    startX = e.clientX;
+    startY = e.clientY;
     swiping = false;
     setPaused(true);
+    try {
+      container.setPointerCapture(e.pointerId);
+    } catch (_) {}
   }
 
   function onPointerMove(e) {
-    if (touchStartX == null) return;
-    const pt = e.touches ? e.touches[0] : e;
-    const dx = pt.clientX - touchStartX;
-    const dy = pt.clientY - touchStartY;
-    if (Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy)) {
+    if (activePointer == null || e.pointerId !== activePointer || startX == null) return;
+    const dx = e.clientX - startX;
+    const dy = e.clientY - startY;
+    if (!swiping && Math.abs(dx) > 10 && Math.abs(dx) > Math.abs(dy) * 1.1) {
       swiping = true;
-      if (e.cancelable) e.preventDefault();
     }
+    if (swiping && e.cancelable) e.preventDefault();
   }
 
   function onPointerUp(e) {
-    if (touchStartX == null) return;
-    const pt = e.changedTouches ? e.changedTouches[0] : e;
-    const dx = pt.clientX - touchStartX;
-    touchStartX = null;
-    touchStartY = null;
-    if (swiping && Math.abs(dx) > 40) {
+    if (activePointer == null || e.pointerId !== activePointer) return;
+    const dx = startX == null ? 0 : e.clientX - startX;
+    try {
+      container.releasePointerCapture(e.pointerId);
+    } catch (_) {}
+    activePointer = null;
+    startX = null;
+    startY = null;
+    if (swiping && Math.abs(dx) > 36) {
       if (dx < 0) goNext();
       else goPrev();
+      // block the synthetic click that would open the sponsor link
+      const blockClick = (ev) => {
+        ev.preventDefault();
+        ev.stopPropagation();
+      };
+      viewport.addEventListener("click", blockClick, true);
+      window.setTimeout(() => viewport.removeEventListener("click", blockClick, true), 350);
     }
     swiping = false;
-    window.setTimeout(() => setPaused(false), 400);
+    window.setTimeout(() => setPaused(false), 450);
   }
 
-  viewport.addEventListener("touchstart", onPointerDown, { passive: true });
-  viewport.addEventListener("touchmove", onPointerMove, { passive: false });
-  viewport.addEventListener("touchend", onPointerUp);
-  viewport.addEventListener("mousedown", onPointerDown);
-  window.addEventListener("mouseup", onPointerUp);
-
-  // Prevent accidental link click right after a swipe
-  viewport.addEventListener(
-    "click",
-    (e) => {
-      if (swiping) {
-        e.preventDefault();
-        e.stopPropagation();
-      }
-    },
-    true
-  );
+  container.addEventListener("pointerdown", onPointerDown);
+  container.addEventListener("pointermove", onPointerMove, { passive: false });
+  container.addEventListener("pointerup", onPointerUp);
+  container.addEventListener("pointercancel", onPointerUp);
 
   container.addEventListener("mouseenter", () => setPaused(true));
   container.addEventListener("mouseleave", () => setPaused(false));
