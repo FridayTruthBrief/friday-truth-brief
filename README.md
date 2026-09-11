@@ -4,7 +4,7 @@ Local-preview static site for **Cory Brewer**: an evidence-first Friday briefing
 
 UI is **inspired by X’s clean reader UX** (light/dark, compact cards). **Not affiliated with X** or any platform.
 
-> **Current edition** (`data/edition-2026-09-05.json`) is a researched editorial prototype for Labor Day week 2026 (`isDemo: false`). A fictional layout demo remains at `data/edition-2026-09-05-demo.json` and is listed in the Archive. Banner text updates from the edition JSON.
+> **Current edition** (`data/current.json`, copied from `data/edition-2026-09-11.json`) is a researched editorial prototype for the week of September 11, 2026 (`isDemo: false`). A fictional layout demo remains at `data/edition-2026-09-05-demo.json` and is listed in the Archive. Banner text updates from the edition JSON.
 
 ## Open locally
 
@@ -57,9 +57,10 @@ friday-truth-brief/
 ├── archive.html               # Past editions
 ├── css/styles.css             # X-inspired light/dark stylesheet
 ├── js/app.js                  # Theme toggle, edition loader, ad rotator, SW register
-├── data/edition-2026-09-05.json       # current researched edition
+├── data/current.json                  # stable copy of the current edition
+├── data/edition-2026-09-11.json       # dated archived researched edition
 ├── data/edition-2026-09-05-demo.json  # archived fictional sample
-├── data/ads.json              # placeholder sponsor feed for the rotator
+├── data/ads.json                      # placeholder sponsor feed for the rotator
 ├── manifest.webmanifest       # PWA manifest
 ├── sw.js                      # Service worker (shell + edition cache)
 ├── icons/                     # PNG icons 192 / 512 + apple-touch
@@ -116,11 +117,11 @@ Each Friday edition is a JSON file under `data/`:
 
 ## Add a new Friday edition
 
-1. Copy `data/edition-2026-09-05.json` to `data/edition-YYYY-MM-DD.json` (use that Friday’s date).
-2. Update `editionDate`, `title`, methodology if needed, and all ten stories.
-3. Point the app at the new file: in `js/app.js`, set `EDITION_PATH` to the new filename.
-4. Append an entry to the `ARCHIVE` array in `js/app.js`.
-5. Refresh the browser.
+1. Create `data/edition-YYYY-MM-DD.json` for that Friday and update `editionDate`, `title`, methodology if needed, and all ten stories.
+2. Copy that dated file to `data/current.json` so the stable current-edition endpoint serves the same exact content.
+3. Prepend an entry for the dated file to the `ARCHIVE` array in `js/app.js`; archive links must continue to use dated edition files.
+4. Do not change `EDITION_PATH`: `js/app.js` always loads `data/current.json` for the homepage and current story links.
+5. Validate both JSON files and refresh the browser.
 
 ## Tone
 

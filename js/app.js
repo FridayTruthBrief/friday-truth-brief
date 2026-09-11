@@ -3,7 +3,7 @@
  * Loads edition JSON over HTTP (file:// will fail CORS/fetch). Current path: EDITION_PATH.
  */
 
-const EDITION_PATH = "data/edition-2026-09-11.json";
+const EDITION_PATH = "data/current.json";
 const THEME_KEY = "ftb-theme";
 /** Current homepage edition. Archive entries may point at other JSON files via ?edition= path. */
 const ARCHIVE = [
@@ -124,7 +124,11 @@ function initThemeToggle() {
 }
 
 async function loadEdition(path = EDITION_PATH) {
-  const res = await fetch(path);
+  const isCurrent = path === EDITION_PATH;
+  const fetchPath = isCurrent ? `${path}?v=${Date.now()}` : path;
+  const res = isCurrent
+    ? await fetch(fetchPath, { cache: "no-store" })
+    : await fetch(fetchPath);
   if (!res.ok) throw new Error(`Could not load ${path} (${res.status})`);
   const data = await res.json();
   if (!data || !Array.isArray(data.stories)) throw new Error("Invalid edition JSON");
