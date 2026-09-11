@@ -1,7 +1,7 @@
 /**
  * Friday Truth Brief — service worker (relative URLs for GitHub project Pages)
  */
-const CACHE_VERSION = "ftb-v9";
+const CACHE_VERSION = "ftb-v10";
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const DATA_CACHE = `${CACHE_VERSION}-data`;
 const BASE = self.registration.scope;
@@ -21,7 +21,8 @@ self.addEventListener("install", (event) => {
     const shell = await caches.open(SHELL_CACHE);
     await shell.addAll(SHELL_PATHS.map((p) => u(p)));
     const data = await caches.open(DATA_CACHE);
-    for (const p of ["./data/edition-2026-09-05.json", "./data/ads.json"]) {
+    // Precache ads only; edition JSON is network-first so Fridays stay fresh.
+    for (const p of ["./data/ads.json"]) {
       try { await data.add(u(p)); } catch (_) {}
     }
     self.skipWaiting();
@@ -67,12 +68,17 @@ self.addEventListener("fetch", (event) => {
   }
 
   if (isShellRequest(url)) {
+    // Network-first so weekly app.js EDITION_PATH updates reach installed PWAs (esp. iOS home screen).
     event.respondWith((async () => {
-      const cached = await caches.match(req);
-      if (cached) return cached;
-      const net = await fetch(req);
-      if (net && net.ok) { (await caches.open(SHELL_CACHE)).put(req, net.clone()); }
-      return net;
+      try {
+        const net = await fetch(req);
+        if (net && net.ok) { (await caches.open(SHELL_CACHE)).put(req, net.clone()); }
+        return net;
+      } catch (_) {
+        const cached = await caches.match(req);
+        if (cached) return cached;
+        throw _;
+      }
     })());
   }
 });
