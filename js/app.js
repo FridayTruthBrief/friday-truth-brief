@@ -3,10 +3,17 @@
  * Loads edition JSON over HTTP (file:// will fail CORS/fetch). Current path: EDITION_PATH.
  */
 
-const EDITION_PATH = "data/edition-2026-09-05.json";
+const EDITION_PATH = "data/edition-2026-09-11.json";
 const THEME_KEY = "ftb-theme";
 /** Current homepage edition. Archive entries may point at other JSON files via ?edition= path. */
 const ARCHIVE = [
+  {
+    date: "2026-09-11",
+    title: "Week of September 11, 2026",
+    path: "data/edition-2026-09-11.json",
+    note: "Researched brief (Sep 7–13, 2026). Editorial prototype — verify sources.",
+    isDemo: false,
+  },
   {
     date: "2026-09-05",
     title: "Week of September 5, 2026",

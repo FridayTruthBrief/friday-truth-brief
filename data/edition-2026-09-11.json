@@ -1,0 +1,608 @@
+{
+  "editionDate": "2026-09-11",
+  "title": "Friday Truth Brief — Week of September 11, 2026",
+  "isDemo": false,
+  "methodology": "Coverage window Mon Sep 7–Sun Sep 13, 2026. Ranked by national salience for an evidence-vs-spin audience. Mix of hard politics AND major culture/news stories twisted by political or culture-war narratives. Known facts cite named sources with URLs/dates. Misrepresentations only when a specific published claim can be checked; otherwise []. Narrative notes describe framing in real coverage. Readers should verify linked sources.",
+  "stories": [
+    {
+      "rank": 1,
+      "id": "iran-hormuz-drone-tanker-week",
+      "title": "IRGC claims strike on U.S. unmanned vessel in Hormuz as tanker attacks keep oil above $100",
+      "summary": "Iran’s IRGC claimed an attack on a U.S. Saildrone-type unmanned vessel in the Strait of Hormuz while UKMTO reported projectiles hitting two vessels off Oman; tanker attacks helped keep Brent above $100 amid a costly, unresolved war.",
+      "tags": [
+        "Foreign Policy",
+        "Iran",
+        "Military"
+      ],
+      "overview": "In the week of Sept. 7–13, coverage of the U.S.–Iran conflict again mixed claims of de-escalation with fresh maritime incidents. Al Jazeera’s Sept. 11 liveblog carried an IRGC claim of striking a U.S. unmanned Saildrone-type vessel in Hormuz and a UKMTO report that projectiles hit two vessels off Oman. The Independent described a war stalemate around Hormuz, citing roughly $37.5 billion in costs and 18 U.S. deaths. Reuters energy desks on Sept. 10–11 tied continued tanker attacks to Brent holding above $100 for the first time in nearly four months.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 11, Al Jazeera’s Iran war liveblog reported that Iran’s IRGC claimed it attacked a U.S. unmanned Saildrone-type vessel in the Strait of Hormuz and that UKMTO said projectiles hit two vessels off Oman.",
+          "evidence": "Al Jazeera liveblog headline and updates for Sept. 11 summarize the IRGC unmanned-vessel claim alongside UKMTO reporting on two ships hit off Oman.",
+          "sources": [
+            {
+              "name": "Al Jazeera — Iran war liveblog (IRGC unmanned vessel / ships hit)",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "claim": "The Independent reported the conflict around Hormuz as a stalemate, citing about $37.5 billion in costs and 18 U.S. deaths.",
+          "evidence": "Independent coverage of the United States–Iran confrontation and Strait of Hormuz risk includes those cost and casualty figures in its war accounting.",
+          "sources": [
+            {
+              "name": "The Independent — Iran/Hormuz war stalemate and costs",
+              "url": "https://www.independent.co.uk/news/world/americas/iran-united-states-strait-of-hormuz-donald-trump-saudi-arabia-b3048381.html",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "claim": "Reuters reported Brent holding above $100 on Sept. 10–11 as tanker attacks deepened supply fears, with prices set to end the week over $100 for the first time in nearly four months; Sept. 10 levels included Brent near $107.63 and WTI near $102.48.",
+          "evidence": "Reuters energy stories on Sept. 10 and Sept. 11 attribute the $100-plus oil complex to tanker attacks and supply-fear pricing.",
+          "sources": [
+            {
+              "name": "Reuters — Brent holds above $100 as tanker attacks deepen supply fear",
+              "url": "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "Reuters — Oil prices set to end week over $100",
+              "url": "https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/",
+              "date": "2026-09-11"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Some coverage juxtaposes talk of “progress reopening Hormuz” with ongoing low-level maritime attacks and IRGC claims.",
+          "example": "Diplomatic or military ‘progress’ language in war roundups sits beside Al Jazeera/UKMTO reporting of fresh vessel hits and IRGC strike claims.",
+          "howItMisleads": "Suggesting reopening progress can understate that tanker attacks and contested maritime claims continue to drive oil prices and war risk."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Emphasis on IRGC success claims can outrun U.S. denials of successful hits on U.S. warships noted in other coverage.",
+          "example": "Iran International and related coverage have carried CENTCOM denials of successful hits on U.S. warships even as Iranian statements highlight strikes.",
+          "howItMisleads": "Leading with an unverified IRGC claim without the denial can make readers treat contested military propaganda as confirmed battle damage."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "lindsay-clancy-mistrial-motions",
+      "title": "After Clancy mistrial, defense seeks not-guilty finding and to bar retrial",
+      "summary": "After a Sept. 4 mistrial following about seven days of deliberation and a reported 11–1 holdout, Kevin Reddington renewed a required finding of not guilty and plans a double-jeopardy dismissal motion for a Sept. 29 hearing.",
+      "tags": [
+        "Courts",
+        "Culture",
+        "Criminal Justice"
+      ],
+      "overview": "Lindsay Clancy’s Massachusetts murder trial ended in a mistrial on Sept. 4 after roughly seven days of jury deliberation; jurors speaking publicly described an 11–1 holdout. On Sept. 10 her lawyer Kevin Reddington renewed a motion asking the judge to enter a required finding of not guilty and said he would seek dismissal on double-jeopardy grounds at a Sept. 29 hearing. Prosecutors had not said whether they would retry. Culture-war coverage continued to frame the case as postpartum mental health versus deliberate planning.",
+      "knownFacts": [
+        {
+          "claim": "A mistrial was declared Sept. 4 after about seven days of deliberation; reporting cited a reported 11–1 holdout based on jurors speaking publicly.",
+          "evidence": "Reuters, Boston.com, and CBS coverage of post-mistrial motions recount the Sept. 4 hung jury and the publicly described 11–1 split.",
+          "sources": [
+            {
+              "name": "Reuters — Clancy lawyer asks judge to find her not guilty after mistrial",
+              "url": "https://www.reuters.com/legal/government/lindsay-clancys-lawyer-asks-judge-find-her-not-guilty-after-mistrial-2026-09-10/",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "CBS News — Clancy attorney asks case thrown out; jurors",
+              "url": "https://www.cbsnews.com/news/lindsay-clancy-attorney-reddington-ask-case-thrown-out-jurors/",
+              "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "claim": "On Thursday, Sept. 10, Reddington renewed a required finding of not guilty and planned a double-jeopardy dismissal motion for a Sept. 29 hearing; prosecutors had not said if they would retry.",
+          "evidence": "Boston.com and Reuters describe the renewed required-finding motion filed Sept. 10 and the planned Sept. 29 double-jeopardy argument; CNN separately outlined legal options including a possible plea path.",
+          "sources": [
+            {
+              "name": "Boston.com — Reddington required finding motion",
+              "url": "https://www.boston.com/news/crime/2026/09/10/lindsay-clancy-kevin-reddington-required-finding-motion/",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "Reuters — Not-guilty finding request after mistrial",
+              "url": "https://www.reuters.com/legal/government/lindsay-clancys-lawyer-asks-judge-find-her-not-guilty-after-mistrial-2026-09-10/",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "CNN — Clancy legal options / plea path",
+              "url": "https://www.cnn.com/2026/09/10/us/lindsay-clancy-legal-options",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Viral / social commentary (as characterized in post-mistrial coverage of legal options)",
+          "pieceTitle": "Claims that a hung-jury mistrial already equals acquittal or that double jeopardy automatically bars retrial",
+          "pieceUrl": "https://www.cnn.com/2026/09/10/us/lindsay-clancy-legal-options",
+          "claimMade": "That the mistrial itself acquits Clancy or that double jeopardy already forbids any retrial after a hung jury.",
+          "whyInaccurate": "A hung-jury mistrial is generally not an acquittal and usually permits retrial. Reddington’s double-jeopardy dismissal theory is a contested defense motion for the Sept. 29 hearing, not settled automatic law.",
+          "severity": "false"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Culture-war framing casts the case as women’s mental health / postpartum illness versus “she planned it.”",
+          "example": "Public commentary and some coverage reduce the hung jury and post-mistrial motions to a binary culture fight over postpartum mental health versus premeditation.",
+          "howItMisleads": "Collapses a complex criminal proceeding—including a reported 11–1 split and pending required-finding and double-jeopardy motions—into a partisan morality play."
+        },
+        {
+          "type": "headline",
+          "description": "Viral claims treat mistrial as acquittal.",
+          "example": "Social posts asserting the case is over because of the mistrial, contrary to ordinary hung-jury rules that generally allow retrial.",
+          "howItMisleads": "Confuses a hung jury with a verdict of not guilty and misstates when double jeopardy attaches."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "oil-100-diesel-fed",
+      "title": "Oil holds above $100 and U.S. diesel hits records as Fed hike odds swing",
+      "summary": "Brent and WTI stayed above $100 amid tanker attacks and Iran-war supply fear; CNN flagged record U.S. diesel pressure while markets debated whether the Fed must hike or can still hold on supply-shock grounds.",
+      "tags": [
+        "Economy",
+        "Energy",
+        "Fed"
+      ],
+      "overview": "Energy markets dominated midweek economic headlines. Reuters on Sept. 10 reported Brent near $107.63 and WTI near $102.48 as tanker attacks deepened supply fears; by Sept. 11 Reuters said oil was set to end the week over $100 for the first time in nearly four months. CNN tied Iran-war disruption to diesel stress. That backdrop fed a narrative fight over whether a Fed hike was now locked in or whether economists could still justify a hold as a supply shock.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 10 Reuters reported Brent around $107.63 and WTI around $102.48 while tanker attacks kept prices above $100.",
+          "evidence": "Reuters energy desk story on Brent holding above $100 cites those session levels and tanker-attack supply fear.",
+          "sources": [
+            {
+              "name": "Reuters — Brent holds above $100 (Sept. 10)",
+              "url": "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
+              "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "claim": "On Sept. 11 Reuters reported oil prices were set to end the week over $100 for the first time in nearly four months.",
+          "evidence": "Reuters Sept. 11 wrap on the weekly close prospect above $100.",
+          "sources": [
+            {
+              "name": "Reuters — Oil set to end week over $100",
+              "url": "https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "claim": "CNN coverage linked Iran-war oil disruption to U.S. diesel market stress.",
+          "evidence": "CNN investing piece on oil, the Iran war, and diesel describes record-pressure diesel conditions alongside crude’s rally.",
+          "sources": [
+            {
+              "name": "CNN — Oil, Iran war, diesel",
+              "url": "https://www.cnn.com/2026/09/10/investing/oil-iran-war-diesel",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Market commentary swings between “Fed hike now guaranteed” and economists still often expecting a hold on supply-shock grounds.",
+          "example": "Rate-odds chatter after $100 oil contrasts with economist arguments that an energy supply shock need not force an immediate hike.",
+          "howItMisleads": "Treating hike odds as settled fact overstates what oil prices alone decide for the Federal Open Market Committee."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "houthi-saudi-energy-attacks",
+      "title": "Houthis hit Saudi energy sites; 73 wounded as Red Sea risk spreads",
+      "summary": "Saudi-led coalition reporting said Houthi attacks struck sites including Abha, Khamis Mushait, Jazan, and Najran, wounding 73 people including women and children, with temporary operations halts and reported Saudi response strikes.",
+      "tags": [
+        "Middle East",
+        "Energy",
+        "Yemen"
+      ],
+      "overview": "On Sept. 8, Reuters, NPR, and BBC reported a wave of Houthi attacks on Saudi Arabia that expanded Red Sea and Gulf energy risk beyond tanker lanes. The Saudi-led coalition said 73 people were injured, including women and children, in attacks affecting Abha, Khamis Mushait, Jazan, and Najran, with temporary operations disruptions and subsequent Saudi response strikes reported.",
+      "knownFacts": [
+        {
+          "claim": "The Saudi-led coalition said Houthi attacks on the kingdom injured 73 people, including women and children.",
+          "evidence": "Reuters Sept. 8 report quotes coalition casualty figures of 73 injured in the Houthi attacks.",
+          "sources": [
+            {
+              "name": "Reuters — 73 injured in Houthi attacks on kingdom",
+              "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-yemen-says-73-injured-houthi-attacks-kingdom-2026-09-08/",
+              "date": "2026-09-08"
+            },
+            {
+              "name": "NPR — Houthi attacks on Saudi Arabia",
+              "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+              "date": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "claim": "Attacked locations included Abha, Khamis Mushait, Jazan, and Najran; reporting described temporary operations halts and Saudi response strikes.",
+          "evidence": "Reuters, NPR, and BBC accounts name those sites and note operational disruption plus reported Saudi retaliatory strikes.",
+          "sources": [
+            {
+              "name": "BBC — Houthi attacks on Saudi energy/sites",
+              "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o",
+              "date": "2026-09-08"
+            },
+            {
+              "name": "Reuters — Coalition Yemen statement on injuries",
+              "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-yemen-says-73-injured-houthi-attacks-kingdom-2026-09-08/",
+              "date": "2026-09-08"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Coverage links the Saudi strikes to widening Red Sea risk and energy-market contagion from the broader Iran-aligned conflict theater.",
+          "example": "NPR and Reuters place the Saudi incidents alongside Red Sea shipping and energy-security risk narratives.",
+          "howItMisleads": "Useful for regional context, but can blur distinct Yemen–Saudi targeting from separate Hormuz tanker incidents if readers treat every Middle East energy attack as one undifferentiated war."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "trump-5000-dividend-dallas",
+      "title": "At Dallas midterm convention, Trump pitches $5,000 “dividend” if GOP keeps Congress",
+      "summary": "At the RNC midterm convention in Dallas, Trump promised $5,000 “dividend” checks if Republicans keep Congress; explainers note Congress must authorize and fund any payout, with Newsweek estimating roughly $1.22 trillion in cost.",
+      "tags": [
+        "Elections",
+        "White House",
+        "Spending"
+      ],
+      "overview": "Speaking at the Republican midterm convention in Dallas, President Trump pitched $5,000 “dividend” payments to Americans conditioned on GOP success in keeping Congress. CBS and PBS covered the promise as a midterm pitch; a Reuters explainer examined legality and mechanics; Newsweek put the cost near $1.22 trillion. The gap between campaign framing of imminent checks and the requirement for legislation and funding became the week’s main accuracy fault line.",
+      "knownFacts": [
+        {
+          "claim": "At the Dallas midterm convention, Trump promised $5,000 “dividend” checks for Americans if Republicans win / keep Congress.",
+          "evidence": "CBS and PBS report Trump’s on-stage pledge of $5,000 dividends tied to GOP midterm success.",
+          "sources": [
+            {
+              "name": "CBS News — Trump $5,000 dividend checks at RNC midterm convention",
+              "url": "https://www.cbsnews.com/news/trump-dividends-5000-checks-rnc-midterm-convention/",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "PBS NewsHour — Trump promises $5,000 dividend if GOP wins midterms",
+              "url": "https://www.pbs.org/newshour/politics/watch-trump-promises-5000-dividend-for-americans-if-gop-wins-midterms",
+              "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "claim": "Legal and budget explainers say any such dividend would require Congress to authorize and fund it; Newsweek estimated a cost of about $1.22 trillion.",
+          "evidence": "Reuters explainer on legality and mechanics; Newsweek cost estimate of ~$1.22 trillion and funding questions, including tariff-revenue claims versus scale.",
+          "sources": [
+            {
+              "name": "Reuters — Is Trump’s $5,000 dividend legal / how would it work?",
+              "url": "https://www.reuters.com/legal/government/is-trumps-5000-dividend-legal-how-would-it-work-2026-09-10/",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "Newsweek — Dividends would cost $1.22 trillion",
+              "url": "https://www.newsweek.com/trump-dividends-would-cost-1-22-trillion-how-find-money-12424329",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Campaign / supportive framing of the Dallas pitch (as contrasted by explainers)",
+          "pieceTitle": "Implication that a GOP midterm win automatically mails $5,000 checks",
+          "pieceUrl": "https://www.reuters.com/legal/government/is-trumps-5000-dividend-legal-how-would-it-work-2026-09-10/",
+          "claimMade": "That keeping Republican control of Congress itself delivers $5,000 payments without further action.",
+          "whyInaccurate": "Explainers emphasize Congress must still authorize and fund any dividend. A midterm outcome does not itself appropriate ~$1.22 trillion or mail checks.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Pitch framed as imminent household checks versus legal reality that Congress must authorize and fund the program.",
+          "example": "Convention rhetoric of $5,000 dividends contrasted with Reuters’ legality/mechanics explainer.",
+          "howItMisleads": "Makes a contingent legislative proposal sound like an automatic post-election disbursement."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Tariff-revenue talking points are set against a ~$1.2T cost estimate without reconciling scale.",
+          "example": "Newsweek’s $1.22 trillion cost figure versus claims that tariffs alone can pay for universal-scale checks.",
+          "howItMisleads": "Omitting the cost gap invites readers to treat funding as a solved detail."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "quinnipiac-midterm-weather",
+      "title": "Quinnipiac: Dems +11 on House control; Trump Iran handling at 29%",
+      "summary": "Quinnipiac’s Sept. 10 release put Trump at 33% approve / 59% disapprove, with Iran handling 29/65, economy 32/65, and Democrats leading by 11 points on House control; other outlets flagged FT/Focaldata lows near 32–33%.",
+      "tags": [
+        "Elections",
+        "Polling"
+      ],
+      "overview": "Quinnipiac’s Sept. 10 poll became the week’s marquee midterm weather report: overall approval 33%–59%, Iran handling 29%–65%, economy 32%–65%, and Democrats ahead by 11 points on who should control the House. Forbes and USA Today separately highlighted Financial Times/Focaldata readings around 32–33% as new lows, including slippage among GOP voters. Analysts warned against treating any single poll as destiny or collapsing issue handling into one approval number.",
+      "knownFacts": [
+        {
+          "claim": "Quinnipiac’s Sept. 10 release showed Trump job approval at 33% approve / 59% disapprove; Iran handling 29% approve / 65% disapprove; economy 32% / 65%; and Democrats leading by 11 points on House control.",
+          "evidence": "Quinnipiac University poll release id 3965 reports those toplines.",
+          "sources": [
+            {
+              "name": "Quinnipiac University poll release",
+              "url": "https://poll.qu.edu/poll-release?releaseid=3965",
+              "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "claim": "Forbes and USA Today reported Financial Times/Focaldata surveys showing Trump approval near 32–33% lows, including softer GOP support.",
+          "evidence": "Forbes and USA Today summaries of FT/Focaldata lows around 32–33% and GOP slippage.",
+          "sources": [
+            {
+              "name": "Forbes — Trump approval reaches new floors in 2 polls",
+              "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/",
+              "date": "2026-09-08"
+            },
+            {
+              "name": "USA Today — Trump approval rating poll",
+              "url": "https://www.usatoday.com/story/news/politics/2026/09/08/trump-approval-rating-poll/91662625007/",
+              "date": "2026-09-08"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Treating one poll as electoral destiny.",
+          "example": "Takes of Quinnipiac’s +11 House generic as settling November outcomes.",
+          "howItMisleads": "A single poll’s House generic margin is not a seat forecast; timing, sample, and district maps still matter."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Collapsing issue handling (Iran, economy) into overall approval as if they were identical.",
+          "example": "Headlines that use Iran’s 29% handling alone as if it were the sole approval number.",
+          "howItMisleads": "Issue handling can run below overall approval; equating them flattens distinct voter judgments."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "anthropic-iran-claude-threat-report",
+      "title": "Anthropic: Iran-linked accounts used Claude for propaganda and U.S. naval targeting research",
+      "summary": "Anthropic’s September 2026 threat reporting said it removed Iran state-aligned propaganda accounts and a separate Iran-linked account that built OSINT naval-targeting handbooks; the company said it was unclear whether outputs were used in a specific attack.",
+      "tags": [
+        "AI",
+        "National Security",
+        "Iran"
+      ],
+      "overview": "Anthropic’s threat disclosures, covered by Iran International, CBS, and Al Jazeera on Sept. 11, described Iran-linked misuse of Claude: removal of state-aligned propaganda accounts and a separate account that developed OSINT targeting handbooks and naval tracking materials. Anthropic said it was unclear whether those materials were used in a specific attack. Broader September 2026 threat reporting also covered other misuse cases, which some headlines bundled with the Iran naval research into a single scare narrative.",
+      "knownFacts": [
+        {
+          "claim": "Anthropic reported removing Iran state-aligned propaganda accounts that used Claude.",
+          "evidence": "Iran International and Al Jazeera summaries of Anthropic’s threat report describe removal of Iran-linked propaganda accounts.",
+          "sources": [
+            {
+              "name": "Iran International — Anthropic Claude Iran misuse",
+              "url": "https://www.iranintl.com/en/202609115263",
+              "date": "2026-09-11"
+            },
+            {
+              "name": "Al Jazeera — Anthropic claims Claude used for missile projects / espionage",
+              "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "claim": "A separate Iran-linked account built OSINT targeting handbooks / naval tracking materials; Anthropic said it was unclear if the work was used in a specific attack.",
+          "evidence": "Threat-report coverage notes naval-targeting research and Anthropic’s statement that operational use in a particular attack was not confirmed.",
+          "sources": [
+            {
+              "name": "Iran International — Claude naval targeting research",
+              "url": "https://www.iranintl.com/en/202609115263",
+              "date": "2026-09-11"
+            },
+            {
+              "name": "CBS News — Anthropic AI Claude threat / misuse reporting",
+              "url": "https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development/",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "claim": "Anthropic’s broader September 2026 threat report also covers other misuse cases beyond the Iran naval account.",
+          "evidence": "CBS and Al Jazeera place the Iran cases inside a wider misuse report that includes additional categories such as biological-weapons-related warnings in some coverage.",
+          "sources": [
+            {
+              "name": "CBS News — Anthropic threat report context",
+              "url": "https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development/",
+              "date": "2026-09-11"
+            },
+            {
+              "name": "Al Jazeera — Claude missile projects / global espionage claims",
+              "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
+              "date": "2026-09-11"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "“AI weaponized warships” hyperbolic framing versus Anthropic saying no confirmed operational use in a specific attack.",
+          "example": "Scare headlines implying Claude directly drove naval strikes, while the company said operational use was unclear.",
+          "howItMisleads": "Conflates research/handbook generation with proven battle damage or targeting success."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Bundling separate bio/weapons misuse cases with the Iran naval case as one scare story.",
+          "example": "Coverage that merges biological-weapons-development warnings and Iran naval OSINT research into a single undifferentiated AI-threat blast.",
+          "howItMisleads": "Different actors, tools, and confidence levels get flattened into one maximal threat claim."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "congress-ai-safety-rules-push",
+      "title": "Lawmakers push new AI rules after safety warnings; California enacts auditor law",
+      "summary": "After Anthropic safety warnings, reporting described a Thune/Klobuchar AI bill push, OpenAI advocating national requirements, and Gov. Newsom signing a California AI auditor law on Wednesday.",
+      "tags": [
+        "Congress",
+        "AI",
+        "States"
+      ],
+      "overview": "Japan Times business coverage on Sept. 11 tied Anthropic’s safety warnings to a renewed U.S. rules push: Sens. Thune and Klobuchar advancing legislation, OpenAI pressing for national requirements, and California Gov. Gavin Newsom signing a state AI auditor law on Wednesday. Claims in this brief stay within that reporting.",
+      "knownFacts": [
+        {
+          "claim": "Reporting after Anthropic safety warnings described a Thune/Klobuchar bill effort on AI rules and OpenAI pushing national requirements.",
+          "evidence": "Japan Times Sept. 11 piece on U.S. AI rules following Anthropic safety concerns names the Thune/Klobuchar bill and OpenAI’s national-requirements push.",
+          "sources": [
+            {
+              "name": "Japan Times — U.S. AI rules after Anthropic safety warnings",
+              "url": "https://www.japantimes.co.jp/business/2026/09/11/us-ai-rules-anthropic-safety/",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "claim": "Gov. Newsom signed a California AI auditor law on Wednesday (as reported Sept. 11).",
+          "evidence": "Same Japan Times report states Newsom signed the California auditor law on Wednesday.",
+          "sources": [
+            {
+              "name": "Japan Times — California AI auditor law signed",
+              "url": "https://www.japantimes.co.jp/business/2026/09/11/us-ai-rules-anthropic-safety/",
+              "date": "2026-09-11"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Federal bill talk and a state auditor law are packaged as a single national AI-crackdown moment.",
+          "example": "Japan Times roundup linking Anthropic warnings, Thune/Klobuchar legislation, OpenAI national rules advocacy, and California’s signed auditor law.",
+          "howItMisleads": "State enactment and undeclared federal bill progress are different legal statuses; bundling them can imply Congress has already acted when only California’s auditor law is described as enacted."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "scotus-missouri-map-stay",
+      "title": "Supreme Court again blocks Trump-backed Missouri map for November",
+      "summary": "In an unsigned order around Sept. 10 with no public dissent, the U.S. Supreme Court again prevented Missouri from using the Trump-backed congressional map for the general election, leaving the 2022 map in place while a referendum remains on the November ballot.",
+      "tags": [
+        "Supreme Court",
+        "Elections",
+        "Redistricting"
+      ],
+      "overview": "PBS/AP and SCOTUSblog reported that the Supreme Court again rejected efforts to use Missouri’s Trump-backed congressional map for November. An unsigned order around Sept. 10, with no public dissent, left the 2022 map governing the general election while litigation continues; the state referendum on the map remains on the November ballot.",
+      "knownFacts": [
+        {
+          "claim": "Around Sept. 10 the Supreme Court issued an unsigned order, with no public dissent, again blocking use of the Trump-backed Missouri congressional map for the November general election.",
+          "evidence": "PBS/AP and SCOTUSblog describe the emergency order preventing use of the map expected to aid Republicans and note the lack of public dissent.",
+          "sources": [
+            {
+              "name": "PBS NewsHour / AP — Supreme Court again rejects Trump-backed Missouri map",
+              "url": "https://www.pbs.org/newshour/politics/supreme-court-again-rejects-push-to-use-trump-backed-congressional-map-in-missouri",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "SCOTUSblog — Court prevents Missouri from using congressional map",
+              "url": "https://www.scotusblog.com/2026/09/supreme-court-grants-request-to-prevent-missouri-from-using-congressional-map-expected-to-aid-re/",
+              "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "claim": "The order leaves the 2022 map in place for the general election; a referendum on the map remains on the November ballot.",
+          "evidence": "PBS/AP and SCOTUSblog reporting state the 2022 lines control the general and that the referendum remains on the ballot.",
+          "sources": [
+            {
+              "name": "PBS NewsHour / AP — Missouri map stay",
+              "url": "https://www.pbs.org/newshour/politics/supreme-court-again-rejects-push-to-use-trump-backed-congressional-map-in-missouri",
+              "date": "2026-09-10"
+            },
+            {
+              "name": "SCOTUSblog — Missouri congressional map order",
+              "url": "https://www.scotusblog.com/2026/09/supreme-court-grants-request-to-prevent-missouri-from-using-congressional-map-expected-to-aid-re/",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "“SCOTUS handed Dems a seat” political scoreboard framing versus a narrow emergency stay while litigation continues.",
+          "example": "Partisan takes treating the unsigned stay as a permanent gift of a Democratic House seat.",
+          "howItMisleads": "The order is an emergency stay of conflicting lower-court relief for the November election map posture; it does not itself permanently redraw Missouri or end the referendum fight."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "acting-us-attorneys-fvra",
+      "title": "Trump admin asks Supreme Court to bless acting U.S. attorney appointments",
+      "summary": "On Sept. 10 the administration asked the justices to review acting U.S. attorney appointments after a Ninth Circuit FVRA ruling, pointing to disputes involving Habba, Sarcone, Halligan, and Essayli.",
+      "tags": [
+        "Courts",
+        "DOJ",
+        "Separation of Powers"
+      ],
+      "overview": "SCOTUSblog reported that on Sept. 10 the Trump administration petitioned the Supreme Court to decide the lawfulness of its acting U.S. attorney appointments. The petition follows a Ninth Circuit ruling under the Federal Vacancies Reform Act and cites controversies involving Alina Habba, and the Sarcone, Halligan, and Essayli matters as part of the appointments fight.",
+      "knownFacts": [
+        {
+          "claim": "On Sept. 10 the Trump administration asked the Supreme Court to decide on its appointments of acting U.S. attorneys, following a Ninth Circuit FVRA ruling.",
+          "evidence": "SCOTUSblog’s Sept. 10 report describes the petition and the Ninth Circuit Federal Vacancies Reform Act backdrop.",
+          "sources": [
+            {
+              "name": "SCOTUSblog — Trump administration asks justices to decide acting U.S. attorney appointments",
+              "url": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-decide-on-its-appointments-of-acting-us-attorneys/",
+              "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "claim": "The petition cites disputes involving Habba, Sarcone, Halligan, and Essayli.",
+          "evidence": "SCOTUSblog notes those named acting-appointment controversies in connection with the request for high-court review.",
+          "sources": [
+            {
+              "name": "SCOTUSblog — Acting U.S. attorneys petition",
+              "url": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-decide-on-its-appointments-of-acting-us-attorneys/",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Separation-of-powers dispute framed as either rubber-stamping presidential control of prosecutors or as judges blocking legitimate vacancy management.",
+          "example": "Commentary that treats the FVRA petition as purely partisan DOJ hardball or purely lawless judicial interference, rather than a statutory appointments question the Court is being asked to resolve.",
+          "howItMisleads": "Skips that the live issue is how the Federal Vacancies Reform Act and related appointment rules apply to these acting U.S. attorneys—not a final merits win for either political narrative."
+        }
+      ]
+    }
+  ]
+}
