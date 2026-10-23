@@ -8,6 +8,13 @@ const THEME_KEY = "ftb-theme";
 /** Current homepage edition. Archive entries may point at other JSON files via ?edition= path. */
 const ARCHIVE = [
   {
+    date: "2026-10-23",
+    title: "Week of October 23, 2026",
+    path: "data/edition-2026-10-23.json",
+    note: "Researched brief (Oct 19–25, 2026). Editorial prototype — verify sources.",
+    isDemo: false,
+  },
+  {
     date: "2026-10-16",
     title: "Week of October 16, 2026",
     path: "data/edition-2026-10-16.json",

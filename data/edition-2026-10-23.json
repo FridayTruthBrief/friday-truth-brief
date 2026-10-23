@@ -1,0 +1,930 @@
+{
+  "editionDate": "2026-10-23",
+  "title": "Friday Truth Brief — Week of October 23, 2026",
+  "isDemo": false,
+  "methodology": "Coverage window Mon Oct 19–Sun Oct 25, 2026 (research through Fri Oct 23). Ranked by national salience for an evidence-vs-spin audience. Mix of hard politics AND major culture/news stories twisted by political or culture-war narratives. Known facts cite named sources with URLs/dates. Misrepresentations only when a specific published claim can be checked; otherwise []. Narrative notes describe framing in real coverage. Readers should verify linked sources.",
+  "stories": [
+    {
+      "rank": 1,
+      "id": "iran-post-midterm-strike-plans",
+      "title": "U.S. and Israel draw up plans to renew Iran strikes after the midterms; White House says no attack before Nov. 3",
+      "summary": "The New York Times reported Oct. 21, and ABC News and NPR confirmed with their own sources Oct. 22, that U.S. and Israeli militaries have drawn up plans for renewed strikes on Iran that would likely come after the Nov. 3 U.S. midterms. The White House told ABC the U.S. “will not be attacking Iran at any time prior to the midterm elections,” while declining to comment on plans that “may or may not exist.” Iranian officials warned of “zero red lines” and threatened Gulf oil, data-center and undersea-cable targets if attacks resume.",
+      "tags": [
+        "Foreign Policy",
+        "Iran",
+        "Military",
+        "Midterms"
+      ],
+      "overview": "Two weeks after Trump’s pledge not to attack Iran before the midterms, reporting this week moved to timing. The New York Times first reported that the U.S. and Israeli militaries have drawn up plans for renewed strikes after the U.S. elections. Two Israeli sources told ABC News the strikes would “almost certainly” come after Nov. 3, citing Trump’s reluctance to further destabilize oil markets before the vote; one said “hunting season is open as soon as the elections end.” Per those sources, targets would include petrochemical facilities and nuclear sites such as Pickaxe Mountain, but not civilian power plants, and Israel’s top goal is regime change rather than a deal. A person briefed on the planning told NPR an attack could come in early November, after the vote, though the preparations could also be pressure for a diplomatic deal; The Guardian reports the U.S. buildup is due to be complete by early November. Defense Secretary Pete Hegseth made an unannounced visit to Israel on Oct. 19 and met Prime Minister Benjamin Netanyahu ahead of Israel’s Oct. 27 election; one Israeli source told ABC the strike plans were discussed there. Trump gave mixed answers on talks Oct. 21, saying they were ongoing “a little bit” and then “I think we’re not negotiating.” Iran’s foreign minister said Tehran is “just as prepared for diplomacy as we are for war,” and Iranian security officials threatened facilities across up to seven Gulf countries.",
+      "knownFacts": [
+        {
+          "claim": "The New York Times reported Oct. 21 that U.S. and Israeli militaries have drawn up plans for renewed strikes on Iran after the U.S. midterm elections; ABC News and NPR separately confirmed planning for a possible post-midterm attack.",
+          "evidence": "ABC cites two Israeli sources saying strikes would almost certainly come after the midterms because of Trump’s reluctance to further destabilize oil markets; NPR cites a person briefed on war planning who said an attack is possible in early November, after the midterms, though the preparations could also be part of a pressure campaign for a deal.",
+          "sources": [
+            {
+              "name": "The New York Times — U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Midterm Elections",
+              "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "ABC News — US and Israel drawing up plans to resume attacks on Iran post-election, sources say",
+              "url": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "NPR — U.S. and Israel are planning for a possible post-midterms attack on Iran",
+              "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "The White House told ABC News on Oct. 22 that “the United States will not be attacking Iran at any time prior to the midterm elections,” and a White House official said the administration does not comment on “sensitive military plans that may or may not exist.”",
+          "evidence": "ABC quotes spokesperson Anna Kelly and notes the Pentagon declined to comment; the official added Trump “keeps all options on the table” to prevent Iran from acquiring a nuclear weapon.",
+          "sources": [
+            {
+              "name": "ABC News — US and Israel drawing up plans to resume attacks on Iran post-election, sources say",
+              "url": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "Hegseth made an unannounced visit to Israel on Monday, Oct. 19, and met Netanyahu, about a week before Israel’s Oct. 27 elections.",
+          "evidence": "CBS News confirmed the meeting through a senior U.S. military official and a second source; Hegseth told reporters he “had a chance to talk to the prime minister” but would not describe the conversations. One Israeli source told ABC the renewed strike plans were discussed during the visit.",
+          "sources": [
+            {
+              "name": "CBS News — Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war",
+              "url": "https://www.cbsnews.com/news/hegseth-visits-israel-elections-iran-war-netanyahu/",
+              "date": "2026-10-20"
+            },
+            {
+              "name": "ABC News — US and Israel drawing up plans to resume attacks on Iran post-election, sources say",
+              "url": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "Iranian officials threatened broad retaliation, including against Gulf oil facilities, data centers and undersea internet cables, if U.S.-Israeli attacks resume.",
+          "evidence": "The Guardian quotes Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, and an adviser, Mehdi Mohammadi, describing a “zero red lines” strategy; NPR quotes Foreign Minister Abbas Araghchi: “We are just as prepared for diplomacy as we are for war.”",
+          "sources": [
+            {
+              "name": "The Guardian — Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
+              "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "NPR — U.S. and Israel are planning for a possible post-midterms attack on Iran",
+              "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+              "date": "2026-10-22"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "“No attack before the midterms” presented as a de-escalation pledge.",
+          "example": "The White House statement to ABC that the U.S. will not attack “prior to the midterm elections,” alongside Israeli sources telling ABC “the only question is the timing.”",
+          "howItMisleads": "The pledge is limited to a date. Read alone, it can sound like restraint; read with the planning reports, it describes a sequencing decision. Neither the White House nor the sources say a decision to strike has been made."
+        },
+        {
+          "type": "headline",
+          "description": "Anonymous-source planning stories read as a decision already made.",
+          "example": "Headlines such as NPR’s “U.S. and Israel are planning for a possible post-midterms attack on Iran.”",
+          "howItMisleads": "Militaries routinely prepare options. NPR’s own source said the buildup could also be leverage for a deal, and Trump gave conflicting answers on whether talks continue. Planning is documented; an order is not."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "hormuz-tanker-claims-oil",
+      "title": "Iran claims seven tankers were hit in Hormuz in one night as Brent hovers near $109; U.S. disputes its mine claims",
+      "summary": "Iranian state TV said Oct. 22 that seven oil tankers were attacked or struck naval mines in and near the Strait of Hormuz overnight—possibly the most in one day since the war began Feb. 28. CENTCOM has called Iran’s recent mine claims false, and maritime security monitors say several earlier claims were never substantiated. Brent settled at $108.82 on Oct. 21 and traded above $113 on Oct. 22, even as Kpler data showed Gulf export flows recovering.",
+      "tags": [
+        "Energy",
+        "Iran",
+        "Shipping",
+        "Economy"
+      ],
+      "overview": "The shipping war intensified this week, but much of what was announced came from one side. The IRGC said Oct. 20 that mines disabled tankers on routes Tehran calls unauthorized, then claimed four commercial ships were struck while transferring oil ship to ship and three more hit mines—seven in all, per Iranian state TV as reported by AP and NPR. The Guardian notes there was no independent verification. None of the vessels were named, and no shipowner or flag state publicly reported a strike in the cases Oil Price Live reviewed. A CENTCOM spokesman rejected the mine accounts, saying U.S. forces had swept the strait’s international lanes. gCaptain documented a pattern of unverified IRGC mine claims since July, including one about the containership GFS Pride, which CENTCOM and the Joint Maritime Information Center said was hit by a projectile, not a mine. The threat is still real: at least 18 vessel attacks in two weeks per Kpler (via Reuters), and JMIC keeps a SEVERE threat level. Markets priced both risk and recovery. Brent settled at $108.82 and WTI at $97.15 on Oct. 21. Goldman Sachs said crude freight costs are above $20 a barrel versus $3 a year ago, and Kpler data showed Gulf export flows back above prewar levels last week via the strait and alternative routes.",
+      "knownFacts": [
+        {
+          "claim": "Iranian state television reported Oct. 22 that seven oil tankers were attacked or hit naval mines in the Strait of Hormuz overnight, possibly the largest single-day number of vessels damaged there since the war began Feb. 28.",
+          "evidence": "AP relays the state TV report, and The Guardian says the IRGC claimed four ships were struck while transferring oil ship to ship and three more hit mines, with no independent verification; ABC reports the IRGC Navy separately claimed attacks on four vessels in the north-central Persian Gulf it accused of using an “illegal route.” The vessels were not identified.",
+          "sources": [
+            {
+              "name": "AP — Iran says 7 tankers damaged in Strait of Hormuz",
+              "url": "https://apnews.com/article/mideast-yemen-saudi-israel-october-22-2026-dde5b98a8bf961224514994b02babce9",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "The Guardian — Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
+              "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "ABC News — Iran live updates",
+              "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "U.S. Central Command rejected Iran’s claims that tankers struck mines, saying U.S. forces had already swept the strait’s international lanes clear of mines.",
+          "evidence": "Oil Price Live reports that none of the ships in the Oct. 20 claims was identified by name, flag or owner, and no shipowner or flag state had reported a strike. gCaptain reports that JMIC said Oct. 18 there was “no substantiation” for Oct. 17 IRGC mine claims, and that CENTCOM attributed the GFS Pride sinking to an IRGC projectile.",
+          "sources": [
+            {
+              "name": "Oil Price Live — US rejects Iran's claim that its mines struck three Hormuz tankers",
+              "url": "https://www.oilpricelive.com/news/iran-says-mines-hit-three-tankers-hormuz-us-calls-it-false",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "gCaptain — Iran Claims More Tankers Hit Mines in Hormuz, But Evidence Remains Elusive",
+              "url": "https://gcaptain.com/iran-claims-more-tankers-hit-mines-in-hormuz-but-evidence-remains-elusive/",
+              "date": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "claim": "Brent crude settled at $108.82 a barrel and WTI at $97.15 on Oct. 21, after Brent touched a five-month high the previous session.",
+          "evidence": "CNBC and Reuters report the settlements, and Oil Price Live reports Brent hit a five-month high above $111 early on Oct. 20; Reuters and Oil Price Live cite Kpler data showing at least 18 vessel attacks over two weeks. CNBC cites Goldman Sachs estimating crude freight above $20 a barrel versus $3 a year earlier.",
+          "sources": [
+            {
+              "name": "CNBC — Oil prices mixed as traders assess Middle East developments",
+              "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "Reuters (via Yahoo Finance) — Oil prices steady as investors weigh geopolitics, lower US stockpiles",
+              "url": "https://finance.yahoo.com/news/oil-rises-middle-east-supply-005041638.html",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "Oil Price Live — US rejects Iran's claim that its mines struck three Hormuz tankers",
+              "url": "https://www.oilpricelive.com/news/iran-says-mines-hit-three-tankers-hormuz-us-calls-it-false",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "Despite the attacks, crude flows out of the Persian Gulf recovered to roughly prewar levels, but higher shipping costs and rerouting have kept prices elevated.",
+          "evidence": "MarketWatch reports both benchmarks were up nearly 10% in October and that prices remain elevated despite the flow recovery; Deutsche Bank sees Brent at $74 in 2027 under a negotiated ceasefire, or toward $130 in an extended war.",
+          "sources": [
+            {
+              "name": "MarketWatch (via Morningstar) — Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+              "url": "https://www.morningstar.com/news/marketwatch/20261021379/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon",
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "IRGC Navy statements via Iranian state media (Oct. 20–22)",
+          "pieceTitle": "Claims that tankers using “unauthorized” routes were disabled by Iranian naval mines",
+          "pieceUrl": "https://gcaptain.com/iran-claims-more-tankers-hit-mines-in-hormuz-but-evidence-remains-elusive/",
+          "claimMade": "That multiple unnamed tankers caught fire or were halted after striking IRGC mines on routes Tehran deems illegal.",
+          "whyInaccurate": "The vessels were not named and no shipowner or flag state reported strikes in the cases reviewed. CENTCOM calls the mine claims false, and JMIC and UKMTO have repeatedly found earlier IRGC mine claims unsubstantiated; in the GFS Pride case, the cause was identified as a projectile. Attacks on shipping are real, but the specific mine-strike claims remain unverified.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "selective_emphasis",
+          "description": "Attack counts versus flow data.",
+          "example": "Iran’s “seven tankers” claim led headlines on Oct. 22, while MarketWatch reported the same week that Gulf oil flows were back near prewar levels.",
+          "howItMisleads": "Both are true at once. Reading only the attack tallies overstates supply loss; reading only the flow data understates the shipping-cost and war-risk premium that keeps prices high."
+        },
+        {
+          "type": "framing",
+          "description": "State-media claims relayed as events.",
+          "example": "Wire headlines such as “Iran says 7 tankers damaged in Strait of Hormuz” are attributed correctly, but they spread on social media as confirmed sinkings.",
+          "howItMisleads": "Iran has an interest in deterring traffic on routes it doesn’t control. Until vessels are named and independent monitors confirm, treat the claims as claims."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "gas-prices-vance-refining",
+      "title": "Gas averages $4.27 in a record-priced October; PolitiFact rates false Vance’s claim that Biden-era refinery losses are the main cause",
+      "summary": "AAA said Oct. 22 that the national average fell 6 cents in a week to $4.27, but October is on track to be the most expensive October on record as crude stays near $100. At an Oct. 17 CBS town hall, Vice President JD Vance said “the biggest reason” for high gas prices is that about 20% of U.S. refining capacity went offline under Biden; PolitiFact rated it False. The first Russian diesel cargo under Trump’s deal with Putin loaded Oct. 22 and is due in New York Nov. 7.",
+      "tags": [
+        "Economy",
+        "Energy",
+        "Inflation",
+        "Midterms"
+      ],
+      "overview": "Fuel prices remain a central midterm issue, and both parties are fighting over who gets the blame. AAA’s weekly report shows a modest drop, mostly from the seasonal switch to cheaper winter-blend gasoline, while crude near $100 keeps prices from falling further; AAA says October is set to break records, as August and September did. Vance told a CBS News town hall that the main driver was Biden-era refining losses. PolitiFact found the 20% figure applies to California, not the nation: national refining capacity has been largely stable, and the two California refinery closures happened during Trump’s second term. Experts it interviewed identified the Iran war and its disruption of Hormuz shipping and Gulf infrastructure as the main cause. On supply, the administration’s Russian diesel deal produced its first U.S.-bound cargo: Reuters ship-tracking shows the tanker Agioi Fanendes loaded 40,000 metric tons at Primorsk on Oct. 22, due Nov. 7. Trump announced Oct. 9 that Russia would export 300,000 tons immediately, 500,000 in November and 1 million after that. It is the first U.S. import of Russian oil products since the 2022 ban.",
+      "knownFacts": [
+        {
+          "claim": "AAA reported Oct. 22 that the national average price of regular gasoline fell 6 cents in a week to $4.27, and that October is poised to be the most expensive October ever for gas.",
+          "evidence": "AAA attributes the drop to the switch to cheaper winter-blend fuel and says crude near $100 a barrel “amid instability in the Strait of Hormuz” is preventing steep declines, following record-high prices in August and September.",
+          "sources": [
+            {
+              "name": "AAA Newsroom — National Average Falls 6 Cents, But Crude Oil Nears $100/Barrel",
+              "url": "https://newsroom.aaa.com/2026/10/national-average-falls-6-cents-but-crude-oil-nears-100-barrel/",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "At a CBS News town hall on Oct. 17, Vance said “the biggest reason why gas prices are so high is because when Joe Biden was president, we had about 20% of American refining capacity that went offline.” PolitiFact rated the claim False.",
+          "evidence": "PolitiFact found California, not the U.S., has lost about 20% of its refining capacity; national capacity has been largely stable per EIA data. An analyst’s count found capacity lost to shutdowns under Trump was four times that lost under Biden. Experts said the Iran war is the most obvious cause of current prices.",
+          "sources": [
+            {
+              "name": "PolitiFact — JD Vance falsely blames Biden policy for high gas prices. Iran war is mainly to blame.",
+              "url": "https://politifact.com/factchecks/2026/oct/19/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall/",
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "claim": "The two California refinery closures that PolitiFact discussed took effect during Trump’s second term.",
+          "evidence": "PolitiFact notes Phillips 66 announced its Los Angeles closure two weeks before Trump won reelection in 2024 and Valero announced its Benicia closure in April 2025; both facilities closed under Trump. Experts told PolitiFact Biden’s climate and energy policies could play a long-term role in nudging refiners to cut back, but are not the prime culprit for today’s prices.",
+          "sources": [
+            {
+              "name": "PolitiFact — JD Vance falsely blames Biden policy for high gas prices. Iran war is mainly to blame.",
+              "url": "https://politifact.com/factchecks/2026/oct/19/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall/",
+              "date": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "claim": "The first Russian diesel cargo bound for the U.S. under Trump’s deal with Putin loaded 40,000 metric tons at Primorsk on Oct. 22 and is expected to arrive Nov. 7, four days after the midterms.",
+          "evidence": "Reuters cites LSEG ship-tracking data and says the cargo is the first U.S. import of Russian oil products since the 2022 ban; the buyer and seller were not immediately known. Trump announced 300,000 tons immediately, 500,000 in November and 1 million tons after that.",
+          "sources": [
+            {
+              "name": "Reuters (via Investing.com) — Exclusive-First Russian diesel from Putin-Trump deal heading for US, data shows",
+              "url": "https://www.investing.com/news/economic-indicators/exclusivetanker-carrying-40000-t-of-russian-diesel-heads-to-new-york-after-putintrump-deal-data-shows-4968099",
+              "date": "2026-10-23"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Vice President JD Vance (CBS News town hall, Oct. 17)",
+          "pieceTitle": "Remarks on gas prices and refining capacity",
+          "pieceUrl": "https://politifact.com/factchecks/2026/oct/19/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall/",
+          "claimMade": "“The biggest reason why gas prices are so high is because when Joe Biden was president, we had about 20% of American refining capacity that went offline.”",
+          "whyInaccurate": "The ~20% loss is California’s, not the nation’s; U.S. refining capacity has been largely stable. The California closures took effect under Trump, and experts cite the Iran war’s disruption of Hormuz shipping and Gulf infrastructure as the main driver. PolitiFact rated it False.",
+          "severity": "false"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Blame for pump prices assigned by party.",
+          "example": "Vance blaming Biden-era refinery losses, while the administration also promotes the Russian diesel deal as relief.",
+          "howItMisleads": "Prices reflect global crude and freight costs tied to the war. Neither a past administration’s refinery decisions nor one 40,000-ton cargo arriving after Election Day explains much of the current national average."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Weekly dips versus record levels.",
+          "example": "AAA’s headline that the national average “falls 6 cents,” in the same release that calls October a likely record.",
+          "howItMisleads": "A seasonal winter-blend decline can be framed as relief or ignored as noise. The level is still historically high, and AAA says crude prices are preventing steep declines."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "polls-trump-record-lows-dem-lead",
+      "title": "New CNN and NYT/Siena polls show Trump approval at record lows and Democrats up about 10 points two weeks out",
+      "summary": "A CNN/SSRS poll released Oct. 21 put Trump’s approval at a record-low 32% and Democrats ahead 49%–39% on the generic House ballot among registered voters. NYT/Siena found 36% approval among likely voters, its lowest across his two terms, and a 10-point Democratic lead with named candidates. Other trackers showed Democratic leads of about 7 to 12 points. CNN cautioned that redistricting and GOP-leaning battlegrounds could limit how much that margin translates into seats.",
+      "tags": [
+        "Polling",
+        "Midterms",
+        "Congress",
+        "Elections"
+      ],
+      "overview": "With early voting under way, several high-quality polls released the same day pointed in the same direction. CNN/SSRS (Oct. 15–18; 1,206 registered voters; ±3.3 among RVs) found Trump at 32% approval, 27% on the economy and 23% on inflation, with Republican approval of him at a numeric low of 74%. Democrats led 49–39, CNN’s widest generic-ballot margin since just before the 2020 election. NYT/Siena’s national sample of more than 3,000 voters found 36–59 approval, with gas prices at 24–73 and cost of living at 29–69; Democrats led by 10 on House races with candidate names and by five in Senate-race states. Strength In Numbers/Verasight showed Democrats up 12 among likely voters, and ActiVote showed D+7.4. CNN also found that voters who have already cast ballots break 70–29 Democratic, while those yet to vote split 46–41, and that only 41% think the country would be better off under a Democratic Congress. Trump told reporters Oct. 19 that “the polls are fake,” per PBS.",
+      "knownFacts": [
+        {
+          "claim": "A CNN/SSRS poll conducted Oct. 15–18 found Trump’s approval at a record-low 32% and Democrats leading 49%–39% among registered voters on the generic congressional ballot.",
+          "evidence": "CNN says the margin is its largest since just before the 2020 election; approval is 27% on the economy and 23% on inflation; Republicans’ approval of Trump is 74%, down from 88% in February 2025. Sample: 1,701 adults including 1,206 registered voters; ±3.3 points among RVs.",
+          "sources": [
+            {
+              "name": "CNN — Trump’s approval rating hits a new low as midterms enter final stretch: CNN poll",
+              "url": "https://www.cnn.com/2026/10/21/politics/cnn-poll-trump-democrats-republicans-midterms",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "The NYT/Siena national survey released Oct. 21 found Trump’s job approval at 36% approve, 59% disapprove, with Democrats leading by 10 points in House races when named candidates were provided.",
+          "evidence": "Siena reports approval on gas prices at 24–73 and cost of living at 29–69, and a five-point Democratic lead in the 35 states with Senate races. POLITICO notes 36% among likely voters is Trump’s lowest in any Times/Siena poll across both terms.",
+          "sources": [
+            {
+              "name": "Siena Research Institute — New York Times/Siena National Survey",
+              "url": "https://sri.siena.edu/2026/10/21/new-york-times-siena-national-survey/",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "POLITICO — Trump’s approval ratings hit new lows in final stretch of midterms",
+              "url": "https://www.politico.com/news/2026/10/21/donald-trump-approval-rating-midterms-01128897",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "Other polls released Oct. 21 also showed Democratic generic-ballot leads at or near their highs for the cycle.",
+          "evidence": "Strength In Numbers/Verasight: Democrats 52–41 among registered voters and 54–42 among likely voters, both series highs, with Trump approval at 34%. ActiVote (1,000 likely voters, Oct. 15–21): D+7.4, up from D+6.6 a week earlier.",
+          "sources": [
+            {
+              "name": "Strength In Numbers — Poll: Democrats post their biggest generic-ballot lead yet, two weeks out",
+              "url": "https://www.gelliottmorris.com/p/2026-10-21-october-strength-in-numbers-verasight-poll-release",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "ActiVote — Generic ballot poll, Oct 2026",
+              "url": "https://www.activote.net/polls/generic-ballot/",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "CNN cautioned that mid-decade redistricting and the number of competitive races in Trump-won territory could limit how a national margin translates into seats, and found voters ambivalent about Democrats.",
+          "evidence": "41% say the country would be better off if Democrats win Congress, 37% worse off, and 22% no different. Voters who have already cast ballots favor Democrats 70–29, while those yet to vote are split 46–41.",
+          "sources": [
+            {
+              "name": "CNN — Trump’s approval rating hits a new low as midterms enter final stretch: CNN poll",
+              "url": "https://www.cnn.com/2026/10/21/politics/cnn-poll-trump-democrats-republicans-midterms",
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "selective_emphasis",
+          "description": "Early-vote splits read as a final result.",
+          "example": "CNN’s finding that voters who have already cast ballots break 70–29 for Democrats.",
+          "howItMisleads": "Early voters skew toward the more engaged and, this cycle, Democratic voters. CNN shows the remaining electorate much closer (46–41), so early returns are not a forecast."
+        },
+        {
+          "type": "framing",
+          "description": "National margins treated as seat counts.",
+          "example": "Coverage of a “10-point edge” alongside CNN’s caveat about redistricting and Trump-won battlegrounds.",
+          "howItMisleads": "The generic ballot measures national preference, not district-by-district outcomes. A big popular-vote lead can produce smaller-than-expected seat gains."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "wedgewood-fake-polls-carr",
+      "title": "Pollster ‘Wedgewood’ admits fabricating nearly all its polls; FCC chair Carr then warns broadcasters about airing ‘fake polls’",
+      "summary": "After the aggregator FiftyPlusOne questioned its data, Wedgewood Polling said Oct. 20 that nearly all its releases were fabricated as a “social experiment”; FiftyPlusOne, NYT/Siena, Nate Silver and Decision Desk removed it from their databases. A day later, FCC Chair Brendan Carr warned broadcasters that airing “fake polls” could violate license obligations and cited, without evidence, a “significant surge” in “Fake Polls and Suppression Polls.” FCC Commissioner Anna Gomez said good-faith reporting of poll data is not covered by those rules.",
+      "tags": [
+        "Polling",
+        "Media",
+        "FCC",
+        "Elections"
+      ],
+      "overview": "This is the cycle’s second polling-fabrication scandal, after Median Strategies admitted in August to faking results. FiftyPlusOne found irregularities in Wedgewood’s raw data and asked about them, and the firm replied with an expletive, according to Axios. It then said on X that it had wanted to test how easily a fabricated firm could “gain traction,” while maintaining that one crowdfunded Nebraska poll was real. Columbia statistician Andrew Gelman noted the statement came the day the firm was caught, and FiftyPlusOne’s Mary Radcliffe said she believed it was trying to get ahead of bad press. The Times said it had listed 15 Wedgewood surveys after receiving answers to detailed questions. Michigan Democrat Mallory McMorrow, who suspended her Senate campaign in July, said a June Wedgewood poll showing her in single digits hurt fundraising. Carr then took up a theme Trump has pressed: Trump said Oct. 19 that “the polls are fake.” Carr warned stations against “News Distortions” and “Broadcast Hoaxes” involving polls. PBS notes FCC guidance says enforcement requires proof of deliberate distortion, and that mistakes are not actionable.",
+      "knownFacts": [
+        {
+          "claim": "Wedgewood Polling said on X that the vast majority of its data was fabricated, calling it an “experimental project to demonstrate the vulnerabilities” of the polling industry, after FiftyPlusOne questioned its results.",
+          "evidence": "PBS reports the statement came Tuesday, Oct. 20, and that the firm’s website now shows an error; Axios reports Wedgewood said all but one of its polls were fabricated and that a crowdfunded Nebraska poll was legitimate.",
+          "sources": [
+            {
+              "name": "PBS News — An alleged national pollster says it faked its data as a 'social experiment.' Here's what to know",
+              "url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "Axios — Election polling rocked by a new fake data scandal",
+              "url": "https://www.axios.com/2026/10/21/fake-polls-midterms-wedgewood-investigation",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "FiftyPlusOne, NYT/Siena’s polling operation, Nate Silver and Decision Desk HQ removed Wedgewood from their databases; the Times had listed 15 of its surveys.",
+          "evidence": "Axios reports the removals and the Times’ statement that it listed the surveys after receiving answers to detailed questions. PBS says MS NOW, Newsweek, Decision Desk HQ and Mediaite had cited Wedgewood polls, and that Straight Arrow News and Urban Milwaukee raised doubts months earlier.",
+          "sources": [
+            {
+              "name": "Axios — Election polling rocked by a new fake data scandal",
+              "url": "https://www.axios.com/2026/10/21/fake-polls-midterms-wedgewood-investigation",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "PBS News — An alleged national pollster says it faked its data as a 'social experiment.' Here's what to know",
+              "url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "FCC Chair Brendan Carr said Oct. 21 that broadcasters could violate their regulatory obligations by airing “fake polls,” and asserted a “significant surge in entirely Fake Polls and Suppression Polls” without naming any.",
+          "evidence": "PBS quotes Carr and Commissioner Anna Gomez’s response that FCC news-distortion and hoax rules “do not apply to a station that reports this data in good faith.” PBS cites FCC guidance that only deliberate distortion is actionable and that “errors stemming from mistakes are not actionable.”",
+          "sources": [
+            {
+              "name": "PBS News — An alleged national pollster says it faked its data as a 'social experiment.' Here's what to know",
+              "url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "Axios — Election polling rocked by a new fake data scandal",
+              "url": "https://www.axios.com/2026/10/21/fake-polls-midterms-wedgewood-investigation",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "Analysts questioned Wedgewood’s claim that the fabrication was planned as an experiment from the start.",
+          "evidence": "Gelman wrote it was “kind of suspicious” that the statement came the day the firm was caught; FiftyPlusOne’s Radcliffe told Axios she thought the firm was trying to get ahead of bad press.",
+          "sources": [
+            {
+              "name": "Andrew Gelman, Statistical Modeling, Causal Inference, and Social Science blog — post on reporters catching “Wedgewood Polls”",
+              "url": "https://statmodeling.stat.columbia.edu/2026/10/20/legit-political-reporters-use-data-journalism-techniques-to-catch-fake-pollsters-at-wedgewood-polls/",
+              "date": "2026-10-20"
+            },
+            {
+              "name": "PBS News — An alleged national pollster says it faked its data as a 'social experiment.' Here's what to know",
+              "url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "Axios — Election polling rocked by a new fake data scandal",
+              "url": "https://www.axios.com/2026/10/21/fake-polls-midterms-wedgewood-investigation",
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Wedgewood Polling (statement on X, Oct. 20)",
+          "pieceTitle": "Statement describing its polling as a social experiment",
+          "pieceUrl": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+          "claimMade": "That FiftyPlusOne and The New York Times aggregated its data “without verifying the source, methodology, or underlying firm legitimacy.”",
+          "whyInaccurate": "Both organizations said they contacted the firm with questions about its operations and methods before including its data. The Times says it received answers to detailed questions, and FiftyPlusOne says it confirmed one named principal had polling experience. They were deceived, but they did not skip vetting.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "One fraud recast as proof that unfavorable polls are fake.",
+          "example": "Trump’s Oct. 19 “the polls are fake” and Carr’s unsupported claim of a “surge” in “Suppression Polls,” coming right after a scandal that aggregators caught themselves.",
+          "howItMisleads": "Wedgewood was a fabricator, not a major media pollster, and its polls had been cited by outlets across the spectrum. The record shows a vetting failure that the industry exposed; it does not show that nonpartisan, transparent polls showing Trump’s low approval are fake."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Regulatory threat versus regulatory standard.",
+          "example": "Carr warning stations against “Broadcast Hoaxes” involving polls.",
+          "howItMisleads": "FCC guidance limits enforcement to deliberate distortion of significant news. A warning that leaves out that standard can chill routine poll coverage."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "talarico-russian-deepfake",
+      "title": "AI deepfake accusing Texas Senate candidate James Talarico of misconduct traced to Russian ‘Storm-1516’ operation",
+      "summary": "A video posted Oct. 20 on X claimed to show a former middle-school student accusing Democratic Senate candidate James Talarico of sexual misconduct. Researchers at Clemson, Graphika and NewsGuard tied it to the Russian influence campaign Storm-1516 and found signs of AI generation. The real man it impersonated told Lead Stories it was not him. PolitiFact rated it Pants on Fire; X suspended the original account, which NewsGuard said was created in September with Romania as the signup country.",
+      "tags": [
+        "Elections",
+        "Misinformation",
+        "Texas",
+        "Senate"
+      ],
+      "overview": "It is the second viral fabrication against Talarico in two weeks, after the debunked “Ohio psychiatric hospital” claim covered last week. He faces Republican Ken Paxton. This time, the video showed a man claiming to have been Talarico’s student at Rhodes Middle School in San Antonio, where Talarico taught. Graphika said the posting account “very likely” impersonated a real Texas Facebook user who was Talarico’s student and has praised him online, and that man told Lead Stories the video was not of him. NewsGuard found unnatural eye movements and stiff expressions, and a detection tool rated it 98% likely to be a deepfake. Clemson’s Darren Linvill attributed it to Storm-1516, which he said used a paid actor against Tim Walz in 2024. A prominent amplifier, SGAnon, shared and then deleted it, saying an analysis showed it was “artificially generated.” Graphika said several U.S. conservative accounts also shared it. Linvill said the goal is less to persuade than to entrench partisanship and motivate turnout.",
+      "knownFacts": [
+        {
+          "claim": "PolitiFact rated Pants on Fire the claim that a viral video shows a former Talarico student accusing him of misconduct; X suspended the original account as of Oct. 22, though other accounts kept sharing it.",
+          "evidence": "PolitiFact cites NewsGuard reporting that X said the account was created in September with Romania as the signup country.",
+          "sources": [
+            {
+              "name": "PolitiFact — Russian disinformation group targets James Talarico with baseless claim in AI-generated video",
+              "url": "https://politifact.com/factchecks/2026/oct/22/tweets/russian-disinformation-group-targets-james-talarico-with-baseless-claim-in-ai-generated-video/",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "Researchers attributed the video to Storm-1516, a Russian propaganda campaign, and found signs it was AI-generated.",
+          "evidence": "Clemson Media Forensic Hub head Darren Linvill attributed it to Storm-1516; NewsGuard cited unnatural eye movements and stagnant expressions and a detection tool’s 98% deepfake likelihood; Graphika said known Storm-1516 amplifiers and several U.S. conservative accounts shared it.",
+          "sources": [
+            {
+              "name": "PolitiFact — Russian disinformation group targets James Talarico with baseless claim in AI-generated video",
+              "url": "https://politifact.com/factchecks/2026/oct/22/tweets/russian-disinformation-group-targets-james-talarico-with-baseless-claim-in-ai-generated-video/",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "The man the video appeared to impersonate, a real former Talarico student, denied making it.",
+          "evidence": "Graphika said the account “very likely” impersonated a Texas Facebook user who had praised Talarico as recently as February; that man told Lead Stories the video was not of him, and PolitiFact found no such video on his page.",
+          "sources": [
+            {
+              "name": "PolitiFact — Russian disinformation group targets James Talarico with baseless claim in AI-generated video",
+              "url": "https://politifact.com/factchecks/2026/oct/22/tweets/russian-disinformation-group-targets-james-talarico-with-baseless-claim-in-ai-generated-video/",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "The earlier viral claim that Talarico had been discharged from an Ohio psychiatric hospital was rated Pants on Fire.",
+          "evidence": "PolitiFact (published via Poynter Oct. 13) reports the Lindner Center of Hope said Talarico “has never received treatment” there, and he appeared in public Oct. 9 and Oct. 10, contradicting the claimed discharge timeline.",
+          "sources": [
+            {
+              "name": "Poynter (PolitiFact) — A viral rumor claimed James Talarico was in a psychiatric hospital. The evidence doesn’t hold up.",
+              "url": "https://www.poynter.org/fact-checking/2026/james-talarico-psychiatric-hospital-rumor/",
+              "date": "2026-10-13"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "X account later suspended (video post, Oct. 20) and reposts",
+          "pieceTitle": "Video purporting to show a former Talarico student accusing him of misconduct",
+          "pieceUrl": "https://politifact.com/factchecks/2026/oct/22/tweets/russian-disinformation-group-targets-james-talarico-with-baseless-claim-in-ai-generated-video/",
+          "claimMade": "That the video shows a real former student of Talarico at Rhodes Middle School accusing him of sexual misconduct.",
+          "whyInaccurate": "The video bears AI-generation markers (98% deepfake likelihood per NewsGuard), the man it appears to impersonate denied it, the originating account was created in September with Romania as signup country, and researchers tie it to Russia’s Storm-1516. PolitiFact: Pants on Fire.",
+          "severity": "false"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "channel_presentation",
+          "description": "A fabricated “testimony” video with no attribution.",
+          "example": "A selfie-style video of a supposed victim, posted by a new account and amplified by influencers before deletion.",
+          "howItMisleads": "First-person video feels authentic. With no named source, no reporting and a brand-new account, the format replaces evidence. Check the account’s history and whether any outlet has verified the person."
+        },
+        {
+          "type": "framing",
+          "description": "Foreign operation laundered through domestic partisan accounts.",
+          "example": "Graphika’s finding that U.S. conservative accounts shared content seeded by known Storm-1516 amplifiers.",
+          "howItMisleads": "Once domestic accounts repost it, the claim reads as homegrown political criticism and its origin is lost. Being shared widely is not evidence it is true."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "voting-machine-flip-rumors",
+      "title": "Touchscreen mix-ups in Tennessee and other states spark ‘vote-flipping’ claims; officials and fact-checkers find no evidence of rigging",
+      "summary": "As early voting surged, posts claimed machines in Tennessee, Texas, Florida, Ohio and elsewhere were switching votes, many of them amplified by Stella Parton, Dolly Parton’s sister, who said her pick kept defaulting to Republican Marsha Blackburn. Fact-checkers say the touch-screen miscues voters described were real but were corrected before casting and leave a paper ballot voters can check, and that there is no evidence of deliberate switching. A separate viral video claiming a 2026 machine “automatically selects the Democrat” was spliced from 2014 and 2019 footage.",
+      "tags": [
+        "Elections",
+        "Misinformation",
+        "Election Administration",
+        "Tennessee"
+      ],
+      "overview": "This week’s election rumors ran in both partisan directions. Voters in Williamson and Davidson counties told WSMV that their selection for Democrat Jerri Green kept jumping to Blackburn, and the UW Center for an Informed Public said there is no reason to doubt those accounts. Calibration problems on some older touchscreens are well known and can register a touch in the wrong spot. The misleading part was the claim of intent. A copy-pasted post said machines in several states “change them back to Republican,” and others alleged rigging. The Crosscheck noted Tennessee lists Republicans first on the ballot, which can explain why stray touches favor them. Snopes contacted officials in six states and none reported widespread switching; Tennessee’s secretary of state told WSMV it had received one related complaint out of about 400,000 early votes. In Johnson County, Kansas, officials recalibrated several screens after reports. Going the other way, an X post on Oct. 21 shared a video claiming a machine “automatically selects the Democrat”; Lead Stories traced the clips to a 2019 Mississippi GOP runoff and a 2014 Virginia race. Meanwhile, a California printer’s duplicate-ballot error was spun into fraud claims, though the printer took responsibility and safeguards prevent double counting, per CIP.",
+      "knownFacts": [
+        {
+          "claim": "Voters in Middle Tennessee reported that touchscreen selections jumped to a different candidate, typically Blackburn when they chose Green, and corrected them before casting.",
+          "evidence": "WSMV interviewed affected voters; Snopes reports Tennessee’s secretary of state received only one related complaint out of about 400,000 early votes, and Williamson County’s election administrator found “no discrepancies in the voting equipment.”",
+          "sources": [
+            {
+              "name": "WSMV — Early voters report challenges casting their vote at Middle Tennessee locations",
+              "url": "https://www.wsmv.com/2026/10/20/early-voters-report-challenges-casting-their-vote-middle-tennessee-locations/",
+              "date": "2026-10-20"
+            },
+            {
+              "name": "Snopes — Voting machines aren't deliberately switching votes. Here's what's likely happening",
+              "url": "https://www.snopes.com/fact-check/voting-machines-switching-votes-midterms/",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "The Crosscheck — Tennessee voters’ touchscreen mix-ups are real; there’s no evidence machines are flipping votes",
+              "url": "https://thecrosscheck.org/factcheck/2026-10-21-tennessee-voting-machines-flipping-votes-factcheck/",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "Snopes, The Crosscheck and the UW Center for an Informed Public found no evidence that machines were deliberately switching votes; officials pointed to touch-screen alignment and human error.",
+          "evidence": "Snopes reports officials in six states shared no evidence of widespread switching, that machines print a paper ballot voters can review, and that Johnson County, Kansas, recalibrated several screens after complaints. The Crosscheck notes Tennessee’s Republican-first ballot order can explain the direction of stray touches.",
+          "sources": [
+            {
+              "name": "Snopes — Voting machines aren't deliberately switching votes. Here's what's likely happening",
+              "url": "https://www.snopes.com/fact-check/voting-machines-switching-votes-midterms/",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "The Crosscheck — Tennessee voters’ touchscreen mix-ups are real; there’s no evidence machines are flipping votes",
+              "url": "https://thecrosscheck.org/factcheck/2026-10-21-tennessee-voting-machines-flipping-votes-factcheck/",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "UW Center for an Informed Public — Election Rumor Rundown for October 22",
+              "url": "https://www.cip.uw.edu/2026/10/22/election-rumor-rundown-october-22-stella-parton/",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "A viral Oct. 21 X video claiming a 2026 machine would not let a voter pick the Republican and “automatically selects the Democrat” combines clips from 2019 and 2014.",
+          "evidence": "Lead Stories traced the first clip to an Aug. 27, 2019, Mississippi Republican primary runoff, with both candidates Republican, and the second to Virginia’s 2nd District race on Nov. 4, 2014.",
+          "sources": [
+            {
+              "name": "Lead Stories — Fact Check: Video Does NOT Show Touchscreen Voting Machine Selecting Wrong Candidate From The 2026 Election -- Clips Are From 2014 And 2019",
+              "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-touchscreen-voting-machine-selecting-wrong-candidate-from-2026-election-clips-in-video-are-from-2014-and-2019.html",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "Rumors about mail ballots and duplicate ballots also spread with conspiratorial framing; researchers found the underlying incidents mostly real but not intentional.",
+          "evidence": "CIP says a California ballot printer took responsibility for mailing duplicate ballots and that safeguards typically prevent double counting; on Pennsylvania mail ballots returned to senders, it said the underlying reports appear true but rumors alleging the returns were intentional are unlikely to be true.",
+          "sources": [
+            {
+              "name": "UW Center for an Informed Public — Election Rumor Rundown for October 22",
+              "url": "https://www.cip.uw.edu/2026/10/22/election-rumor-rundown-october-22-stella-parton/",
+              "date": "2026-10-22"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Copy-pasted social posts on Facebook, Threads and X (Oct. 21)",
+          "pieceTitle": "“There is a very disturbing trend being seen in early voting…”",
+          "pieceUrl": "https://www.snopes.com/fact-check/voting-machines-switching-votes-midterms/",
+          "claimMade": "That machines in Texas, Florida, Tennessee and Ohio “change them back to Republican unless the voter persists.”",
+          "whyInaccurate": "Snopes found no news reports of the problem in Ohio, and Texas’ secretary of state’s office said it was not aware of anyone reporting it. Tennessee recorded one related complaint out of about 400,000 early votes, and officials attribute such incidents to touch alignment or human error. Voters can verify a paper ballot before casting. Snopes rated the deliberate-switching claim False.",
+          "severity": "misleading"
+        },
+        {
+          "outlet": "@IAMJUSTICE555 (X post, Oct. 21)",
+          "pieceTitle": "“Can you say national emergency!!!?”",
+          "pieceUrl": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-touchscreen-voting-machine-selecting-wrong-candidate-from-2026-election-clips-in-video-are-from-2014-and-2019.html",
+          "claimMade": "That the video shows a 2026 voting machine refusing a Republican vote and automatically selecting the Democrat.",
+          "whyInaccurate": "The footage is from a 2019 Mississippi Republican runoff, where both candidates were Republicans, and a 2014 Virginia congressional race. It shows nothing from the 2026 election.",
+          "severity": "false"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Real glitches turned into claims of intent.",
+          "example": "Stella Parton’s “Don’t let them rig this election,” amplified by large accounts.",
+          "howItMisleads": "A voter’s accurate account of a frustrating touchscreen becomes, a few shares later, a coordinated plot. The documented problem is usability; the rigging claim has no evidence."
+        },
+        {
+          "type": "image",
+          "description": "Old video given a new date.",
+          "example": "The 2014/2019 clips posted as 2026 “national emergency” footage.",
+          "howItMisleads": "Video feels like proof, but without date and place it proves nothing. Mirror-image rumors from both parties show the format works for any side."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "scotus-nh-student-id-kagan",
+      "title": "Supreme Court lets New Hampshire bar student IDs for voting, citing ‘eve of election’ principle; Kagan warns of a ‘race to the bottom’",
+      "summary": "In an unsigned Oct. 22 order, the Supreme Court stayed a federal judge’s orders in Scanlan v. Coalition for Open Democracy, citing the Purcell principle that federal courts should not alter election rules on the eve of an election. That lets New Hampshire enforce its bar on student IDs as voting photo ID. Justice Ketanji Brown Jackson dissented alone. Two days earlier, Justice Elena Kagan said the court’s rulings on gerrymandering, campaign finance and the Voting Rights Act have fueled polarization and a spending “nightmare.”",
+      "tags": [
+        "Supreme Court",
+        "Elections",
+        "Voting Rights",
+        "Midterms"
+      ],
+      "overview": "New Hampshire’s HB 323, effective in June, removed student IDs from acceptable photo ID for getting a ballot. U.S. District Judge Joseph Laplante issued orders Oct. 2 and Oct. 5 that, according to Jackson’s dissent, required the secretary of state to conform his public statements to the letter of state law, after finding his guidance was at best misleading. The majority said the district court gave no reason to depart from Purcell and stayed the orders pending appeal to the First Circuit and any certiorari petition. Jackson argued that an order correcting “a publicized misstatement” about the law promotes rather than undermines Purcell’s goal of avoiding voter confusion. Reuters notes Republicans have generally fared better than Democrats in recent election-related cases at the court. At Catholic University on Oct. 20, Kagan criticized the 2019 ruling barring federal courts from policing partisan gerrymanders, the campaign finance decisions, and the April 29 Voting Rights Act ruling, which she said prompted Southern states to redraw away Black districts.",
+      "knownFacts": [
+        {
+          "claim": "On Oct. 22 the Supreme Court granted New Hampshire’s application to stay the district court’s Oct. 2 and Oct. 5 preliminary-injunction orders in Scanlan v. Coalition for Open Democracy, pending appeal and any certiorari petition.",
+          "evidence": "The unsigned order quotes RNC v. DNC (2020): lower federal courts “should ordinarily not alter the election rules on the eve of an election,” and cites the Sept. 25 People Not Politicians v. Onder order.",
+          "sources": [
+            {
+              "name": "Supreme Court of the United States — Scanlan v. Coalition for Open Democracy, No. 26A512 (order and Jackson dissent)",
+              "url": "https://www.supremecourt.gov/opinions/26pdf/26a512_6j37.pdf",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "SCOTUSblog — Supreme Court allows New Hampshire to restrict use of student IDs in voting",
+              "url": "https://www.scotusblog.com/2026/10/supreme-court-allows-new-hampshire-to-restrict-use-of-student-ids-in-voting/",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "The practical effect is that New Hampshire may bar student IDs as valid photo ID for obtaining a ballot for now; Justice Jackson was the lone dissenter.",
+          "evidence": "SCOTUSblog reports the law (HB 323) passed in April and took effect in June. Jackson wrote that Judge Laplante’s order was “reasonably designed to address alleged misinformation, not to change the law.”",
+          "sources": [
+            {
+              "name": "SCOTUSblog — Supreme Court allows New Hampshire to restrict use of student IDs in voting",
+              "url": "https://www.scotusblog.com/2026/10/supreme-court-allows-new-hampshire-to-restrict-use-of-student-ids-in-voting/",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "Supreme Court of the United States — Scanlan v. Coalition for Open Democracy, No. 26A512 (order and Jackson dissent)",
+              "url": "https://www.supremecourt.gov/opinions/26pdf/26a512_6j37.pdf",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "Speaking at Catholic University’s law school on Oct. 20, Justice Kagan said the court has “blinded itself to the very deleterious effect” of its election rulings.",
+          "evidence": "Bloomberg Law quotes Kagan on a partisan-gerrymandering “race to the bottom,” campaign spending as a “nightmare,” and Southern states redistricting to eliminate Black districts after the April 29 Voting Rights Act ruling.",
+          "sources": [
+            {
+              "name": "Bloomberg Law — Supreme Court’s Kagan Says Election Rulings Creating ‘Nightmare’",
+              "url": "https://news.bloomberglaw.com/us-law-week/supreme-courts-kagan-says-election-rulings-creating-nightmare",
+              "date": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "claim": "Reuters reports that Republicans have generally fared better than Democrats in the spate of recent election-related Supreme Court cases.",
+          "evidence": "Reuters frames the rulings as reshaping the midterm battlefield and notes Democrats need a net gain of four seats in each chamber.",
+          "sources": [
+            {
+              "name": "Reuters (via Investing.com) — US Supreme Court rulings reshape midterm election battlefield",
+              "url": "https://www.investing.com/news/politics-news/us-supreme-court-rulings-reshape-midterm-election-battlefield-4965234",
+              "date": "2026-10-22"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "headline",
+          "description": "“Court allows ID restriction” versus “court blocks misinformation fix.”",
+          "example": "SCOTUSblog’s headline on the student-ID ruling, compared with Jackson’s account that the lower court only ordered officials to describe the law accurately.",
+          "howItMisleads": "Both describe the same order. The stay leaves the law in force and lifts orders about how officials described it. Neither reading resolves whether the law itself is constitutional; the First Circuit appeal continues."
+        },
+        {
+          "type": "framing",
+          "description": "A justice’s critique cast as partisanship or as verdict.",
+          "example": "Coverage of Kagan’s remarks as an alarm about democracy versus as a dissenting justice’s view.",
+          "howItMisleads": "Kagan is describing her disagreement with majority rulings. Her account of their effects is an argument, while the rulings themselves are settled law for this election."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "cornell-chi-phi-james-fight",
+      "title": "Cornell rape-allegation case: Letitia James fights bid to remove her as special prosecutor as Cornell suspends fraternity parties",
+      "summary": "New York Attorney General Letitia James filed a response Oct. 22 opposing a petition by one of seven men named in the Cornell Chi Phi sexual-assault lawsuit, who argues her Sept. 28 social post shows bias. No criminal charges have been filed, and the accused deny wrongdoing. Cornell suspended all parties at Interfraternity Council houses through May 2027 and records reported by The New York Times contradict viral claims that the accused only had to write essays.",
+      "tags": [
+        "Culture",
+        "Courts",
+        "Higher Education",
+        "New York"
+      ],
+      "overview": "The case, in which a woman identified as Jane Doe alleges in a civil suit that she was drugged and sexually assaulted at a Chi Phi house in 2024, has become a national flashpoint over campus sexual assault and over how institutions and prosecutors handled it. It has drawn partisan and culture-war framing on several sides. Gov. Kathy Hochul, a Democrat, appointed James special prosecutor Oct. 1, citing concerns about the original handling. Lawyers for two of the men, Gillio Lopes and Winston Lee, seek to bar her, pointing to a Sept. 28 attorney general’s office Facebook post saying “We stand with you.” James argues the claims are not justiciable and that the governor has the power to appoint. Online, a common claim was that Cornell punished the men only with essays. Records obtained by The New York Times and summarized by The Cornell Daily Sun show the Title IX panel expelled two, suspended two, banned one from campus for three years, and gave two no-contact orders, educational modules and reflection papers. The Sun reports the panel found two of the men responsible for sexual assault. Cornell’s FAQ, updated Oct. 21, describes the party suspension, and a university spokesperson told The Sun no one was assigned essays as a “sole consequence.”",
+      "knownFacts": [
+        {
+          "claim": "On Oct. 22, James filed a court response opposing Gillio Lopes’ petition to remove her as special prosecutor, arguing the claims are “not justiciable” and that the governor has authority to appoint her.",
+          "evidence": "NBC News reports Lopes and Winston Lee cite a Sept. 28 post on the AG’s Facebook account (“We stand with you”) as evidence of bias; Lee’s separate motion is pending; both men deny the accusations; no criminal charges have been filed.",
+          "sources": [
+            {
+              "name": "NBC News — New York AG James files opposition to effort to bar her from Cornell investigation",
+              "url": "https://www.nbcnews.com/news/us-news/ny-ag-james-files-opposition-effort-bar-cornell-investigation-rcna605136",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "claim": "Gov. Kathy Hochul appointed James special prosecutor on Oct. 1, citing concerns about how university police and the local district attorney’s office handled the allegations in 2024.",
+          "evidence": "NBC News reports the appointment; Cornell’s FAQ says the Tompkins County DA decided not to bring charges in 2024 and later reopened the investigation.",
+          "sources": [
+            {
+              "name": "NBC News — New York AG James files opposition to effort to bar her from Cornell investigation",
+              "url": "https://www.nbcnews.com/news/us-news/ny-ag-james-files-opposition-effort-bar-cornell-investigation-rcna605136",
+              "date": "2026-10-22"
+            },
+            {
+              "name": "Cornell University — FAQ Regarding 2024 Chi Phi Sexual Assault Allegations (updated Oct. 21, 2026)",
+              "url": "https://info.cornell.edu/addressing-sexual-violence/faq/",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "Cornell’s Title IX panel imposed a range of sanctions: two expulsions, two suspensions with probation, one three-year campus ban, and no-contact orders, educational modules and reflection papers for two others.",
+          "evidence": "The Cornell Daily Sun, summarizing records obtained by The New York Times, reports the panel found two men responsible for sexual assault; a Cornell spokesperson said none were assigned writing essays as a “sole consequence.”",
+          "sources": [
+            {
+              "name": "The Cornell Daily Sun — Records Reveal Cornell’s Punishments for Seven Chi Phi Defendants",
+              "url": "https://www.cornellsun.com/article/2026/10/records-reveal-cornell-s-punishments-for-seven-chi-phi-defendants",
+              "date": "2026-10-05"
+            },
+            {
+              "name": "Cornell University — FAQ Regarding 2024 Chi Phi Sexual Assault Allegations (updated Oct. 21, 2026)",
+              "url": "https://info.cornell.edu/addressing-sexual-violence/faq/",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "Cornell suspended all parties and social events at Interfraternity Council chapter houses for the 2026–27 academic year, through May 31, 2027, with zero tolerance for violations.",
+          "evidence": "Cornell’s FAQ, updated Oct. 19, says chapters may still meet and recruit under substance-free rules, and that a board special committee has retained Sally Yates of King & Spalding for an independent review.",
+          "sources": [
+            {
+              "name": "Cornell University — FAQ Regarding 2024 Chi Phi Sexual Assault Allegations (updated Oct. 21, 2026)",
+              "url": "https://info.cornell.edu/addressing-sexual-violence/faq/",
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "culture_war",
+          "description": "A criminal investigation turned into a proxy fight.",
+          "example": "Defense filings framing a Democratic AG’s supportive post as proof of bias, as reported by NBC News.",
+          "howItMisleads": "Whether James’ appointment stands is a legal question now before a court, and whether crimes occurred is for a grand jury. Neither question is settled by the partisan identity of the officials or by how outraged commenters are."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "“They only wrote essays.”",
+          "example": "Viral posts describing reflection papers as the whole punishment.",
+          "howItMisleads": "Records show reflection papers were added for some men on top of expulsions, suspensions or bans. Two received only no-contact orders and educational sanctions. The full range matters when judging whether Cornell’s response was adequate."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "clancy-juror-hearing-denied",
+      "title": "Judge refuses Lindsay Clancy’s request for a hearing to question the lone holdout juror; double-jeopardy motion still set for Nov. 2",
+      "summary": "On Oct. 21, Judge William Sullivan denied the defense’s request for an evidentiary hearing into whether the holdout juror, Michael Desronvil, lied on his questionnaire, used his phone during deliberations or ignored instructions. Sullivan ruled that information emerging after a mistrial cannot be used to challenge whether the mistrial was necessary. He has not ruled on the motion to dismiss the murder charges on double-jeopardy grounds, which will be argued Nov. 2.",
+      "tags": [
+        "Courts",
+        "Culture",
+        "Criminal Justice",
+        "Massachusetts"
+      ],
+      "overview": "The Clancy case has become a national flashpoint over postpartum psychosis, the insanity defense, and how mothers in crisis are judged. The jury deadlocked 11–1 in favor of not guilty by reason of insanity, and Sullivan declared a mistrial Sept. 4. Defense attorney Kevin Reddington then accused the lone holdout, who held out for conviction, of bias, false questionnaire answers and phone use, and asked to present evidence at the Nov. 2 hearing. In a five-page order, Sullivan said the court “must not delve into a juror’s subjective reasoning” or the jury’s deliberations, and that evidence discovered only after the mistrial “simply is not relevant to whether there was a manifest necessity for a mistrial.” Prosecutors and defense lawyers declined to comment. Plymouth DA Timothy Cruz has not decided whether to retry Clancy on first-degree murder charges. The Boston Globe notes that if he reduces the charges to second-degree murder, Clancy could waive a jury and let a judge decide. Clancy admitted strangling her three children in 2023 and pleaded not guilty, asserting an insanity defense.",
+      "knownFacts": [
+        {
+          "claim": "On Oct. 21, Judge William Sullivan denied Clancy’s request for an evidentiary hearing into the holdout juror’s questionnaire answers, cellphone use and adherence to instructions.",
+          "evidence": "Sullivan wrote that “post-trial information potentially affecting Juror Doe’s impartiality cannot be used to attack the determination that a mistrial was manifestly necessary” (Boston Globe; ABC).",
+          "sources": [
+            {
+              "name": "Boston Globe — Judge denies Lindsay Clancy’s request for an evidentiary hearing regarding holdout juror",
+              "url": "https://www.bostonglobe.com/2026/10/21/metro/lindsay-clancy-holdout-juror-double-jeopardy/",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "ABC News — Lindsay Clancy murder trial: Judge denies request to question holdout juror",
+              "url": "https://abcnews.com/US/lindsay-clancy-murder-trial-judge-denies-request-question/story?id=137458266",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "Sullivan has not ruled on Clancy’s motion to dismiss the three murder charges on double-jeopardy grounds; it will be argued at a Nov. 2 hearing.",
+          "evidence": "Boston Globe and ABC both report the motion remains pending; Court TV also reported the denial.",
+          "sources": [
+            {
+              "name": "Boston Globe — Judge denies Lindsay Clancy’s request for an evidentiary hearing regarding holdout juror",
+              "url": "https://www.bostonglobe.com/2026/10/21/metro/lindsay-clancy-holdout-juror-double-jeopardy/",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "ABC News — Lindsay Clancy murder trial: Judge denies request to question holdout juror",
+              "url": "https://abcnews.com/US/lindsay-clancy-murder-trial-judge-denies-request-question/story?id=137458266",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "Court TV — Judge refuses to hold evidentiary hearing into issues with holdout juror in Lindsay Clancy’s trial",
+              "url": "https://www.courttv.com/news/judge-refuses-to-hold-evidentiary-hearing-into-issues-with-holdout-juror-in-lindsay-clancys-trial/",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "claim": "The jury deadlocked 11–1 in favor of a verdict of not guilty by reason of insanity, and Sullivan declared a mistrial Sept. 4; the DA has not decided whether to retry.",
+          "evidence": "The Globe reports the holdout, Michael P. Desronvil, said in a statement through his lawyer that he “didn’t have any doubts” Clancy was criminally responsible, and notes a second-degree murder charge could allow a jury-waived trial.",
+          "sources": [
+            {
+              "name": "Boston Globe — Judge denies Lindsay Clancy’s request for an evidentiary hearing regarding holdout juror",
+              "url": "https://www.bostonglobe.com/2026/10/21/metro/lindsay-clancy-holdout-juror-double-jeopardy/",
+              "date": "2026-10-21"
+            },
+            {
+              "name": "ABC News — Lindsay Clancy murder trial: Judge denies request to question holdout juror",
+              "url": "https://abcnews.com/US/lindsay-clancy-murder-trial-judge-denies-request-question/story?id=137458266",
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "culture_war",
+          "description": "Ruling read as a verdict on the juror or on Clancy.",
+          "example": "Social media treating the denial as vindication of the holdout, or as the system protecting a biased juror.",
+          "howItMisleads": "The order is narrow. It says post-mistrial facts are legally irrelevant to whether the mistrial was necessary. It makes no finding on whether the juror was biased or on Clancy’s mental state."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Admission versus defense.",
+          "example": "Coverage that leads with Clancy admitting the killings, versus coverage centered on postpartum psychosis.",
+          "howItMisleads": "Both are part of the record. The legal question was never whether she did it but whether she was criminally responsible, which 11 jurors and one holdout answered differently."
+        }
+      ]
+    }
+  ]
+}
