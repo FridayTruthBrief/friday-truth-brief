@@ -1,0 +1,776 @@
+{
+  "editionDate": "2026-10-30",
+  "title": "Friday Truth Brief — Week of October 30, 2026",
+  "isDemo": false,
+  "methodology": "Coverage window Mon Oct 26–Sun Nov 1, 2026 (research through Fri Oct 30). Ranked by national salience for an evidence-vs-spin audience. Mix of hard politics AND major culture/news stories twisted by political or culture-war narratives. Known facts cite named sources with URLs/dates. Misrepresentations only when a specific published claim can be checked; otherwise []. Narrative notes describe framing in real coverage. Readers should verify linked sources.",
+  "stories": [
+    {
+      "rank": 1,
+      "id": "iran-allies-warned-post-midterm-strikes",
+      "title": "U.S. tells allies to brace for possible Iran strikes after the midterms as Qatar pushes a last-minute deal",
+      "summary": "Two diplomats told AP that U.S. officials warned several Middle East allies to prepare for renewed military action against Iran after the Nov. 3 midterms, and for Iranian retaliation. AP says Trump has not made a final decision. Qatar-led mediators are pressing Tehran to let UN inspectors into bombed nuclear sites in exchange for some sanctions relief, while Trump said Vice President JD Vance's letter to a top Iranian official was about getting medical supplies into Iran.",
+      "tags": [
+        "Foreign Policy",
+        "Iran",
+        "Military",
+        "Midterms"
+      ],
+      "overview": "Last week's reports of post-midterm strike planning turned into warnings to allies this week. AP, citing two diplomats, reported Oct. 28 that U.S. diplomats and defense officials told regional partners to prepare for possible renewed action against Iran after the U.S. election and for possible Iranian retaliation; Fox News, citing The Wall Street Journal, described the warning as a short, intense campaign, with an additional carrier strike group and Marine expeditionary unit repositioning and a Patriot battery moving from Texas to Israel. Asked about post-midterm strikes, Trump said, “I can't tell you that... but anything's possible.” Axios reported that Qatar-led mediators, backed by Saudi, Turkish and Pakistani officials, are urging Iran to admit UN inspectors to bombed nuclear sites for some sanctions relief, and that U.S. and Israeli officials expect any new operation to include about a week of heavy strikes. On the diplomatic track, The Washington Post reported Vance contacted Iranian officials; Trump said he approved the outreach to help Iran obtain medical supplies, and CBS reported Iran had not yet answered the letter. Qatari mediators returned to Tehran on Friday, Oct. 30.",
+      "knownFacts": [
+        {
+          "claim": "U.S. officials told several Middle East countries and allies to be prepared for potential renewed military action against Iran after the midterms, and for possible Iranian retaliation.",
+          "evidence": "AP cites two diplomats briefed on the warnings and reports Trump has not made a final decision on whether to strike.",
+          "sources": [
+            {
+              "name": "AP News — US warns allies to prepare for potential Iran strikes after election",
+              "url": "https://apnews.com/article/trump-iran-strikes-midterm-elections-c7df622f1e87de6035173be8fb8c4add",
+              "date": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "claim": "Trump, asked about strikes after the midterms, said: “I can't tell you that... but anything's possible.”",
+          "evidence": "Fox News reports the remark and, citing The Wall Street Journal, force moves including a carrier strike group, a Marine expeditionary unit and a Patriot battery sent from Texas to Israel; Fox's sources said there is no indication a decision has been made.",
+          "sources": [
+            {
+              "name": "Fox News live updates — Trump says 'anything's possible' regarding potential strikes on Iran after midterm elections",
+              "url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+              "date": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "claim": "Qatar-led mediators are urging Iran to allow UN inspectors into bombed nuclear sites in exchange for some U.S. sanctions relief.",
+          "evidence": "Axios cites U.S., Israeli and regional sources; it reports Iran said it would seek Supreme Leader Mojtaba Khamenei's approval for the ideas, and Saudi officials asked Trump not to rush into war.",
+          "sources": [
+            {
+              "name": "Axios — Iran pressed to make nuke concessions as massive post-midterms strikes loom",
+              "url": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
+              "date": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "claim": "Vance sent outreach to Iranian officials; Trump said it was to help Iran get medical supplies.",
+          "evidence": "The Washington Post reports Vance's contact; CBS reports Iran had not responded to the letter as of Oct. 30 and that Trump denied the outreach is aimed at wider peace talks.",
+          "sources": [
+            {
+              "name": "The Washington Post — Vance makes Tehran outreach as Middle East braces for resumption of Iran war",
+              "url": "https://www.washingtonpost.com/politics/2026/10/28/iran-war-costs-rise-47-billion-us-military-estimates/",
+              "date": "2026-10-28"
+            },
+            {
+              "name": "CBS News — Iran War Updates: Qatar pushes for U.S.-Iran deal under shadow of Trump's threats to resume attacks",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "“Anything's possible” coverage treated as a decision to strike.",
+          "example": "Headlines built around Trump's “anything's possible” remark and allied warnings.",
+          "howItMisleads": "AP and Fox's own sources say no final decision has been made, and a parallel Qatari-led diplomatic track is active. Warnings to allies document preparation, not an order."
+        },
+        {
+          "type": "framing",
+          "description": "The Vance letter described two different ways.",
+          "example": "Media reports framed Vance's letter as an attempt to revive peace talks; Trump said it was only about medical supplies.",
+          "howItMisleads": "The letter's contents have not been published. Readers have the administration's description and anonymous-source reporting, not the document itself."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "alaska-two-dan-sullivans",
+      "title": "Alaska's ‘two Dan Sullivans’: NYT report triggers DOJ subpoenas, a state probe and a fight over certification",
+      "summary": "The New York Times reported Oct. 28 that people tied to Mary Peltola's Senate campaign and the Democratic Senatorial Campaign Committee helped recruit a retired teacher named Daniel J. Sullivan to run against GOP Sen. Dan Sullivan. The Justice Department issued grand-jury subpoenas and amended its lawsuit over certification, Gov. Mike Dunleavy ordered a state investigation, and Trump called for Peltola's prosecution. Peltola says she “knew nothing about” the other candidate; her campaign and the DSCC deny recruiting him.",
+      "tags": [
+        "Midterms",
+        "Alaska",
+        "Senate",
+        "DOJ",
+        "Elections"
+      ],
+      "overview": "The Alaska Senate race, rated a toss-up, was upended by a New York Times report citing 12 people and dozens of text messages describing an effort by Peltola campaign staff and the DSCC to find spoiler candidates, including the retired Petersburg teacher Daniel J. Sullivan, who shares the incumbent's name. State courts had already let him stay on the ballot, and DOJ sued Oct. 23 to block immediate certification of a result possibly affected by “voter confusion.” On Oct. 29 DOJ amended that suit, alleging the campaign and DSCC misled the court about their knowledge, and a U.S. official told NBC that DOJ sent at least three dozen subpoenas and preservation requests. Dunleavy ordered the Alaska Bureau of Investigation to examine whether state laws were broken and declined to say whether a Peltola win would be certified while the probe is open. The House Oversight Committee opened its own inquiry. Peltola told supporters in Juneau, “I am not interested in tricking voters,” and her campaign accused Dunleavy of threatening “to overrule the will of Alaskan voters.”",
+      "knownFacts": [
+        {
+          "claim": "The New York Times reported that Peltola campaign staff and the DSCC sought spoiler candidates and that Daniel J. Sullivan agreed to run to draw votes from the incumbent.",
+          "evidence": "NBC and ADN summarize the Times report, which cited interviews with 12 people and dozens of text messages. Peltola's campaign and the DSCC deny recruiting him, and Daniel J. Sullivan has previously said he is genuinely running.",
+          "sources": [
+            {
+              "name": "NBC News — DOJ issues subpoenas in Alaska Senate race as governor launches separate investigation",
+              "url": "https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316",
+              "date": "2026-10-29"
+            },
+            {
+              "name": "Anchorage Daily News — Ordering investigation, Alaska Gov. Dunleavy raises question of election certification if Senate race saw illegal activity",
+              "url": "https://www.adn.com/politics/2026/10/29/alaska-gov-dunleavy-orders-investigation-into-alleged-democratic-scheme-to-recruit-dan-sullivan-challenger/",
+              "date": "2026-10-29"
+            },
+            {
+              "name": "CBS News — Peltola says she \"knew nothing about\" the other Dan Sullivan as ballot controversy roils Alaska Senate race",
+              "url": "https://www.cbsnews.com/news/peltola-she-knew-nothing-dan-sullivan-ballot-controversy-alaska-senate-race/",
+              "date": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "claim": "DOJ issued at least three dozen subpoenas and preservation requests, including to Peltola's campaign and Daniel J. Sullivan, and amended its federal lawsuit over certification.",
+          "evidence": "NBC cites a U.S. official; CNBC reports the amended complaint adds a new claim and alleges misleading statements to Judge Sharon Gleason. The original suit was filed Oct. 23.",
+          "sources": [
+            {
+              "name": "NBC News — DOJ issues subpoenas in Alaska Senate race as governor launches separate investigation",
+              "url": "https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316",
+              "date": "2026-10-29"
+            },
+            {
+              "name": "CNBC — Alaska Senate: DOJ amends lawsuit over Sullivan candidacies",
+              "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "Gov. Dunleavy ordered a state investigation and suggested a narrow Sullivan loss would have to be examined.",
+          "evidence": "ADN reports Dunleavy did not say whether the election would be certified if Peltola wins while under investigation; the House Oversight Committee also opened an inquiry.",
+          "sources": [
+            {
+              "name": "Anchorage Daily News — Ordering investigation, Alaska Gov. Dunleavy raises question of election certification if Senate race saw illegal activity",
+              "url": "https://www.adn.com/politics/2026/10/29/alaska-gov-dunleavy-orders-investigation-into-alleged-democratic-scheme-to-recruit-dan-sullivan-challenger/",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "Peltola said she “knew nothing about any other candidates on the ballot except for me and the incumbent.”",
+          "evidence": "CBS reports her remarks at a Juneau rally Oct. 29.",
+          "sources": [
+            {
+              "name": "CBS News — Peltola says she \"knew nothing about\" the other Dan Sullivan as ballot controversy roils Alaska Senate race",
+              "url": "https://www.cbsnews.com/news/peltola-she-knew-nothing-dan-sullivan-ballot-controversy-alaska-senate-race/",
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "“The Democrats cheated!” presented as settled.",
+          "example": "Trump's call for Peltola and Daniel J. Sullivan to be removed from the ballot and prosecuted.",
+          "howItMisleads": "The Times report is detailed, but no one has been charged and the campaign denies the account. Whether recruiting a same-name candidate breaks any law is exactly what the state and federal probes are examining."
+        },
+        {
+          "type": "framing",
+          "description": "“Smears” framing that waves away the reporting.",
+          "example": "Peltola asking “when did The New York Times become the National Enquirer?”",
+          "howItMisleads": "Dismissing the outlet does not answer the specific texts and named sources the Times cited. Both sides' framings skip over what has actually been documented so far."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Certification threat underplayed or overstated.",
+          "example": "Dunleavy saying the state would “have to take a look” at a narrow loss.",
+          "howItMisleads": "He has not said certification would be blocked, and the decision path runs through courts and Alaska law. Coverage claiming the result is already in jeopardy, or that nothing could happen, both go beyond the record."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "california-noncitizen-subpoenas",
+      "title": "DOJ subpoenas California election workers a day after a judge said its threats ‘must stop’; special master to vet a 20,000-name list",
+      "summary": "U.S. District Judge David O. Carter rejected DOJ's demand that California set aside ballots of about 20,000 alleged noncitizens, saying both sides agree the list includes citizens, and appointed special master Daniel B. Garrie to build a factual record. The next day, federal prosecutors issued grand-jury subpoenas to Los Angeles and Orange County election workers, with testimony set for Nov. 4. Trump said without evidence there are “millions” of bad ballots in California.",
+      "tags": [
+        "Midterms",
+        "Elections",
+        "DOJ",
+        "California",
+        "Courts"
+      ],
+      "overview": "Carter's Oct. 28 order called DOJ's push to segregate ballots a violation of the National Voter Registration Act's 90-day quiet period and warned that “these threats must stop” after DOJ letters threatened county officials with criminal charges. He appointed Garrie on Oct. 29, set an evidentiary hearing for Nov. 13 and noted that more than 500,000 votes had already been processed in Los Angeles County. DOJ appealed to the 9th Circuit. The same day, all four U.S. attorneys in California issued subpoenas, per AP; CalMatters reports at least four election workers received grand-jury subpoenas over the past week, including one to Orange County seeking unredacted records on 60 voters. DOJ says receiving a subpoena does not make someone a target. Federal prosecutors charged 28 people last week with registering despite not being citizens, roughly 0.0001% of California's 23 million registered voters, per CalMatters.",
+      "knownFacts": [
+        {
+          "claim": "Judge Carter rejected DOJ's demand to sequester the ballots, questioned the reliability of the 20,000-name list and appointed a special master.",
+          "evidence": "AP reports both sides agree the list includes an unspecified number of citizens and that Carter will rule on a renewed injunction request after a Nov. 13 hearing.",
+          "sources": [
+            {
+              "name": "AP via KCRA — Justice Department subpoenas California officials in escalation of its scrutiny of local election administration",
+              "url": "https://www.kcra.com/article/justice-department-subpoenas-california-officials-special-master/74288310",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "DOJ issued grand-jury subpoenas to California election workers, including Los Angeles County employees ordered to appear Nov. 4, the day after the election.",
+          "evidence": "AP obtained two of the subpoenas; CalMatters reports at least four election workers were subpoenaed in the past week and that DOJ spokesperson Kiersten Pels said “receiving a subpoena doesn't mean you are a target.”",
+          "sources": [
+            {
+              "name": "AP via KCRA — Justice Department subpoenas California officials in escalation of its scrutiny of local election administration",
+              "url": "https://www.kcra.com/article/justice-department-subpoenas-california-officials-special-master/74288310",
+              "date": "2026-10-29"
+            },
+            {
+              "name": "CalMatters — DOJ subpoenas California election officials, despite judge's order to stop threatening them",
+              "url": "https://calmatters.org/politics/2026/10/ca-election-officials-subpoenas/",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "Carter wrote that “these threats must stop” regarding DOJ's threats of criminal charges against election officials.",
+          "evidence": "CalMatters quotes his written order and his remark to U.S. Attorney Bill Essayli: “Go out and indict.”",
+          "sources": [
+            {
+              "name": "CalMatters — DOJ subpoenas California election officials, despite judge's order to stop threatening them",
+              "url": "https://calmatters.org/politics/2026/10/ca-election-officials-subpoenas/",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "Federal prosecutors charged 28 people last week with registering to vote despite not being citizens.",
+          "evidence": "CalMatters puts that at about 0.0001% of California's 23 million registered voters; not all of them had voted.",
+          "sources": [
+            {
+              "name": "CalMatters — DOJ subpoenas California election officials, despite judge's order to stop threatening them",
+              "url": "https://calmatters.org/politics/2026/10/ca-election-officials-subpoenas/",
+              "date": "2026-10-29"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Donald Trump, remarks to reporters, Oct. 29, 2026",
+          "pieceTitle": "AP via KCRA — Justice Department subpoenas California officials in escalation of its scrutiny of local election administration",
+          "pieceUrl": "https://www.kcra.com/article/justice-department-subpoenas-california-officials-special-master/74288310",
+          "claimMade": "There are “hundreds of thousands” and then “millions, in my opinion” of “bad ballots” in California.",
+          "whyInaccurate": "AP reports the claim was made without evidence. DOJ's own list contains about 20,000 names, which both sides agree includes citizens, and federal charges so far cover 28 people.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Subpoenas described as routine investigation.",
+          "example": "DOJ's statement that subpoena recipients are generally not targets.",
+          "howItMisleads": "Election-law expert Justin Levitt told CalMatters the federal statute of limitations is five years, so there is no investigative need to subpoena officials mid-election. The timing is the issue critics raise, not the existence of a probe."
+        },
+        {
+          "type": "framing",
+          "description": "Noncitizen voting presented as widespread.",
+          "example": "Trump calling California elections “extremely corrupt.”",
+          "howItMisleads": "AP notes available data indicates noncitizen voting is exceedingly rare, and the court found the government's own list unreliable."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "vote-flipping-clips-and-slow-counts",
+      "title": "Old ‘vote-flipping’ clips from 2014–2019 go viral as 2026 fraud proof; fact-checkers say slow counts after Nov. 3 are normal too",
+      "summary": "AFP traced three viral clips of touchscreen machines appearing to switch votes to 2014 Virginia, 2018 Indiana and a 2019 Mississippi GOP runoff, all on equipment no longer in use. Claims circulated from both directions, saying machines favored Democrats or Republicans. PolitiFact says isolated touchscreen issues are usually calibration or user error, and separately warned that results taking days to count is normal, not a sign of fraud.",
+      "tags": [
+        "Midterms",
+        "Elections",
+        "Misinformation",
+        "Voting"
+      ],
+      "overview": "With early voting underway and, per Axios, unusually strong early turnout among Black, Hispanic and unaffiliated voters in several states, voting-machine claims spread on X, Threads, Facebook and TikTok. AFP found the three most-shared clips were years old: a 2019 Mississippi runoff in which both candidates were Republicans, a 2014 Virginia Beach congressional race whose machines were decertified in 2015, and a 2018 Tippecanoe County, Indiana, video from a direct-recording machine since replaced by one with a paper audit trail. PolitiFact found similar claims from a liberal group saying machines in Texas, Florida, Tennessee and Ohio rejected Democratic votes; Texas county officials said nearly every case traced to screen calibration on older machines. Voters can review selections on screen and on a printed paper record before casting. PolitiFact's Oct. 29 explainer adds that it is normal for leads to change as mail and provisional ballots are counted after Election Day.",
+      "knownFacts": [
+        {
+          "claim": "Three widely shared “vote-flipping” clips date to 2014, 2018 and 2019 and show equipment no longer used in those jurisdictions.",
+          "evidence": "AFP identifies each clip, notes Virginia now uses hand-marked paper ballots, and quotes the Tippecanoe County Election Board calling vote-switching allegations “patently false.”",
+          "sources": [
+            {
+              "name": "AFP Fact Check — Old clips used as false proof of fraudulent US voting machines in 2026",
+              "url": "https://factcheck.afp.com/doc.afp.com.D49L6T3",
+              "date": "2026-10-26"
+            }
+          ]
+        },
+        {
+          "claim": "Election officials attribute most touchscreen mis-selection reports to calibration and user error, and voters can verify choices before casting.",
+          "evidence": "PolitiFact quotes the Texas Association of County Election Officials and notes selections are shown on screen, on a review screen and on a printed paper ballot.",
+          "sources": [
+            {
+              "name": "PolitiFact — No evidence voting machines are purposely 'flipping' votes, it's usually user error and can be fixed",
+              "url": "https://politifact.com/article/2026/oct/24/voting-machines-tennessee-texas-flipping-swapping/",
+              "date": "2026-10-24"
+            }
+          ]
+        },
+        {
+          "claim": "Results that take days, and leads that shift after Election Night, are normal under state counting laws.",
+          "evidence": "PolitiFact quotes election-technology expert Ryan Macias: “States are neither fast or slow, they all count and certify the results in accordance with the laws passed by their state legislature.”",
+          "sources": [
+            {
+              "name": "PolitiFact — When will we know 2026 midterm election results? It may take some time, but that's normal.",
+              "url": "https://politifact.com/article/2026/oct/29/election-night-results-midterms-senate-trump/",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "Early voting turnout is running high in several states.",
+          "evidence": "Axios reports unusually strong early participation among Black, Hispanic and unaffiliated voters and notes early patterns don't predict which party benefits.",
+          "sources": [
+            {
+              "name": "Axios — Midterm voters show up early — and in droves",
+              "url": "https://www.axios.com/world/2026/10/29",
+              "date": "2026-10-29"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Post on X, Oct. 20, 2026 (as documented by AFP)",
+          "pieceTitle": "AFP Fact Check — Old clips used as false proof of fraudulent US voting machines in 2026",
+          "pieceUrl": "https://factcheck.afp.com/doc.afp.com.D49L6T3",
+          "claimMade": "“Electronic voting machine will not let voter select the Republican candidate that they want to vote for and automatically selects the Democrat candidate instead.”",
+          "whyInaccurate": "The clip shows a 2019 Mississippi Republican runoff between two Republicans, on TSX machines Lafayette County no longer uses.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Facebook post from “The Other 98%” (as documented by PolitiFact)",
+          "pieceTitle": "PolitiFact — No evidence voting machines are purposely 'flipping' votes, it's usually user error and can be fixed",
+          "pieceUrl": "https://politifact.com/article/2026/oct/24/voting-machines-tennessee-texas-flipping-swapping/",
+          "claimMade": "Machines in Texas, Florida, Tennessee and Ohio are changing Democratic votes back to Republican unless voters press several times.",
+          "whyInaccurate": "PolitiFact found no evidence of deliberate vote flipping; officials say cases trace to touchscreen calibration and are correctable before a ballot is cast.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Machine-flipping narratives run on both sides.",
+          "example": "The same type of clip shared as proof machines favor Democrats and as proof they favor Republicans.",
+          "howItMisleads": "AFP documents both versions. A localized, correctable calibration issue is turned into a partisan conspiracy story by whichever side shares it."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "ramaswamy-acton-mother-ad",
+      "title": "Ramaswamy stops airing ad featuring Amy Acton's estranged mother after court records detail childhood abuse",
+      "summary": "Ohio GOP governor nominee Vivek Ramaswamy confirmed Oct. 29 his campaign is no longer airing an attack ad in which Democrat Amy Acton's estranged mother, Donna Arthur, calls her a “liar.” Court records reported by The Guardian show Arthur lost custody in 1978 after her husband was charged with raping Acton as a child. Ramaswamy said the ad “ran to completion”; Trump had defended it at a rally the day before.",
+      "tags": [
+        "Midterms",
+        "Ohio",
+        "Campaign Ads",
+        "Culture & Narrative"
+      ],
+      "overview": "The ad became a national flashpoint over how far family stories can go in campaigns. Ramaswamy's campaign had announced a $4 million buy for the spot. The Guardian reports court records show Arthur lost custody of her daughter in 1978 when her second husband, Cledith Arthur, was charged with raping Acton between the ages of 10 and 12, and that the original 60-second version included Arthur's claim that Acton lied about living in a tent — a claim the campaign cut after court records showed Cledith Arthur was living in a tent when arrested. PolitiFact earlier detailed what the ad left out. Acton's campaign responded with its own ad accusing Ramaswamy of “exploiting the sexual abuse of a child,” and Acton told supporters he chose “to exploit my childhood intentionally.” Asked about the ad, Ramaswamy said, “It ran to completion and we put up four other ads,” and said he wanted the close to be about policy.",
+      "knownFacts": [
+        {
+          "claim": "Ramaswamy confirmed his campaign stopped airing the ad, saying it “ran to completion and we put up four other ads.”",
+          "evidence": "The Guardian reports his remarks in Vandalia, Ohio, Oct. 29; AP also reported the ad was pulled.",
+          "sources": [
+            {
+              "name": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
+              "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+              "date": "2026-10-29"
+            },
+            {
+              "name": "AP News — Ramaswamy pulls attack ad featuring Amy Acton's estranged mother",
+              "url": "https://apnews.com/article/ohio-ramaswamy-ad-acton-mother-365745259579371f41122b184254fdde",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "Court records show Acton's mother lost custody in 1978 after her husband was charged with raping Acton between ages 10 and 12.",
+          "evidence": "The Guardian cites court records and notes Trump defended the ad at a rally with Ramaswamy Oct. 28.",
+          "sources": [
+            {
+              "name": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
+              "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "The campaign cut the ad from 60 to 30 seconds, removing Arthur's claim that Acton lied about living in a tent.",
+          "evidence": "The Guardian reports court records indicate Cledith Arthur was living in a tent at the time of his arrest.",
+          "sources": [
+            {
+              "name": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
+              "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+              "date": "2026-10-29"
+            },
+            {
+              "name": "PolitiFact — Abuse and estrangement: What Ramaswamy's Ohio governor's race ad with Amy Acton's mom didn't mention",
+              "url": "https://politifact.com/article/list/?category=2026-midterms",
+              "date": "2026-10-21"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Original version of Ramaswamy campaign ad, October 2026",
+          "pieceTitle": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
+          "pieceUrl": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+          "claimMade": "Amy Acton lied about her family living in a tent when she was a child (in the original 60-second ad, via her mother).",
+          "whyInaccurate": "The Guardian reports court records from the time indicate Cledith Arthur lived in a tent when arrested; the campaign edited that allegation out of the ad.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "“Ran to completion” versus “pulled.”",
+          "example": "Ramaswamy's description of why the ad stopped airing.",
+          "howItMisleads": "The campaign had announced a $4 million buy; describing the end of the ad as planned skips the bipartisan backlash that preceded it."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "A mother's word presented as character evidence without context.",
+          "example": "The ad's framing of Arthur calling her daughter a “liar.”",
+          "howItMisleads": "It omitted that Arthur lost custody after Acton's stepfather was charged with raping her, context central to judging the mother's credibility."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "hormuz-mine-claims-oil",
+      "title": "Iran says tankers hit mines in Hormuz as U.S. insists lanes are clear; Brent near $117 heading for a fourth monthly gain",
+      "summary": "Iran's Revolutionary Guards claimed three tankers exploded after hitting mines on the “unauthorized” southern route of the Strait of Hormuz, and Iran's army claimed a fourth. CENTCOM says primary transit routes have been cleared. The British maritime agency UKMTO confirmed a dhow caught fire and sank near Oman's Khasab, and on Friday reported a tanker hit by explosives attached from a small boat. Brent crude rose to about $117 Friday.",
+      "tags": [
+        "Iran",
+        "Energy",
+        "Oil",
+        "Foreign Policy"
+      ],
+      "overview": "The waterway, which normally carries about a fifth of global oil and gas consumption, has been restricted by Iran since the war began Feb. 28; the U.S. has imposed a blockade on Iranian ports and escorted tankers. On Oct. 29, the IRGC said three “violating” tankers struck mines on the southern route near Oman and challenged CENTCOM to “prove your Hormuz mine-clearing claim with independent evidence.” AFP reported it was not clear when the incidents occurred or which flags the vessels flew; UKMTO's confirmed incident that day involved a dhow whose crew was evacuated. On Oct. 30, UKMTO said a tanker was hit by explosive devices attached by a small boat; it was not clear who was responsible. Reuters, via CNBC, reported December Brent at $117.38 and WTI at $104.09 Friday morning, with Brent on track for a 13% monthly gain, and Houthi attacks on Saudi refineries adding to supply fears.",
+      "knownFacts": [
+        {
+          "claim": "The IRGC claimed three tankers hit mines on the southern route; Iran's army claimed a fourth; CENTCOM says primary routes are cleared.",
+          "evidence": "AFP via Arab News reports the claims, CENTCOM's position and that it was unclear when incidents occurred or which flags the ships flew.",
+          "sources": [
+            {
+              "name": "Arab News/AFP — Iran claims four tankers hit mines in Hormuz as dhow crew rescued",
+              "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-three-oil-tankers-hit-mines-in-strait-of-hormuz-3008795",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "UKMTO confirmed a dhow caught fire and sank nine nautical miles north of Khasab on Oct. 29, with crew evacuated.",
+          "evidence": "Reported by AFP via Arab News.",
+          "sources": [
+            {
+              "name": "Arab News/AFP — Iran claims four tankers hit mines in Hormuz as dhow crew rescued",
+              "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-three-oil-tankers-hit-mines-in-strait-of-hormuz-3008795",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "On Oct. 30, a tanker in the strait was hit by explosive devices attached by a small boat, per UKMTO.",
+          "evidence": "Reuters via CNBC reports it was not immediately clear who was behind the attack.",
+          "sources": [
+            {
+              "name": "CNBC/Reuters — Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+              "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html",
+              "date": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "claim": "Brent crude rose to $117.38 and WTI to $104.09 early Oct. 30, with Brent on course for a 13% gain in October.",
+          "evidence": "Reuters via CNBC; analysts cited Hormuz incidents, Houthi attacks on Saudi facilities and doubts about diplomacy.",
+          "sources": [
+            {
+              "name": "CNBC/Reuters — Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+              "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html",
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Iranian mine claims reported as confirmed tanker losses.",
+          "example": "Headlines saying “three tankers hit mines” based on IRGC statements.",
+          "howItMisleads": "The only independently confirmed Oct. 29 incident was a dhow. The IRGC claims have not been verified, and CENTCOM disputes that the lanes are mined."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "israel-election-fraud-claims",
+      "title": "Netanyahu loses his majority and Likud says the election was ‘stolen’; Israel's election officials say there's no basis for systematic-fraud claims",
+      "summary": "With counting complete, Netanyahu's bloc has 53 seats and Gadi Eisenkot's opposition 48, leaving neither with 61, while Arab parties won a record 19. Likud declared “they stole the elections” over alleged Qatari funding of Arab turnout. The Central Elections Committee's acting director said the vote was conducted lawfully, the Shin Bet called its foreign-funding probe narrow, and Qatar denied involvement.",
+      "tags": [
+        "Foreign Policy",
+        "Israel",
+        "Elections",
+        "Misinformation"
+      ],
+      "overview": "Israel's Oct. 27 election matters directly to U.S. Iran policy. After the result, Likud posted on Netanyahu's X account that “Ra'amgate” was an “earthquake” and “they stole the elections in Israel.” Central Elections Committee chair Justice Noam Sohlberg had asked the Shin Bet to investigate suspected foreign funding and report within a week, without naming Qatar or any party. Acting committee director-general Dean Livne wrote that “there is no basis for claims of systematic harm to the integrity of the elections,” and the Shin Bet said its probe “does not cast suspicion on, or accuse, an entire sector of society.” Ra'am's Mansour Abbas denied any connection, Qatar called the claims “ridiculous and dangerous,” and President Isaac Herzog warned against tarnishing Arab voters. Axios reported Netanyahu appears to be trying to deter opposition parties from cooperating with Arab parties to form a government.",
+      "knownFacts": [
+        {
+          "claim": "Final counts give Netanyahu's bloc 53 seats and Eisenkot's opposition 48; Arab parties won a record 19; 61 are needed for a majority.",
+          "evidence": "JTA reports final figures; Axios notes Netanyahu's bloc lost 11 seats.",
+          "sources": [
+            {
+              "name": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
+              "url": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
+              "date": "2026-10-30"
+            },
+            {
+              "name": "Axios — After losing his majority, Netanyahu tries to delegitimize election results",
+              "url": "https://www.axios.com/world/2026/10/29",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "Israel's Central Elections Committee leadership said the election was conducted lawfully and rejected systematic-fraud claims.",
+          "evidence": "JTA and The Times of Israel quote acting director-general Dean Livne.",
+          "sources": [
+            {
+              "name": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
+              "url": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
+              "date": "2026-10-30"
+            },
+            {
+              "name": "The Times of Israel — Election panel director rejects claims of widespread voter fraud; Shin Bet: Foreign interference probe is 'limited'",
+              "url": "https://www.timesofisrael.com/election-committee-director-rejects-claims-of-widespread-fraud-as-baseless/",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "The Shin Bet opened a narrow probe into suspected foreign funding at the request of committee chair Noam Sohlberg.",
+          "evidence": "JTA reports Sohlberg's letter named no country or party and that the Shin Bet said the intelligence came from its own operations, not any party.",
+          "sources": [
+            {
+              "name": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
+              "url": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Likud statement posted on Netanyahu's X account, Oct. 29–30, 2026",
+          "pieceTitle": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
+          "pieceUrl": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
+          "claimMade": "“They stole the elections in Israel.”",
+          "whyInaccurate": "The Central Elections Committee says the election was conducted lawfully with no basis for systematic-fraud claims; the Shin Bet probe is open and limited, and officials said even substantiated allegations would not necessarily invalidate the result.",
+          "severity": "misleading"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "A narrow funding probe recast as a verdict on the whole Arab vote.",
+          "example": "Likud's “Islamization of Israel” language and Ben-Gvir's call to arrest Arab party leaders.",
+          "howItMisleads": "The Shin Bet and Herzog explicitly warned against blaming an entire community; scholars quoted by JTA say turnout reflected organic mobilization."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "fed-holds-cook-dissent",
+      "title": "Fed holds rates at 3.75%–4% as Lisa Cook dissents for a hike ahead of a White House hearing on firing her",
+      "summary": "The Federal Reserve kept its benchmark rate unchanged Oct. 28 in a 10–2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a quarter-point increase. Inflation remains above the 2% target, and traders see a strong chance of a December hike. Cook's first dissent came days before a White House hearing on removing her over alleged mortgage fraud, which her lawyers call a pretext.",
+      "tags": [
+        "Economy",
+        "Federal Reserve",
+        "Inflation",
+        "White House"
+      ],
+      "overview": "Chair Kevin Warsh said the Fed needs more information and described growth as “strong.” Axios reports PCE inflation was expected to show 3.6% annual price growth through September, and CME FedWatch put the odds of a December hike near 85%. Warsh also announced that starting next year one of the Fed's eight annual meetings will be devoted to strategy without a rate decision. The political subplot is Cook: the Supreme Court sided with her in an earlier removal attempt, and Warsh said, “not to my knowledge,” when asked whether the Fed would take part in next week's White House hearing on her potential removal.",
+      "knownFacts": [
+        {
+          "claim": "The FOMC held the federal funds target range at 3.75% to 4% in a 10–2 vote; Cook and Hammack dissented in favor of a 25-basis-point increase.",
+          "evidence": "Federal Reserve statement and Axios report.",
+          "sources": [
+            {
+              "name": "Federal Reserve — FOMC statement",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+              "date": "2026-10-28"
+            },
+            {
+              "name": "Axios — Fed leaves rates steady as governor Lisa Cook dissents",
+              "url": "https://www.axios.com/2026/10/28/fed-warsh-interest-rates-cook",
+              "date": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "claim": "It was Cook's first dissent, ahead of a White House hearing on her potential removal over alleged mortgage fraud.",
+          "evidence": "Axios reports her lawyers say the allegations are a pretext and the Supreme Court sided with her in an earlier removal attempt.",
+          "sources": [
+            {
+              "name": "Axios — Fed leaves rates steady as governor Lisa Cook dissents",
+              "url": "https://www.axios.com/2026/10/28/fed-warsh-interest-rates-cook",
+              "date": "2026-10-28"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Cook's dissent read purely through the firing fight.",
+          "example": "Coverage linking her hawkish vote to the White House removal effort.",
+          "howItMisleads": "Cook voted with Hammack, a regional president with no such dispute, for a hike because inflation remains above target. Motive claims in either direction are speculation."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "europe-protest-fake-videos",
+      "title": "Fake and recycled videos sell a ‘Europe in chaos’ story as youth and cost-of-living protests spread",
+      "summary": "As young people protest school conditions and living costs in France, Italy, Portugal and elsewhere, fact-checkers found viral clips framed as recent unrest were AI-generated or years old. An AI video of “illegal migrants” hanging flags on the Eiffel Tower drew more than six million views on X, and a “police pig squad” clip framed the protests as an Islamist revolt. The footage was fake or unrelated.",
+      "tags": [
+        "Culture & Narrative",
+        "Misinformation",
+        "Immigration",
+        "Europe"
+      ],
+      "overview": "The protests are real: AAP reports French demonstrations demanding education investment and action on living costs escalated into riots Oct. 17, and France 24 reports police dismantled housing-protest camps in Porto and Lisbon with more than 30 arrests. But much of the viral imagery attached to them pushed a migration and culture-war narrative it doesn't support. France 24 traced a million-view “millions in the streets” clip to Poland's 2017 Independence Day march, “army deployed” footage to Portugal's Army Day preparations in Porto, and an “Italian protesters tear down U.S. flag” clip to Buenos Aires in August. AAP and AFP found the Eiffel Tower flag video and images of Paris burning and an elderly couple robbed were AI-generated, and Newschecker found the “pig squad” video, which framed protesters as Muslim and “anti-white,” was AI-generated.",
+      "knownFacts": [
+        {
+          "claim": "A viral video of “illegal migrants” hanging Palestinian and Jordanian flags on the Eiffel Tower is AI-generated.",
+          "evidence": "AAP reports Meta's AI tool detected AI signatures and there were no credible reports of such an incident; it had more than six million views on X.",
+          "sources": [
+            {
+              "name": "AAP FactCheck — Fake footage of French riots spreads online",
+              "url": "https://aap.com.au/factcheck/fake-footage-of-french-riots-spreads-online/",
+              "date": "2026-10-27"
+            }
+          ]
+        },
+        {
+          "claim": "Clips framed as current European unrest came from Poland in 2017, Portugal's Army Day, and Argentina in August.",
+          "evidence": "France 24 Truth or Fake traced each video's origin.",
+          "sources": [
+            {
+              "name": "FRANCE 24 Truth or Fake — Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+              "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+              "date": "2026-10-26"
+            }
+          ]
+        },
+        {
+          "claim": "A video of French police using pigs against Palestinian-flag-waving protesters is AI-generated.",
+          "evidence": "Newschecker documented visual artifacts and AI-detection results.",
+          "sources": [
+            {
+              "name": "Newschecker — French Police Deploy 'Pig Squad' Against Protesters? Viral Video Is AI-Generated",
+              "url": "https://newschecker.in/fact-check/french-police-deploy-pig-squad-against-protesters-viral-video-is-ai-generated",
+              "date": "2026-10-26"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [
+        {
+          "outlet": "Viral social media posts, October 2026 (as documented by AAP FactCheck)",
+          "pieceTitle": "AAP FactCheck — Fake footage of French riots spreads online",
+          "pieceUrl": "https://aap.com.au/factcheck/fake-footage-of-french-riots-spreads-online/",
+          "claimMade": "Video shows “illegal migrants” hanging a Palestinian flag and a Jordanian flag on the Eiffel Tower during French unrest.",
+          "whyInaccurate": "AI-generated; no credible reports of the incident.",
+          "severity": "false"
+        },
+        {
+          "outlet": "Social media posts, October 2026 (as documented by France 24)",
+          "pieceTitle": "FRANCE 24 Truth or Fake — Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+          "pieceUrl": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+          "claimMade": "Portugal deployed its army to suppress protests.",
+          "whyInaccurate": "The footage shows Army Day preparations in Porto; protests were handled by police.",
+          "severity": "false"
+        }
+      ],
+      "narratives": [
+        {
+          "type": "culture_war",
+          "description": "Cost-of-living and school protests recast as migrant or Islamist uprisings.",
+          "example": "The “pig squad” and Eiffel Tower videos.",
+          "howItMisleads": "The documented protests are about education and living costs. Fabricated imagery inserts a migration storyline the reporting does not show."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "clancy-nov-2-hearing",
+      "title": "Lindsay Clancy back in court Monday: prosecutors signal a retrial as judge weighs the double-jeopardy motion",
+      "summary": "Judge William Sullivan is set to hear motions Nov. 2 that could decide whether Lindsay Clancy faces a second trial over the 2023 deaths of her three children. Prosecutors filed this week to deny the defense's double-jeopardy motion and “pursue justice” for Cora, Dawson and Callan; the defense says the judge should have questioned the lone holdout juror before declaring a mistrial.",
+      "tags": [
+        "Culture & Narrative",
+        "Courts",
+        "Mental Health",
+        "Women's Rights"
+      ],
+      "overview": "The case remains a culture-war magnet over postpartum psychosis, women's mental health and criminal responsibility. Jurors reported 11 of 12 found Clancy not criminally responsible, while the holdout favored first-degree murder; Sullivan declared a mistrial in September. Prosecutor Jennifer Sprague wrote that further questioning of the holdout could have amounted to judicial coercion and that “double jeopardy does not operate to bar a retrial.” Defense attorney Kevin Reddington argues the court wrongly believed it had to declare a mistrial. Sullivan has already denied a not-guilty finding and a hearing to question juror Michael Desronvil. Prosecutors also want a gag order; the defense calls it “speculative” and “vague.” In a separate wrongful-death suit by Patrick Clancy, a Norfolk judge took a motion to dismiss under advisement Oct. 28.",
+      "knownFacts": [
+        {
+          "claim": "Prosecutors asked the judge to deny the double-jeopardy motion and allow the Commonwealth “to continue to pursue justice” for the children.",
+          "evidence": "WBUR quotes the filing; NBC also reports prosecutors asked the judge to reject the motion to dismiss.",
+          "sources": [
+            {
+              "name": "WBUR — Lindsay Clancy is due in court Monday. The hearing may settle if she'll face new trial",
+              "url": "https://www.wbur.org/news/2026/10/30/clancy-status-hearing-prosecutors-case",
+              "date": "2026-10-30"
+            },
+            {
+              "name": "NBC News — Prosecutors ask judge to reject Lindsay Clancy defense's motion to dismiss charges",
+              "url": "https://www.nbcnews.com/news/us-news/prosecutors-ask-judge-reject-lindsay-clancy-defenses-motion-dismiss-ch-rcna606386",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "claim": "The judge previously denied a not-guilty finding and a request to investigate the holdout juror.",
+          "evidence": "WBUR reports both rulings and that juror names remain sealed.",
+          "sources": [
+            {
+              "name": "WBUR — Lindsay Clancy is due in court Monday. The hearing may settle if she'll face new trial",
+              "url": "https://www.wbur.org/news/2026/10/30/clancy-status-hearing-prosecutors-case",
+              "date": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "claim": "Prosecutors have not formally announced whether they will retry Clancy or on what charges.",
+          "evidence": "WBUR reports the DA's office has not revealed its plans; a defense attorney not involved said the filing's language points to a retrial.",
+          "sources": [
+            {
+              "name": "WBUR — Lindsay Clancy is due in court Monday. The hearing may settle if she'll face new trial",
+              "url": "https://www.wbur.org/news/2026/10/30/clancy-status-hearing-prosecutors-case",
+              "date": "2026-10-30"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "A retrial treated as already decided.",
+          "example": "Coverage reading prosecutors' “pursue justice” language as an announced retrial.",
+          "howItMisleads": "WBUR reports the DA's office has not revealed its plans or which charges it would pursue; the retrial expectation comes from outside legal experts. The judge must first rule on the double-jeopardy motion."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Wrongful-death suit read as Clancy's admission.",
+          "example": "Patrick Clancy's attorney suggesting at an Oct. 28 hearing that Lindsay Clancy would testify she told clinicians she had thoughts of harming her children.",
+          "howItMisleads": "Her lawyer says she never told providers she had homicidal ideation and has no plans to testify; nothing in that suit has been proven."
+        }
+      ]
+    }
+  ]
+}
