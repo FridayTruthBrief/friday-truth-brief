@@ -1,68 +1,110 @@
 {
-  "editionDate": "2026-10-30",
-  "title": "Friday Truth Brief — Week of October 30, 2026",
+  "editionDate": "2026-11-06",
+  "title": "Friday Truth Brief — Week of November 6, 2026",
   "isDemo": false,
-  "methodology": "Coverage window Mon Oct 26–Sun Nov 1, 2026 (research through Fri Oct 30). Ranked by national salience for an evidence-vs-spin audience. Mix of hard politics AND major culture/news stories twisted by political or culture-war narratives. Known facts cite named sources with URLs/dates. Misrepresentations only when a specific published claim can be checked; otherwise []. Narrative notes describe framing in real coverage. Readers should verify linked sources.",
+  "methodology": "Coverage window Mon Nov 2–Sun Nov 8, 2026 (research through Fri Nov 6). Ranked by national salience for an evidence-vs-spin audience. Mix of hard politics AND major culture/news stories twisted by political or culture-war narratives. Known facts cite named sources with URLs/dates. Misrepresentations only when a specific published claim can be checked; otherwise []. Narrative notes describe framing in real coverage. Readers should verify linked sources.",
   "stories": [
     {
       "rank": 1,
-      "id": "iran-allies-warned-post-midterm-strikes",
-      "title": "U.S. tells allies to brace for possible Iran strikes after the midterms as Qatar pushes a last-minute deal",
-      "summary": "Two diplomats told AP that U.S. officials warned several Middle East allies to prepare for renewed military action against Iran after the Nov. 3 midterms, and for Iranian retaliation. AP says Trump has not made a final decision. Qatar-led mediators are pressing Tehran to let UN inspectors into bombed nuclear sites in exchange for some sanctions relief, while Trump said Vice President JD Vance's letter to a top Iranian official was about getting medical supplies into Iran.",
+      "id": "democrats-midterm-wave-congress",
+      "title": "Democrats take the House and Senate in a large midterm wave; Alaska and Mississippi still uncalled",
+      "summary": "Voters handed Democrats control of both chambers of Congress on Nov. 3. CBS and Reuters put Democrats at least at 54 Senate seats to Republicans’ 44, with Alaska and Mississippi unresolved. House seat estimates still differ by outlet as counting continues—CBS projects about 256 Democratic seats after more than 40 flips; Reuters graphics showed roughly 250–156 as of Nov. 5. Turnout is estimated near 122.7 million ballots (~48.8% of the voting-eligible population) by the University of Florida Election Lab.",
       "tags": [
-        "Foreign Policy",
-        "Iran",
-        "Military",
-        "Midterms"
+        "Midterms",
+        "Congress",
+        "Senate",
+        "House",
+        "Elections"
       ],
-      "overview": "Last week's reports of post-midterm strike planning turned into warnings to allies this week. AP, citing two diplomats, reported Oct. 28 that U.S. diplomats and defense officials told regional partners to prepare for possible renewed action against Iran after the U.S. election and for possible Iranian retaliation; Fox News, citing The Wall Street Journal, described the warning as a short, intense campaign, with an additional carrier strike group and Marine expeditionary unit repositioning and a Patriot battery moving from Texas to Israel. Asked about post-midterm strikes, Trump said, “I can't tell you that... but anything's possible.” Axios reported that Qatar-led mediators, backed by Saudi, Turkish and Pakistani officials, are urging Iran to admit UN inspectors to bombed nuclear sites for some sanctions relief, and that U.S. and Israeli officials expect any new operation to include about a week of heavy strikes. On the diplomatic track, The Washington Post reported Vance contacted Iranian officials; Trump said he approved the outreach to help Iran obtain medical supplies, and CBS reported Iran had not yet answered the letter. Qatari mediators returned to Tehran on Friday, Oct. 30.",
+      "overview": "AP called the night a decisive rebuke of Republican governance, citing anger over prices, the Iran war and corruption concerns. Roll Call reports seven Senate flips for Democrats, including deep-red terrain: James Talarico over Ken Paxton in Texas, Annie Andrews over Darline Graham in South Carolina, Adam Hamilton over Roger Marshall in Kansas, Sherrod Brown over Jon Husted in Ohio, Josh Turek over Ashley Hinson in Iowa, Roy Cooper over Michael Whatley in North Carolina, and Troy Jackson over Susan Collins in Maine. Democrats also held Michigan with Abdul El-Sayed. House control is not in doubt, but exact seat totals remain fluid while mail and provisional ballots finish; Guardian’s tracker showed Democrats ahead roughly 253–157 with most races called. Trump told Fox’s Bret Baier he would accept the results and told CBS he looked forward to working with Democrats—while also brandishing veto talk. Readers should treat unfinished counts, especially in Alaska and Mississippi, as still live.",
       "knownFacts": [
         {
-          "claim": "U.S. officials told several Middle East countries and allies to be prepared for potential renewed military action against Iran after the midterms, and for possible Iranian retaliation.",
-          "evidence": "AP cites two diplomats briefed on the warnings and reports Trump has not made a final decision on whether to strike.",
+          "claim": "Democrats won control of both the House and the Senate in the Nov. 3, 2026 midterms.",
+          "evidence": "AP reported Democrats took full control of Congress. CBS and Reuters independently report Democratic majorities in both chambers.",
           "sources": [
             {
-              "name": "AP News — US warns allies to prepare for potential Iran strikes after election",
-              "url": "https://apnews.com/article/trump-iran-strikes-midterm-elections-c7df622f1e87de6035173be8fb8c4add",
-              "date": "2026-10-28"
-            }
-          ]
-        },
-        {
-          "claim": "Trump, asked about strikes after the midterms, said: “I can't tell you that... but anything's possible.”",
-          "evidence": "Fox News reports the remark and, citing The Wall Street Journal, force moves including a carrier strike group, a Marine expeditionary unit and a Patriot battery sent from Texas to Israel; Fox's sources said there is no indication a decision has been made.",
-          "sources": [
-            {
-              "name": "Fox News live updates — Trump says 'anything's possible' regarding potential strikes on Iran after midterm elections",
-              "url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
-              "date": "2026-10-28"
-            }
-          ]
-        },
-        {
-          "claim": "Qatar-led mediators are urging Iran to allow UN inspectors into bombed nuclear sites in exchange for some U.S. sanctions relief.",
-          "evidence": "Axios cites U.S., Israeli and regional sources; it reports Iran said it would seek Supreme Leader Mojtaba Khamenei's approval for the ideas, and Saudi officials asked Trump not to rush into war.",
-          "sources": [
-            {
-              "name": "Axios — Iran pressed to make nuke concessions as massive post-midterms strikes loom",
-              "url": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
-              "date": "2026-10-28"
-            }
-          ]
-        },
-        {
-          "claim": "Vance sent outreach to Iranian officials; Trump said it was to help Iran get medical supplies.",
-          "evidence": "The Washington Post reports Vance's contact; CBS reports Iran had not responded to the letter as of Oct. 30 and that Trump denied the outreach is aimed at wider peace talks.",
-          "sources": [
-            {
-              "name": "The Washington Post — Vance makes Tehran outreach as Middle East braces for resumption of Iran war",
-              "url": "https://www.washingtonpost.com/politics/2026/10/28/iran-war-costs-rise-47-billion-us-military-estimates/",
-              "date": "2026-10-28"
+              "name": "AP News — Democrats win US House and Senate, taking full control of Congress",
+              "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226",
+              "date": "2026-11-04"
             },
             {
-              "name": "CBS News — Iran War Updates: Qatar pushes for U.S.-Iran deal under shadow of Trump's threats to resume attacks",
-              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-              "date": "2026-10-30"
+              "name": "CBS News — Midterm election live updates: Democrats flip over 40 House seats",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            },
+            {
+              "name": "Reuters — Democrats flex congressional majorities as Trump accepts electoral losses",
+              "url": "https://www.reuters.com/5f374b32b07b/legal/government/democrats-seize-congress-sweeping-midterm-repudiation-trump-2026-11-04/",
+              "date": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "claim": "Democrats hold at least 54 Senate seats to Republicans’ 44, with Alaska and Mississippi unresolved as of Nov. 5–6.",
+          "evidence": "CBS live updates and Reuters graphics both show 54–44 with those two races uncalled; Guardian’s results tracker matches that chamber split with 33 of 35 races called.",
+          "sources": [
+            {
+              "name": "CBS News — Midterm election live updates",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            },
+            {
+              "name": "Reuters graphics — US midterm election results in graphics and charts",
+              "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "The Guardian — US midterm elections 2026 live results",
+              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "claim": "Senate flips included Texas (Talarico), South Carolina (Andrews), Kansas (Hamilton), Ohio (Brown), Iowa (Turek), North Carolina (Cooper) and Maine (Jackson over Collins).",
+          "evidence": "Roll Call’s Nov. 4 Senate roundup names those races and opponents; CBS separately highlights upsets in Texas, Kansas and South Carolina among others.",
+          "sources": [
+            {
+              "name": "Roll Call — Democrats flip the Senate with stunning victories in deep-red terrain",
+              "url": "https://rollcall.com/2026/11/04/senate-democrats-majority-midterm-elections-2/",
+              "date": "2026-11-04"
+            },
+            {
+              "name": "CBS News — Midterm election live updates",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            }
+          ]
+        },
+        {
+          "claim": "House seat totals remain estimates: CBS projects about 256 Democratic seats after flipping more than 40 districts; Reuters graphics showed Democrats near 250 seats as of Nov. 5 afternoon.",
+          "evidence": "CBS and Reuters publish different running tallies because races are still being projected and certified; both agree Democrats are well above the 218 majority threshold.",
+          "sources": [
+            {
+              "name": "CBS News — Midterm election live updates",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            },
+            {
+              "name": "Reuters graphics — US midterm election results in graphics and charts",
+              "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/",
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "claim": "UF Election Lab’s initial national turnout estimate is about 122.7 million ballots counted, or 48.76% of the voting-eligible population.",
+          "evidence": "UF Election Lab’s Turnout_2026G spreadsheet lists United States TOTAL_BALLOTS_COUNTED 122,683,000 and VEP_TURNOUT_RATE 48.76%, last updated Nov. 5, 2026; the lab notes California and Washington mail counting can still raise the total.",
+          "sources": [
+            {
+              "name": "UF Election Lab — 2026 General Election Turnout",
+              "url": "https://election.lab.ufl.edu/2026-general-election-turnout/",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "UF Election Lab — Turnout_2026G_v0.2.csv",
+              "url": "https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2026G_v0.2.csv",
+              "date": "2026-11-05"
             }
           ]
         }
@@ -71,88 +113,78 @@
       "narratives": [
         {
           "type": "framing",
-          "description": "“Anything's possible” coverage treated as a decision to strike.",
-          "example": "Headlines built around Trump's “anything's possible” remark and allied warnings.",
-          "howItMisleads": "AP and Fox's own sources say no final decision has been made, and a parallel Qatari-led diplomatic track is active. Warnings to allies document preparation, not an order."
+          "description": "Treating unfinished House seat counts as a single locked number.",
+          "example": "Social posts citing one outlet’s House total as if every race were certified.",
+          "howItMisleads": "CBS (~256), Guardian (~253) and Reuters (~250 as of Nov. 5) disagree because counting and calls are still moving. Majority control is settled; the exact margin is not."
         },
         {
-          "type": "framing",
-          "description": "The Vance letter described two different ways.",
-          "example": "Media reports framed Vance's letter as an attempt to revive peace talks; Trump said it was only about medical supplies.",
-          "howItMisleads": "The letter's contents have not been published. Readers have the administration's description and anonymous-source reporting, not the document itself."
+          "type": "selective_emphasis",
+          "description": "Reducing a multi-issue wave to a single cause.",
+          "example": "Coverage that pins the result only on Iran, or only on prices, or only on culture-war backlash.",
+          "howItMisleads": "AP and other outlets list overlapping drivers—prices, the Iran war, corruption concerns and local races. No single-factor slogan captures the documented record."
         }
       ]
     },
     {
       "rank": 2,
-      "id": "alaska-two-dan-sullivans",
-      "title": "Alaska's ‘two Dan Sullivans’: NYT report triggers DOJ subpoenas, a state probe and a fight over certification",
-      "summary": "The New York Times reported Oct. 28 that people tied to Mary Peltola's Senate campaign and the Democratic Senatorial Campaign Committee helped recruit a retired teacher named Daniel J. Sullivan to run against GOP Sen. Dan Sullivan. The Justice Department issued grand-jury subpoenas and amended its lawsuit over certification, Gov. Mike Dunleavy ordered a state investigation, and Trump called for Peltola's prosecution. Peltola says she “knew nothing about” the other candidate; her campaign and the DSCC deny recruiting him.",
+      "id": "trump-iran-decision-imminent",
+      "title": "Trump says the world ‘will know very soon’ whether he strikes Iran again or cuts a deal; Qatar mediation continues",
+      "summary": "After the midterm loss, President Trump said Thursday the world “will know very soon” whether he will make a deal to end the war with Iran or order new strikes to “destroy what is left.” CBS reports he also called Qatar’s emir about de-escalation. Oil prices plunged on deal expectations then ticked back up; UKMTO reported another tanker explosion near Hormuz, and IRGC mine claims continue while Trump has accused Iran of lying about such incidents to drive prices up.",
       "tags": [
-        "Midterms",
-        "Alaska",
-        "Senate",
-        "DOJ",
-        "Elections"
+        "Foreign Policy",
+        "Iran",
+        "Military",
+        "Energy",
+        "Midterms"
       ],
-      "overview": "The Alaska Senate race, rated a toss-up, was upended by a New York Times report citing 12 people and dozens of text messages describing an effort by Peltola campaign staff and the DSCC to find spoiler candidates, including the retired Petersburg teacher Daniel J. Sullivan, who shares the incumbent's name. State courts had already let him stay on the ballot, and DOJ sued Oct. 23 to block immediate certification of a result possibly affected by “voter confusion.” On Oct. 29 DOJ amended that suit, alleging the campaign and DSCC misled the court about their knowledge, and a U.S. official told NBC that DOJ sent at least three dozen subpoenas and preservation requests. Dunleavy ordered the Alaska Bureau of Investigation to examine whether state laws were broken and declined to say whether a Peltola win would be certified while the probe is open. The House Oversight Committee opened its own inquiry. Peltola told supporters in Juneau, “I am not interested in tricking voters,” and her campaign accused Dunleavy of threatening “to overrule the will of Alaskan voters.”",
+      "overview": "The post-midterm Iran question that led last week’s brief is now an open decision window, not an order. CBS’s Nov. 6 live updates summarize Trump’s Thursday framing—deal versus new strikes—alongside a confirmed call with Qatari Emir Sheikh Tamim bin Hamad Al Thani about diplomatic efforts to ease tensions. Iran’s top diplomat made parallel Gulf calls aimed at “stability.” Market readers treated the Democratic wave as pressure toward a deal: GasBuddy’s Patrick De Haan told CBS national average gasoline near $4.06 could fall below $4 next week after oil’s post-election plunge, though prices later rebounded slightly. Separately, UKMTO said a tanker reported an explosion at the waterline leaving Hormuz near Oman with crew safe; IRGC claimed additional tankers hit mines. Trump has disputed Iranian incident claims. No new major U.S. strike package was reported as underway as of Friday morning research.",
       "knownFacts": [
         {
-          "claim": "The New York Times reported that Peltola campaign staff and the DSCC sought spoiler candidates and that Daniel J. Sullivan agreed to run to draw votes from the incumbent.",
-          "evidence": "NBC and ADN summarize the Times report, which cited interviews with 12 people and dozens of text messages. Peltola's campaign and the DSCC deny recruiting him, and Daniel J. Sullivan has previously said he is genuinely running.",
+          "claim": "Trump said Thursday the world “will know very soon” his decision on whether to make a deal to end the war with Iran or order new strikes to “destroy what is left.”",
+          "evidence": "CBS News Iran War Updates lead summary, updated Nov. 6, 2026.",
           "sources": [
             {
-              "name": "NBC News — DOJ issues subpoenas in Alaska Senate race as governor launches separate investigation",
-              "url": "https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316",
-              "date": "2026-10-29"
-            },
-            {
-              "name": "Anchorage Daily News — Ordering investigation, Alaska Gov. Dunleavy raises question of election certification if Senate race saw illegal activity",
-              "url": "https://www.adn.com/politics/2026/10/29/alaska-gov-dunleavy-orders-investigation-into-alleged-democratic-scheme-to-recruit-dan-sullivan-challenger/",
-              "date": "2026-10-29"
-            },
-            {
-              "name": "CBS News — Peltola says she \"knew nothing about\" the other Dan Sullivan as ballot controversy roils Alaska Senate race",
-              "url": "https://www.cbsnews.com/news/peltola-she-knew-nothing-dan-sullivan-ballot-controversy-alaska-senate-race/",
-              "date": "2026-10-30"
+              "name": "CBS News — Iran War Updates: Trump touts imminent decision on new U.S. strikes",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+              "date": "2026-11-06"
             }
           ]
         },
         {
-          "claim": "DOJ issued at least three dozen subpoenas and preservation requests, including to Peltola's campaign and Daniel J. Sullivan, and amended its federal lawsuit over certification.",
-          "evidence": "NBC cites a U.S. official; CNBC reports the amended complaint adds a new claim and alleges misleading statements to Judge Sharon Gleason. The original suit was filed Oct. 23.",
+          "claim": "Trump called Qatari Emir Sheikh Tamim bin Hamad Al Thani to discuss efforts to end the war; the emir’s office emphasized dialogue and de-escalation.",
+          "evidence": "CBS cites a U.S. official confirming the call and quotes the emir’s office statement; AP MidEast roundup also notes Trump discussed de-escalation with Qatar’s emir.",
           "sources": [
             {
-              "name": "NBC News — DOJ issues subpoenas in Alaska Senate race as governor launches separate investigation",
-              "url": "https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316",
-              "date": "2026-10-29"
+              "name": "CBS News — Iran War Updates (Trump–Qatar call)",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+              "date": "2026-11-06"
             },
             {
-              "name": "CNBC — Alaska Senate: DOJ amends lawsuit over Sullivan candidacies",
-              "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-              "date": "2026-10-29"
+              "name": "AP News — Trump discusses Middle East de-escalation with Qatar’s emir",
+              "url": "https://apnews.com/article/mideast-news-november-6-2026-ab62071e056c046fe6034216e14b8bb7",
+              "date": "2026-11-06"
             }
           ]
         },
         {
-          "claim": "Gov. Dunleavy ordered a state investigation and suggested a narrow Sullivan loss would have to be examined.",
-          "evidence": "ADN reports Dunleavy did not say whether the election would be certified if Peltola wins while under investigation; the House Oversight Committee also opened an inquiry.",
+          "claim": "UKMTO reported a tanker hit by an explosion at the waterline leaving the Strait of Hormuz near Oman; crew were safe and the ship continued under its own power.",
+          "evidence": "CBS cites the United Kingdom Maritime Trade Operations center Friday update; Iran state media and IRGC separately claimed tankers hit mines—claims Trump has disputed.",
           "sources": [
             {
-              "name": "Anchorage Daily News — Ordering investigation, Alaska Gov. Dunleavy raises question of election certification if Senate race saw illegal activity",
-              "url": "https://www.adn.com/politics/2026/10/29/alaska-gov-dunleavy-orders-investigation-into-alleged-democratic-scheme-to-recruit-dan-sullivan-challenger/",
-              "date": "2026-10-29"
+              "name": "CBS News — Iran War Updates (UKMTO tanker explosion)",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+              "date": "2026-11-06"
             }
           ]
         },
         {
-          "claim": "Peltola said she “knew nothing about any other candidates on the ballot except for me and the incumbent.”",
-          "evidence": "CBS reports her remarks at a Juneau rally Oct. 29.",
+          "claim": "U.S. retail gasoline averaged about $4.06 a gallon Thursday/Friday morning, with analysts saying it could dip below $4 next week after oil’s post-midterm plunge on deal expectations.",
+          "evidence": "CBS MoneyWatch notes quoting GasBuddy analyst Patrick De Haan; CBS also notes oil later ticked slightly higher.",
           "sources": [
             {
-              "name": "CBS News — Peltola says she \"knew nothing about\" the other Dan Sullivan as ballot controversy roils Alaska Senate race",
-              "url": "https://www.cbsnews.com/news/peltola-she-knew-nothing-dan-sullivan-ballot-controversy-alaska-senate-race/",
-              "date": "2026-10-30"
+              "name": "CBS News — Iran War Updates / gas-price note",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+              "date": "2026-11-06"
             }
           ]
         }
@@ -161,334 +193,321 @@
       "narratives": [
         {
           "type": "framing",
-          "description": "“The Democrats cheated!” presented as settled.",
-          "example": "Trump's call for Peltola and Daniel J. Sullivan to be removed from the ballot and prosecuted.",
-          "howItMisleads": "The Times report is detailed, but no one has been charged and the campaign denies the account. Whether recruiting a same-name candidate breaks any law is exactly what the state and federal probes are examining."
+          "description": "“Imminent strikes” treated as an executed order.",
+          "example": "Headlines that collapse “you’ll know very soon” into “Trump resumes war.”",
+          "howItMisleads": "CBS’s own reporting pairs the threat language with active Qatar mediation and no confirmed new major strike campaign as of Friday morning."
         },
         {
           "type": "framing",
-          "description": "“Smears” framing that waves away the reporting.",
-          "example": "Peltola asking “when did The New York Times become the National Enquirer?”",
-          "howItMisleads": "Dismissing the outlet does not answer the specific texts and named sources the Times cited. Both sides' framings skip over what has actually been documented so far."
-        },
-        {
-          "type": "selective_emphasis",
-          "description": "Certification threat underplayed or overstated.",
-          "example": "Dunleavy saying the state would “have to take a look” at a narrow loss.",
-          "howItMisleads": "He has not said certification would be blocked, and the decision path runs through courts and Alaska law. Coverage claiming the result is already in jeopardy, or that nothing could happen, both go beyond the record."
+          "description": "Iranian mine claims reported as independently confirmed tanker losses.",
+          "example": "Repeating IRGC statements that multiple tankers hit mines as settled fact.",
+          "howItMisleads": "UKMTO’s verified Friday note was a waterline explosion with crew safe. Iranian mine tallies remain claims Trump disputes; readers need the sourcing distinction."
         }
       ]
     },
     {
       "rank": 3,
-      "id": "california-noncitizen-subpoenas",
-      "title": "DOJ subpoenas California election workers a day after a judge said its threats ‘must stop’; special master to vet a 20,000-name list",
-      "summary": "U.S. District Judge David O. Carter rejected DOJ's demand that California set aside ballots of about 20,000 alleged noncitizens, saying both sides agree the list includes citizens, and appointed special master Daniel B. Garrie to build a factual record. The next day, federal prosecutors issued grand-jury subpoenas to Los Angeles and Orange County election workers, with testimony set for Nov. 4. Trump said without evidence there are “millions” of bad ballots in California.",
+      "id": "alaska-senate-rcv-undecided",
+      "title": "Alaska Senate remains uncalled: Peltola leads first-choice by ~637 votes; RCV tabulation set for Nov. 18",
+      "summary": "Mary Peltola led Sen. Dan Sullivan 102,962 to 102,325 (~637 votes, about 48.0%–47.7%) in the latest first-choice tally KTUU cited, with Daniel J. Sullivan around 3,600 votes and neither major candidate over 50%. Both campaigns are projecting victory once ranked-choice voting runs. Official RCV tabulation begins Nov. 18; AP has not called the race. Outstanding early and absentee ballots remain a large wild card.",
       "tags": [
         "Midterms",
-        "Elections",
-        "DOJ",
-        "California",
-        "Courts"
+        "Alaska",
+        "Senate",
+        "Ranked Choice",
+        "Elections"
       ],
-      "overview": "Carter's Oct. 28 order called DOJ's push to segregate ballots a violation of the National Voter Registration Act's 90-day quiet period and warned that “these threats must stop” after DOJ letters threatened county officials with criminal charges. He appointed Garrie on Oct. 29, set an evidentiary hearing for Nov. 13 and noted that more than 500,000 votes had already been processed in Los Angeles County. DOJ appealed to the 9th Circuit. The same day, all four U.S. attorneys in California issued subpoenas, per AP; CalMatters reports at least four election workers received grand-jury subpoenas over the past week, including one to Orange County seeking unredacted records on 60 voters. DOJ says receiving a subpoena does not make someone a target. Federal prosecutors charged 28 people last week with registering despite not being citizens, roughly 0.0001% of California's 23 million registered voters, per CalMatters.",
+      "overview": "Alaska is one of two Senate races still unresolved after the national Democratic wave. KTUU reports both campaigns claim the math favors them: Peltola’s team says remaining early and absentee ballots will widen her lead; Sullivan’s memo says an RCV tabulation of ballots already in hand would elect him. Because no candidate has a majority on first choices, Alaska’s ranked-choice process will eliminate lower finishers—including same-name candidate Daniel J. Sullivan, whose ~3,600 votes remain central to last week’s DOJ/spoiler-name controversy—and redistribute second choices until someone clears a majority. Preliminary CVR-based RCV tallies circulating online can reverse depending on which ballot slice is included; they are not the official Division of Elections result. Certification fights and the pre-election DOJ/state probes over the second Dan Sullivan remain background risk if the margin stays razor-thin.",
       "knownFacts": [
         {
-          "claim": "Judge Carter rejected DOJ's demand to sequester the ballots, questioned the reliability of the 20,000-name list and appointed a special master.",
-          "evidence": "AP reports both sides agree the list includes an unspecified number of citizens and that Carter will rule on a renewed injunction request after a Nov. 13 hearing.",
+          "claim": "As of the Wednesday afternoon results KTUU cited, Peltola had 102,962 first-choice votes (48.02%) and Sen. Dan Sullivan 102,325 (47.72%), a 637-vote gap.",
+          "evidence": "Alaska’s News Source / KTUU report Nov. 5–6; AP has not called the race.",
           "sources": [
             {
-              "name": "AP via KCRA — Justice Department subpoenas California officials in escalation of its scrutiny of local election administration",
-              "url": "https://www.kcra.com/article/justice-department-subpoenas-california-officials-special-master/74288310",
-              "date": "2026-10-29"
+              "name": "KTUU / Alaska’s News Source — Peltola and Sullivan campaigns project wins while a quarter of ballots are outstanding",
+              "url": "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "DOJ issued grand-jury subpoenas to California election workers, including Los Angeles County employees ordered to appear Nov. 4, the day after the election.",
-          "evidence": "AP obtained two of the subpoenas; CalMatters reports at least four election workers were subpoenaed in the past week and that DOJ spokesperson Kiersten Pels said “receiving a subpoena doesn't mean you are a target.”",
+          "claim": "Daniel J. Sullivan, the Petersburg candidate with the same name as the incumbent, had about 3,600 first-choice votes; Gerald Heikes had 2.26%; write-ins were 695.",
+          "evidence": "KTUU’s results rundown of the multi-candidate first round.",
           "sources": [
             {
-              "name": "AP via KCRA — Justice Department subpoenas California officials in escalation of its scrutiny of local election administration",
-              "url": "https://www.kcra.com/article/justice-department-subpoenas-california-officials-special-master/74288310",
-              "date": "2026-10-29"
-            },
-            {
-              "name": "CalMatters — DOJ subpoenas California election officials, despite judge's order to stop threatening them",
-              "url": "https://calmatters.org/politics/2026/10/ca-election-officials-subpoenas/",
-              "date": "2026-10-29"
+              "name": "KTUU / Alaska’s News Source — Peltola and Sullivan campaigns project wins",
+              "url": "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "Carter wrote that “these threats must stop” regarding DOJ's threats of criminal charges against election officials.",
-          "evidence": "CalMatters quotes his written order and his remark to U.S. Attorney Bill Essayli: “Go out and indict.”",
+          "claim": "Official ranked-choice tabulation is scheduled to begin Nov. 18; both campaigns are already projecting they will win under RCV.",
+          "evidence": "KTUU quotes Peltola campaign manager Cheryl Bruce projecting a Peltola win once all ballots are counted, and a Sullivan campaign memo projecting a Sullivan win if RCV ran on current ballots in hand.",
           "sources": [
             {
-              "name": "CalMatters — DOJ subpoenas California election officials, despite judge's order to stop threatening them",
-              "url": "https://calmatters.org/politics/2026/10/ca-election-officials-subpoenas/",
-              "date": "2026-10-29"
+              "name": "KTUU / Alaska’s News Source — Peltola and Sullivan campaigns project wins",
+              "url": "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "Federal prosecutors charged 28 people last week with registering to vote despite not being citizens.",
-          "evidence": "CalMatters puts that at about 0.0001% of California's 23 million registered voters; not all of them had voted.",
+          "claim": "Sullivan’s campaign continues to call the second Dan Sullivan candidacy “the biggest election cheating scandal in the history of Alaska,” which Peltola’s campaign denies.",
+          "evidence": "KTUU quotes the Sullivan memo; last week’s brief documented the NYT report, DOJ subpoenas and Dunleavy state probe—none of which has produced charges yet.",
           "sources": [
             {
-              "name": "CalMatters — DOJ subpoenas California election officials, despite judge's order to stop threatening them",
-              "url": "https://calmatters.org/politics/2026/10/ca-election-officials-subpoenas/",
-              "date": "2026-10-29"
+              "name": "KTUU / Alaska’s News Source — Peltola and Sullivan campaigns project wins",
+              "url": "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/",
+              "date": "2026-11-05"
             }
           ]
         }
       ],
-      "misrepresentations": [
-        {
-          "outlet": "Donald Trump, remarks to reporters, Oct. 29, 2026",
-          "pieceTitle": "AP via KCRA — Justice Department subpoenas California officials in escalation of its scrutiny of local election administration",
-          "pieceUrl": "https://www.kcra.com/article/justice-department-subpoenas-california-officials-special-master/74288310",
-          "claimMade": "There are “hundreds of thousands” and then “millions, in my opinion” of “bad ballots” in California.",
-          "whyInaccurate": "AP reports the claim was made without evidence. DOJ's own list contains about 20,000 names, which both sides agree includes citizens, and federal charges so far cover 28 people.",
-          "severity": "misleading"
-        }
-      ],
+      "misrepresentations": [],
       "narratives": [
         {
           "type": "framing",
-          "description": "Subpoenas described as routine investigation.",
-          "example": "DOJ's statement that subpoena recipients are generally not targets.",
-          "howItMisleads": "Election-law expert Justin Levitt told CalMatters the federal statute of limitations is five years, so there is no investigative need to subpoena officials mid-election. The timing is the issue critics raise, not the existence of a probe."
+          "description": "First-choice lead presented as a finished win.",
+          "example": "Posts declaring Peltola has already won Alaska based on the ~637-vote first-round edge.",
+          "howItMisleads": "Without 50%, Alaska requires RCV. Outstanding ballots and second-choice flows can change the result; AP has not called it."
         },
         {
           "type": "framing",
-          "description": "Noncitizen voting presented as widespread.",
-          "example": "Trump calling California elections “extremely corrupt.”",
-          "howItMisleads": "AP notes available data indicates noncitizen voting is exceedingly rare, and the court found the government's own list unreliable."
+          "description": "Unofficial CVR RCV tallies treated as the official result.",
+          "example": "Viral charts showing Sullivan ahead after simulated rankings.",
+          "howItMisleads": "Those tallies depend on which ballots are included and are not the Division of Elections’ Nov. 18 tabulation. Both campaigns’ victory projections cannot both be right."
         }
       ]
     },
     {
       "rank": 4,
-      "id": "vote-flipping-clips-and-slow-counts",
-      "title": "Old ‘vote-flipping’ clips from 2014–2019 go viral as 2026 fraud proof; fact-checkers say slow counts after Nov. 3 are normal too",
-      "summary": "AFP traced three viral clips of touchscreen machines appearing to switch votes to 2014 Virginia, 2018 Indiana and a 2019 Mississippi GOP runoff, all on equipment no longer in use. Claims circulated from both directions, saying machines favored Democrats or Republicans. PolitiFact says isolated touchscreen issues are usually calibration or user error, and separately warned that results taking days to count is normal, not a sign of fraud.",
+      "id": "anti-trans-ads-183m-midterms",
+      "title": "Republicans spent an estimated $183M on anti-trans midterm ads—then lost the Senate and House",
+      "summary": "The Guardian, citing reporting that tracked Republican ad buys, says GOP campaigns and allies spent about $183 million on transgender-issue ads before Election Day—including roughly $7 million and 7,000 airings in Kansas alone per AP figures the Guardian relays. Texas and Kansas still flipped to Democrats (Talarico, Hamilton). Some Democratic winners also ran restrictive sports/medical ads. Trans advocates called the spend a failed culture-war diversion from prices and the Iran war.",
       "tags": [
+        "Culture",
         "Midterms",
-        "Elections",
-        "Misinformation",
-        "Voting"
+        "LGBTQ",
+        "Advertising",
+        "Narrative"
       ],
-      "overview": "With early voting underway and, per Axios, unusually strong early turnout among Black, Hispanic and unaffiliated voters in several states, voting-machine claims spread on X, Threads, Facebook and TikTok. AFP found the three most-shared clips were years old: a 2019 Mississippi runoff in which both candidates were Republicans, a 2014 Virginia Beach congressional race whose machines were decertified in 2015, and a 2018 Tippecanoe County, Indiana, video from a direct-recording machine since replaced by one with a paper audit trail. PolitiFact found similar claims from a liberal group saying machines in Texas, Florida, Tennessee and Ohio rejected Democratic votes; Texas county officials said nearly every case traced to screen calibration on older machines. Voters can review selections on screen and on a printed paper record before casting. PolitiFact's Oct. 29 explainer adds that it is normal for leads to change as mail and provisional ballots are counted after Election Day.",
+      "overview": "Culture-war ad strategy met election arithmetic this week. Guardian’s Nov. 5 feature frames the $183 million transgender-issue spend as a central Republican midterm bet that did not deliver the Senate or House. It notes Elon Musk-funded groups hammered James Talarico in Texas and that Trump restated anti-gender-affirming-care attacks on the trail. Kansas pastor-candidate Adam Hamilton still beat Sen. Roger Marshall after heavy anti-trans airpower there. The same piece documents that some winning Democrats—Iowa’s Josh Turek, Ohio’s Marcy Kaptur, Florida’s Kathy Castor—echoed restrictions on transgender athletes or related “ideology” framing, while Michigan’s Abdul El-Sayed publicly reiterated support for trans rights. Separately, Alabama elected transgender state representative Allison Montgomery, and five other states elected first-time trans or non-binary state-level candidates, per the Guardian. The checkable claim is the ad spend and the chamber results—not a single national referendum on gender.",
       "knownFacts": [
         {
-          "claim": "Three widely shared “vote-flipping” clips date to 2014, 2018 and 2019 and show equipment no longer used in those jurisdictions.",
-          "evidence": "AFP identifies each clip, notes Virginia now uses hand-marked paper ballots, and quotes the Tippecanoe County Election Board calling vote-switching allegations “patently false.”",
+          "claim": "Republicans spent an estimated $183 million on ads about transgender issues in the weeks leading up to the midterms.",
+          "evidence": "The Guardian’s Nov. 5 reporting states the $183 million estimate and ties it to AP tracking of related buys (e.g., $7 million / 7,000 airings in Kansas).",
           "sources": [
             {
-              "name": "AFP Fact Check — Old clips used as false proof of fraudulent US voting machines in 2026",
-              "url": "https://factcheck.afp.com/doc.afp.com.D49L6T3",
-              "date": "2026-10-26"
+              "name": "The Guardian — ‘Sick to my stomach’: trans Americans on politicians who spent $183m attacking them for votes",
+              "url": "https://www.theguardian.com/world/2026/nov/05/anti-trans-attacks-midterm-elections-republicans",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "AP News — Transgender ads midterms (Republicans, cultural vs economic issues)",
+              "url": "https://apnews.com/article/transgender-ads-midterms-republicans-cultural-economic-issues-5c43cf231930a02c1f51b7ddcd8d9448",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "Election officials attribute most touchscreen mis-selection reports to calibration and user error, and voters can verify choices before casting.",
-          "evidence": "PolitiFact quotes the Texas Association of County Election Officials and notes selections are shown on screen, on a review screen and on a printed paper ballot.",
+          "claim": "Despite that spend, Democrats flipped Texas and Kansas Senate seats (Talarico; Hamilton over Marshall) as part of taking the chamber.",
+          "evidence": "Guardian notes Texas and Kansas flipped blue alongside the national Senate/House result; Roll Call details both races.",
           "sources": [
             {
-              "name": "PolitiFact — No evidence voting machines are purposely 'flipping' votes, it's usually user error and can be fixed",
-              "url": "https://politifact.com/article/2026/oct/24/voting-machines-tennessee-texas-flipping-swapping/",
-              "date": "2026-10-24"
+              "name": "The Guardian — anti-trans attacks midterm elections",
+              "url": "https://www.theguardian.com/world/2026/nov/05/anti-trans-attacks-midterm-elections-republicans",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "Roll Call — Democrats flip the Senate",
+              "url": "https://rollcall.com/2026/11/04/senate-democrats-majority-midterm-elections-2/",
+              "date": "2026-11-04"
             }
           ]
         },
         {
-          "claim": "Results that take days, and leads that shift after Election Night, are normal under state counting laws.",
-          "evidence": "PolitiFact quotes election-technology expert Ryan Macias: “States are neither fast or slow, they all count and certify the results in accordance with the laws passed by their state legislature.”",
+          "claim": "Some Democratic winners also aired or emphasized anti-trans sports/medical messaging (e.g., Josh Turek in Iowa; Marcy Kaptur and Kathy Castor in the House).",
+          "evidence": "Guardian quotes or paraphrases those candidates’ ads/statements and notes Turek said he was responding to false claims from his GOP opponent.",
           "sources": [
             {
-              "name": "PolitiFact — When will we know 2026 midterm election results? It may take some time, but that's normal.",
-              "url": "https://politifact.com/article/2026/oct/29/election-night-results-midterms-senate-trump/",
-              "date": "2026-10-29"
+              "name": "The Guardian — anti-trans attacks midterm elections",
+              "url": "https://www.theguardian.com/world/2026/nov/05/anti-trans-attacks-midterm-elections-republicans",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "Early voting turnout is running high in several states.",
-          "evidence": "Axios reports unusually strong early participation among Black, Hispanic and unaffiliated voters and notes early patterns don't predict which party benefits.",
+          "claim": "Alabama elected its first transgender state lawmaker, Allison Montgomery; Georgia, Washington, Wisconsin, Michigan and Florida also elected first-time trans or non-binary state-level candidates, per the Guardian.",
+          "evidence": "Reported in the Guardian’s Nov. 5 feature on the midterm aftermath for trans Americans.",
           "sources": [
             {
-              "name": "Axios — Midterm voters show up early — and in droves",
-              "url": "https://www.axios.com/world/2026/10/29",
-              "date": "2026-10-29"
+              "name": "The Guardian — anti-trans attacks midterm elections",
+              "url": "https://www.theguardian.com/world/2026/nov/05/anti-trans-attacks-midterm-elections-republicans",
+              "date": "2026-11-05"
             }
           ]
         }
       ],
-      "misrepresentations": [
-        {
-          "outlet": "Post on X, Oct. 20, 2026 (as documented by AFP)",
-          "pieceTitle": "AFP Fact Check — Old clips used as false proof of fraudulent US voting machines in 2026",
-          "pieceUrl": "https://factcheck.afp.com/doc.afp.com.D49L6T3",
-          "claimMade": "“Electronic voting machine will not let voter select the Republican candidate that they want to vote for and automatically selects the Democrat candidate instead.”",
-          "whyInaccurate": "The clip shows a 2019 Mississippi Republican runoff between two Republicans, on TSX machines Lafayette County no longer uses.",
-          "severity": "false"
-        },
-        {
-          "outlet": "Facebook post from “The Other 98%” (as documented by PolitiFact)",
-          "pieceTitle": "PolitiFact — No evidence voting machines are purposely 'flipping' votes, it's usually user error and can be fixed",
-          "pieceUrl": "https://politifact.com/article/2026/oct/24/voting-machines-tennessee-texas-flipping-swapping/",
-          "claimMade": "Machines in Texas, Florida, Tennessee and Ohio are changing Democratic votes back to Republican unless voters press several times.",
-          "whyInaccurate": "PolitiFact found no evidence of deliberate vote flipping; officials say cases trace to touchscreen calibration and are correctable before a ballot is cast.",
-          "severity": "misleading"
-        }
-      ],
+      "misrepresentations": [],
       "narratives": [
         {
+          "type": "selective_emphasis",
+          "description": "“Voters rejected anti-trans politics” as a total explanation of the blue wave.",
+          "example": "Claims that the midterms were solely a referendum on transgender rights.",
+          "howItMisleads": "Chamber flips also tracked Iran-war costs, prices and candidate quality. Some Democrats who won still ran restrictive ads. Ad-spend failure is documented; a single-issue mandate is not."
+        },
+        {
           "type": "framing",
-          "description": "Machine-flipping narratives run on both sides.",
-          "example": "The same type of clip shared as proof machines favor Democrats and as proof they favor Republicans.",
-          "howItMisleads": "AFP documents both versions. A localized, correctable calibration issue is turned into a partisan conspiracy story by whichever side shares it."
+          "description": "Transgender people cast as the decisive “swing issue.”",
+          "example": "Campaign ads implying gender policy alone decides suburbs and red states.",
+          "howItMisleads": "Even sources inside the Guardian piece quote voters saying gas prices and the economy mattered more to most people than trans culture-war spots."
         }
       ]
     },
     {
       "rank": 5,
-      "id": "ramaswamy-acton-mother-ad",
-      "title": "Ramaswamy stops airing ad featuring Amy Acton's estranged mother after court records detail childhood abuse",
-      "summary": "Ohio GOP governor nominee Vivek Ramaswamy confirmed Oct. 29 his campaign is no longer airing an attack ad in which Democrat Amy Acton's estranged mother, Donna Arthur, calls her a “liar.” Court records reported by The Guardian show Arthur lost custody in 1978 after her husband was charged with raping Acton as a child. Ramaswamy said the ad “ran to completion”; Trump had defended it at a rally the day before.",
+      "id": "trump-accepts-midterm-results",
+      "title": "Trump says he will accept the midterm results—while still blaming candidates, oil and media, not a 2020-style fraud crusade",
+      "summary": "Unlike 2020, Trump told The New York Times and Fox’s Bret Baier he would accept the midterm outcomes—“Yeah, sure I’ll accept. Why wouldn’t I?” NPR and AP fact-focus pieces note the contrast with a decade of fraud claims. He has pointed at GOP candidates, oil prices and coverage rather than alleging the election was stolen wholesale. DHS still says it will review voting logs for noncitizen voting after the fact.",
       "tags": [
         "Midterms",
-        "Ohio",
-        "Campaign Ads",
-        "Culture & Narrative"
+        "Trump",
+        "Elections",
+        "Misinformation"
       ],
-      "overview": "The ad became a national flashpoint over how far family stories can go in campaigns. Ramaswamy's campaign had announced a $4 million buy for the spot. The Guardian reports court records show Arthur lost custody of her daughter in 1978 when her second husband, Cledith Arthur, was charged with raping Acton between the ages of 10 and 12, and that the original 60-second version included Arthur's claim that Acton lied about living in a tent — a claim the campaign cut after court records showed Cledith Arthur was living in a tent when arrested. PolitiFact earlier detailed what the ad left out. Acton's campaign responded with its own ad accusing Ramaswamy of “exploiting the sexual abuse of a child,” and Acton told supporters he chose “to exploit my childhood intentionally.” Asked about the ad, Ramaswamy said, “It ran to completion and we put up four other ads,” and said he wanted the close to be about policy.",
+      "overview": "The narrative fight after this wave is as notable for what did not happen as for what did. NPR’s Miles Parks reported Trump explicitly accepted the results in a New York Times interview election night and again with Bret Baier. Analysts told NPR a loss this large, with Trump not on the ballot, made a 2020-style “stop the steal” harder to sell—and that local officials already sensed fraud narratives had less purchase with voters this cycle. That does not mean election-integrity machinery stopped: NPR quotes DHS Secretary Markwayne Mullin saying agencies will gather data and voting logs to check for unlawful noncitizen votes. AP’s related fact focus tracks how “rigged” talk online did not become the president’s main public line. Separately, Trump has criticized candidate quality, energy costs and media—standard blame-shifting that is not the same as claiming millions of fake ballots decided Congress.",
       "knownFacts": [
         {
-          "claim": "Ramaswamy confirmed his campaign stopped airing the ad, saying it “ran to completion and we put up four other ads.”",
-          "evidence": "The Guardian reports his remarks in Vandalia, Ohio, Oct. 29; AP also reported the ad was pulled.",
+          "claim": "Trump told Fox’s Bret Baier he would accept the midterm race outcomes: “Yeah, sure I’ll accept. Why wouldn’t I?”",
+          "evidence": "NPR audio/transcript of the Baier exchange; NPR notes he said the same to The New York Times around 10:30 p.m. election night.",
           "sources": [
             {
-              "name": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
-              "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
-              "date": "2026-10-29"
-            },
-            {
-              "name": "AP News — Ramaswamy pulls attack ad featuring Amy Acton's estranged mother",
-              "url": "https://apnews.com/article/ohio-ramaswamy-ad-acton-mother-365745259579371f41122b184254fdde",
-              "date": "2026-10-29"
+              "name": "NPR — Democrats won big in the midterms, and President Trump is accepting the results",
+              "url": "https://www.npr.org/2026/11/04/nx-s1-6029306/democrats-won-big-in-the-midterms-and-president-trump-is-accepting-the-results",
+              "date": "2026-11-04"
             }
           ]
         },
         {
-          "claim": "Court records show Acton's mother lost custody in 1978 after her husband was charged with raping Acton between ages 10 and 12.",
-          "evidence": "The Guardian cites court records and notes Trump defended the ad at a rally with Ramaswamy Oct. 28.",
+          "claim": "Trump also told CBS he congratulated Democrats and looked forward to working with them, while separately emphasizing veto power.",
+          "evidence": "CBS live updates quote his Tuesday CBS interview congratulatory line and later “work with Democrats… veto” remarks; a “VETO” hat appeared on the Resolute Desk Thursday per CBS.",
           "sources": [
             {
-              "name": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
-              "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
-              "date": "2026-10-29"
+              "name": "CBS News — Midterm election live updates / Trump’s final 2 years with Democrats in charge",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            },
+            {
+              "name": "Roll Call — Democrats flip the Senate (quotes Trump CBS congratulations)",
+              "url": "https://rollcall.com/2026/11/04/senate-democrats-majority-midterm-elections-2/",
+              "date": "2026-11-04"
             }
           ]
         },
         {
-          "claim": "The campaign cut the ad from 60 to 30 seconds, removing Arthur's claim that Acton lied about living in a tent.",
-          "evidence": "The Guardian reports court records indicate Cledith Arthur was living in a tent at the time of his arrest.",
+          "claim": "DHS Secretary Markwayne Mullin said after the election the government would gather voting logs and data to check that “no illegals voted.”",
+          "evidence": "NPR quotes Mullin’s Fox appearance; Parks notes prior DHS reports on this theme have had significant flaws and have not proven Trump’s larger fraud claims.",
           "sources": [
             {
-              "name": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
-              "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
-              "date": "2026-10-29"
+              "name": "NPR — Democrats won big… Trump is accepting the results",
+              "url": "https://www.npr.org/2026/11/04/nx-s1-6029306/democrats-won-big-in-the-midterms-and-president-trump-is-accepting-the-results",
+              "date": "2026-11-04"
             },
             {
-              "name": "PolitiFact — Abuse and estrangement: What Ramaswamy's Ohio governor's race ad with Amy Acton's mom didn't mention",
-              "url": "https://politifact.com/article/list/?category=2026-midterms",
-              "date": "2026-10-21"
+              "name": "AP News — Election voting results “rigged” facts focus",
+              "url": "https://apnews.com/article/election-voting-results-rigged-facts-trump-f8e70e3d60186ae969629644e64a2df6",
+              "date": "2026-11-04"
             }
           ]
         }
       ],
-      "misrepresentations": [
-        {
-          "outlet": "Original version of Ramaswamy campaign ad, October 2026",
-          "pieceTitle": "The Guardian — Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
-          "pieceUrl": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
-          "claimMade": "Amy Acton lied about her family living in a tent when she was a child (in the original 60-second ad, via her mother).",
-          "whyInaccurate": "The Guardian reports court records from the time indicate Cledith Arthur lived in a tent when arrested; the campaign edited that allegation out of the ad.",
-          "severity": "misleading"
-        }
-      ],
+      "misrepresentations": [],
       "narratives": [
         {
           "type": "framing",
-          "description": "“Ran to completion” versus “pulled.”",
-          "example": "Ramaswamy's description of why the ad stopped airing.",
-          "howItMisleads": "The campaign had announced a $4 million buy; describing the end of the ad as planned skips the bipartisan backlash that preceded it."
+          "description": "“Trump accepted, so fraud talk is over.”",
+          "example": "Takes that treat the Baier sound bite as the end of election-integrity probes.",
+          "howItMisleads": "Acceptance of chamber outcomes coexists with continued DHS/DOJ noncitizen-voting reviews and local online conspiracy chatter NPR separately noted."
         },
         {
-          "type": "selective_emphasis",
-          "description": "A mother's word presented as character evidence without context.",
-          "example": "The ad's framing of Arthur calling her daughter a “liar.”",
-          "howItMisleads": "It omitted that Arthur lost custody after Acton's stepfather was charged with raping her, context central to judging the mother's credibility."
+          "type": "framing",
+          "description": "Online “rigged” posts treated as the administration’s official line.",
+          "example": "Viral threads claiming Trump is secretly saying the midterms were stolen.",
+          "howItMisleads": "His on-record comments to NYT, Fox and CBS accept the results. Blame directed at candidates/oil/media is not the same documented claim as a stolen election."
         }
       ]
     },
     {
       "rank": 6,
-      "id": "hormuz-mine-claims-oil",
-      "title": "Iran says tankers hit mines in Hormuz as U.S. insists lanes are clear; Brent near $117 heading for a fourth monthly gain",
-      "summary": "Iran's Revolutionary Guards claimed three tankers exploded after hitting mines on the “unauthorized” southern route of the Strait of Hormuz, and Iran's army claimed a fourth. CENTCOM says primary transit routes have been cleared. The British maritime agency UKMTO confirmed a dhow caught fire and sank near Oman's Khasab, and on Friday reported a tanker hit by explosives attached from a small boat. Brent crude rose to about $117 Friday.",
+      "id": "harmeet-dhillon-resigns-doj-civil-rights",
+      "title": "Harmeet Dhillon resigns as DOJ Civil Rights chief after midterms; she says the exit was planned, CBS sources say Trump wanted her fired after ‘60 Minutes’",
+      "summary": "Attorney General Todd Blanche accepted Assistant Attorney General Harmeet Dhillon’s resignation Nov. 5. Dhillon wrote that she told chief of staff Susie Wiles in early October she would leave after the midterms. CBS, citing two sources, reports Trump demanded she be fired after her Oct. 18 “60 Minutes” appearance on election-integrity work, and that DOJ officials stalled so she could resign on her timeline. Her tenure reoriented the division toward DEI rollbacks, gun-owner and transgender-sports cases and away from many traditional discrimination priorities.",
       "tags": [
-        "Iran",
-        "Energy",
-        "Oil",
-        "Foreign Policy"
+        "DOJ",
+        "Civil Rights",
+        "Trump",
+        "Personnel",
+        "Elections"
       ],
-      "overview": "The waterway, which normally carries about a fifth of global oil and gas consumption, has been restricted by Iran since the war began Feb. 28; the U.S. has imposed a blockade on Iranian ports and escorted tankers. On Oct. 29, the IRGC said three “violating” tankers struck mines on the southern route near Oman and challenged CENTCOM to “prove your Hormuz mine-clearing claim with independent evidence.” AFP reported it was not clear when the incidents occurred or which flags the vessels flew; UKMTO's confirmed incident that day involved a dhow whose crew was evacuated. On Oct. 30, UKMTO said a tanker was hit by explosive devices attached by a small boat; it was not clear who was responsible. Reuters, via CNBC, reported December Brent at $117.38 and WTI at $104.09 Friday morning, with Brent on track for a 13% monthly gain, and Houthi attacks on Saudi refineries adding to supply fears.",
+      "overview": "Dhillon’s exit closes an 18-month remaking of what DOJ long called its “crown jewel” division. CBS reports more than 75% of Civil Rights Division staff left under her watch; she dismissed or declined multiple police consent decrees, closed many cases involving discrimination against Black Americans, and prioritized suits against DEI practices and transgender athletes in girls’ sports. Blanche praised her “conviction.” Timing is contested in the sourcing: her letter describes a planned post-midterm departure arranged with Wiles; CBS’s unnamed sources describe a presidential firing demand after she said on “60 Minutes” that the Trump DOJ was investigating “thousands” of noncitizen voting cases versus 13 under Biden. White House spokesperson Lauren Bis called her job “fantastic.” The personnel story matters because Democrats will soon run House oversight of the same election and civil-rights machinery.",
       "knownFacts": [
         {
-          "claim": "The IRGC claimed three tankers hit mines on the southern route; Iran's army claimed a fourth; CENTCOM says primary routes are cleared.",
-          "evidence": "AFP via Arab News reports the claims, CENTCOM's position and that it was unclear when incidents occurred or which flags the ships flew.",
+          "claim": "Blanche accepted Dhillon’s resignation as assistant attorney general for the Civil Rights Division on Nov. 5, 2026.",
+          "evidence": "CBS quotes Blanche’s X statement; AP, WaPo, Politico and NBC also reported the resignation the same day.",
           "sources": [
             {
-              "name": "Arab News/AFP — Iran claims four tankers hit mines in Hormuz as dhow crew rescued",
-              "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-three-oil-tankers-hit-mines-in-strait-of-hormuz-3008795",
-              "date": "2026-10-29"
+              "name": "CBS News — Harmeet Dhillon resigns as head of DOJ Civil Rights Division",
+              "url": "https://www.cbsnews.com/news/harmeet-dhillon-resigns-doj-civil-rights-division/",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "AP News — Harmeet Dhillon exits after radical overhaul of DOJ Civil Rights Division",
+              "url": "https://apnews.com/article/justice-department-civil-rights-division-harmeet-dhillon-db3ad709a2ff5a48c5d3a9e3f71963d6",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "NBC News — Head of DOJ Civil Rights Division resigns after GOP midterms loss",
+              "url": "https://www.nbcnews.com/politics/justice-department/head-doj-civil-rights-division-resigns-gop-midterms-loss-rcna607697",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "UKMTO confirmed a dhow caught fire and sank nine nautical miles north of Khasab on Oct. 29, with crew evacuated.",
-          "evidence": "Reported by AFP via Arab News.",
+          "claim": "In her resignation letter, Dhillon said she told Susie Wiles in early October she intended to step down after the midterms.",
+          "evidence": "CBS reports it reviewed the letter to Trump.",
           "sources": [
             {
-              "name": "Arab News/AFP — Iran claims four tankers hit mines in Hormuz as dhow crew rescued",
-              "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-three-oil-tankers-hit-mines-in-strait-of-hormuz-3008795",
-              "date": "2026-10-29"
+              "name": "CBS News — Harmeet Dhillon resigns",
+              "url": "https://www.cbsnews.com/news/harmeet-dhillon-resigns-doj-civil-rights-division/",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "On Oct. 30, a tanker in the strait was hit by explosive devices attached by a small boat, per UKMTO.",
-          "evidence": "Reuters via CNBC reports it was not immediately clear who was behind the attack.",
+          "claim": "Two sources told CBS that Trump demanded Dhillon be fired after her Oct. 18 “60 Minutes” interview on election-integrity prosecutions, and that DOJ officials delayed so she could resign after Election Day.",
+          "evidence": "CBS attributes the firing-demand account to two people familiar with the matter; it is anonymous-source reporting, not a White House confirmation. Bis publicly praised Dhillon.",
           "sources": [
             {
-              "name": "CNBC/Reuters — Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
-              "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html",
-              "date": "2026-10-30"
+              "name": "CBS News — Harmeet Dhillon resigns",
+              "url": "https://www.cbsnews.com/news/harmeet-dhillon-resigns-doj-civil-rights-division/",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "Brent crude rose to $117.38 and WTI to $104.09 early Oct. 30, with Brent on course for a 13% gain in October.",
-          "evidence": "Reuters via CNBC; analysts cited Hormuz incidents, Houthi attacks on Saudi facilities and doubts about diplomacy.",
+          "claim": "Under Dhillon the division shifted toward ending DEI practices, protecting “women and girls’ sports from biological males,” and away from many historic consent-decree and racial-discrimination dockets; more than 75% of staff departed.",
+          "evidence": "CBS tenure overview; Dhillon’s own letter touted the DEI and sports lawsuits.",
           "sources": [
             {
-              "name": "CNBC/Reuters — Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
-              "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html",
-              "date": "2026-10-30"
+              "name": "CBS News — Harmeet Dhillon resigns",
+              "url": "https://www.cbsnews.com/news/harmeet-dhillon-resigns-doj-civil-rights-division/",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "AP News — Harmeet Dhillon exits after radical overhaul",
+              "url": "https://apnews.com/article/justice-department-civil-rights-division-harmeet-dhillon-db3ad709a2ff5a48c5d3a9e3f71963d6",
+              "date": "2026-11-05"
             }
           ]
         }
@@ -497,261 +516,228 @@
       "narratives": [
         {
           "type": "framing",
-          "description": "Iranian mine claims reported as confirmed tanker losses.",
-          "example": "Headlines saying “three tankers hit mines” based on IRGC statements.",
-          "howItMisleads": "The only independently confirmed Oct. 29 incident was a dhow. The IRGC claims have not been verified, and CENTCOM disputes that the lanes are mined."
+          "description": "“She quit because Republicans lost” versus “she was forced out.”",
+          "example": "Partisan posts that pick only the letter’s timeline or only the CBS firing sources.",
+          "howItMisleads": "Both accounts are in the record: a planned post-midterm exit she describes, and anonymous sourcing that Trump wanted her fired after “60 Minutes.” Readers should hold both, labeled as such."
         }
       ]
     },
     {
       "rank": 7,
-      "id": "israel-election-fraud-claims",
-      "title": "Netanyahu loses his majority and Likud says the election was ‘stolen’; Israel's election officials say there's no basis for systematic-fraud claims",
-      "summary": "With counting complete, Netanyahu's bloc has 53 seats and Gadi Eisenkot's opposition 48, leaving neither with 61, while Arab parties won a record 19. Likud declared “they stole the elections” over alleged Qatari funding of Arab turnout. The Central Elections Committee's acting director said the vote was conducted lawfully, the Shin Bet called its foreign-funding probe narrow, and Qatar denied involvement.",
+      "id": "raman-defeats-bass-la-mayor",
+      "title": "Democratic socialist Nithya Raman ousts Karen Bass as Los Angeles mayor",
+      "summary": "NBC and CBS projected City Council member Nithya Raman defeated incumbent Mayor Karen Bass. LA Times reported Bass conceded with Raman at about 52% to Bass’s 48% with roughly three-quarters of expected votes counted. Raman, a Democratic Socialists of America member, becomes mayor of the nation’s second-largest city; with New York’s Zohran Mamdani, the two largest U.S. cities will have democratic-socialist mayors. Bass’s term was shadowed by the January 2025 Palisades fire response.",
       "tags": [
-        "Foreign Policy",
-        "Israel",
         "Elections",
-        "Misinformation"
+        "Los Angeles",
+        "Culture",
+        "Democratic Socialists",
+        "Local"
       ],
-      "overview": "Israel's Oct. 27 election matters directly to U.S. Iran policy. After the result, Likud posted on Netanyahu's X account that “Ra'amgate” was an “earthquake” and “they stole the elections in Israel.” Central Elections Committee chair Justice Noam Sohlberg had asked the Shin Bet to investigate suspected foreign funding and report within a week, without naming Qatar or any party. Acting committee director-general Dean Livne wrote that “there is no basis for claims of systematic harm to the integrity of the elections,” and the Shin Bet said its probe “does not cast suspicion on, or accuse, an entire sector of society.” Ra'am's Mansour Abbas denied any connection, Qatar called the claims “ridiculous and dangerous,” and President Isaac Herzog warned against tarnishing Arab voters. Axios reported Netanyahu appears to be trying to deter opposition parties from cooperating with Arab parties to form a government.",
+      "overview": "A local race with national branding stakes. NBC describes Raman, 45, as a progressive who attacked a “broken status quo” on homelessness and housing costs and who called Israel’s Gaza war a genocide—language Bass rejected—illustrating the party’s generational and foreign-policy split. LA Times notes she is the first challenger to beat an incumbent L.A. mayor in more than two decades. Bass faced lasting criticism for being in Ghana when the January 2025 Pacific Palisades wildfire—LA’s most destructive—killed 12 and destroyed thousands of homes. Raman had endorsed Bass early in the year before entering late; both advanced from a June primary over reality-TV figure Spencer Pratt. Expect “socialist takeover” and “progressive breakthrough” frames that outrun the actual city-policy record still ahead, including 2028 Olympics delivery.",
       "knownFacts": [
         {
-          "claim": "Final counts give Netanyahu's bloc 53 seats and Eisenkot's opposition 48; Arab parties won a record 19; 61 are needed for a majority.",
-          "evidence": "JTA reports final figures; Axios notes Netanyahu's bloc lost 11 seats.",
+          "claim": "NBC News projected Nithya Raman defeated Karen Bass in the Los Angeles mayor’s race; CBS likewise projected Raman’s win.",
+          "evidence": "NBC projection article updated Nov. 5; CBS midterm live updates also list the projection.",
           "sources": [
             {
-              "name": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
-              "url": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
-              "date": "2026-10-30"
+              "name": "NBC News — Democratic socialist Nithya Raman pulls off upset, defeating Karen Bass",
+              "url": "https://www.nbcnews.com/politics/2026-election/nithya-raman-los-angeles-mayor-win-democratic-socialist-karen-bass-rcna603379",
+              "date": "2026-11-05"
             },
             {
-              "name": "Axios — After losing his majority, Netanyahu tries to delegitimize election results",
-              "url": "https://www.axios.com/world/2026/10/29",
-              "date": "2026-10-29"
+              "name": "CBS News — Midterm election live updates (LA mayor)",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
             }
           ]
         },
         {
-          "claim": "Israel's Central Elections Committee leadership said the election was conducted lawfully and rejected systematic-fraud claims.",
-          "evidence": "JTA and The Times of Israel quote acting director-general Dean Livne.",
+          "claim": "LA Times reported Bass called Raman to concede with Raman at about 52% and Bass at 48% with 76% of expected votes counted.",
+          "evidence": "Los Angeles Times Nov. 5 story; percentages can still shift slightly with late ballots but the concession ends the competitive race.",
           "sources": [
             {
-              "name": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
-              "url": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
-              "date": "2026-10-30"
-            },
-            {
-              "name": "The Times of Israel — Election panel director rejects claims of widespread voter fraud; Shin Bet: Foreign interference probe is 'limited'",
-              "url": "https://www.timesofisrael.com/election-committee-director-rejects-claims-of-widespread-fraud-as-baseless/",
-              "date": "2026-10-29"
+              "name": "Los Angeles Times — Nithya Raman defeats Bass to become next L.A. mayor",
+              "url": "https://www.latimes.com/california/story/2026-11-05/nithya-raman-defeats-bass-to-become-next-la-mayor",
+              "date": "2026-11-05"
             }
           ]
         },
         {
-          "claim": "The Shin Bet opened a narrow probe into suspected foreign funding at the request of committee chair Noam Sohlberg.",
-          "evidence": "JTA reports Sohlberg's letter named no country or party and that the Shin Bet said the intelligence came from its own operations, not any party.",
+          "claim": "Raman is part of the Democratic Socialists of America; NBC notes the country’s two largest cities will then be led by democratic socialists alongside New York Mayor Zohran Mamdani.",
+          "evidence": "NBC race wrap; Raman also stressed “independence” from DSA while touting progressive credentials.",
           "sources": [
             {
-              "name": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
-              "url": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
-              "date": "2026-10-30"
+              "name": "NBC News — Nithya Raman defeats Karen Bass",
+              "url": "https://www.nbcnews.com/politics/2026-election/nithya-raman-los-angeles-mayor-win-democratic-socialist-karen-bass-rcna603379",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "AP News — Democratic socialist Nithya Raman ousts embattled Los Angeles Mayor Karen Bass",
+              "url": "https://apnews.com/article/los-angeles-mayor-nithya-raman-a86250b9e833ea907a88623e9c1caaab",
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "claim": "Bass’s incumbency was damaged by scrutiny of her response to the January 2025 Pacific Palisades fire, which erupted while she was in Ghana; the fire killed 12 and destroyed thousands of homes.",
+          "evidence": "NBC recounts the fire timeline and political fallout in its race analysis.",
+          "sources": [
+            {
+              "name": "NBC News — Nithya Raman defeats Karen Bass",
+              "url": "https://www.nbcnews.com/politics/2026-election/nithya-raman-los-angeles-mayor-win-democratic-socialist-karen-bass-rcna603379",
+              "date": "2026-11-05"
             }
           ]
         }
       ],
-      "misrepresentations": [
-        {
-          "outlet": "Likud statement posted on Netanyahu's X account, Oct. 29–30, 2026",
-          "pieceTitle": "Jewish Telegraphic Agency — Did Qatar meddle in the Israeli Arab vote? Election officials reject Netanyahu's claim of widespread fraud",
-          "pieceUrl": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
-          "claimMade": "“They stole the elections in Israel.”",
-          "whyInaccurate": "The Central Elections Committee says the election was conducted lawfully with no basis for systematic-fraud claims; the Shin Bet probe is open and limited, and officials said even substantiated allegations would not necessarily invalidate the result.",
-          "severity": "misleading"
-        }
-      ],
+      "misrepresentations": [],
       "narratives": [
         {
           "type": "framing",
-          "description": "A narrow funding probe recast as a verdict on the whole Arab vote.",
-          "example": "Likud's “Islamization of Israel” language and Ben-Gvir's call to arrest Arab party leaders.",
-          "howItMisleads": "The Shin Bet and Herzog explicitly warned against blaming an entire community; scholars quoted by JTA say turnout reflected organic mobilization."
+          "description": "National “socialist wave” inferred from one city hall.",
+          "example": "Takes claiming America just elected a socialist government because LA and NYC have DSA-aligned mayors.",
+          "howItMisleads": "Mayoral branding is not Congress or the presidency. Raman still has to govern housing, homelessness and Olympics logistics under California and federal constraints."
+        },
+        {
+          "type": "selective_emphasis",
+          "description": "Reducing Bass’s loss only to Gaza comments or only to the fire.",
+          "example": "Single-cause explainers that ignore homelessness/housing critiques Raman ran on.",
+          "howItMisleads": "NBC documents multiple overlapping issues—fire scrutiny, housing/homelessness, Israel/Gaza split and anti-status-quo messaging."
         }
       ]
     },
     {
       "rank": 8,
-      "id": "fed-holds-cook-dissent",
-      "title": "Fed holds rates at 3.75%–4% as Lisa Cook dissents for a hike ahead of a White House hearing on firing her",
-      "summary": "The Federal Reserve kept its benchmark rate unchanged Oct. 28 in a 10–2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a quarter-point increase. Inflation remains above the 2% target, and traders see a strong chance of a December hike. Cook's first dissent came days before a White House hearing on removing her over alleged mortgage fraud, which her lawyers call a pretext.",
+      "id": "vote-flipping-clips-recycled",
+      "title": "Viral “vote flipping” machine videos keep circulating as 2026 proof—fact-checkers say calibration glitches and old clips, not rigged switches",
+      "summary": "Social posts again claimed touchscreens in multiple states were changing Democratic selections to Republican ones during 2026 voting. Snopes rated the deliberate-switching claim false on Oct. 22–23, finding no evidence of intentional flips and pointing to human error or touchscreen alignment—rumors Snopes has tracked since at least 2014. AFP and other fact-checkers have likewise flagged recycled older footage presented as new midterm fraud proof. Paper verification steps remain the voter’s check.",
       "tags": [
-        "Economy",
-        "Federal Reserve",
-        "Inflation",
-        "White House"
-      ],
-      "overview": "Chair Kevin Warsh said the Fed needs more information and described growth as “strong.” Axios reports PCE inflation was expected to show 3.6% annual price growth through September, and CME FedWatch put the odds of a December hike near 85%. Warsh also announced that starting next year one of the Fed's eight annual meetings will be devoted to strategy without a rate decision. The political subplot is Cook: the Supreme Court sided with her in an earlier removal attempt, and Warsh said, “not to my knowledge,” when asked whether the Fed would take part in next week's White House hearing on her potential removal.",
-      "knownFacts": [
-        {
-          "claim": "The FOMC held the federal funds target range at 3.75% to 4% in a 10–2 vote; Cook and Hammack dissented in favor of a 25-basis-point increase.",
-          "evidence": "Federal Reserve statement and Axios report.",
-          "sources": [
-            {
-              "name": "Federal Reserve — FOMC statement",
-              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-              "date": "2026-10-28"
-            },
-            {
-              "name": "Axios — Fed leaves rates steady as governor Lisa Cook dissents",
-              "url": "https://www.axios.com/2026/10/28/fed-warsh-interest-rates-cook",
-              "date": "2026-10-28"
-            }
-          ]
-        },
-        {
-          "claim": "It was Cook's first dissent, ahead of a White House hearing on her potential removal over alleged mortgage fraud.",
-          "evidence": "Axios reports her lawyers say the allegations are a pretext and the Supreme Court sided with her in an earlier removal attempt.",
-          "sources": [
-            {
-              "name": "Axios — Fed leaves rates steady as governor Lisa Cook dissents",
-              "url": "https://www.axios.com/2026/10/28/fed-warsh-interest-rates-cook",
-              "date": "2026-10-28"
-            }
-          ]
-        }
-      ],
-      "misrepresentations": [],
-      "narratives": [
-        {
-          "type": "framing",
-          "description": "Cook's dissent read purely through the firing fight.",
-          "example": "Coverage linking her hawkish vote to the White House removal effort.",
-          "howItMisleads": "Cook voted with Hammack, a regional president with no such dispute, for a hike because inflation remains above target. Motive claims in either direction are speculation."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "id": "europe-protest-fake-videos",
-      "title": "Fake and recycled videos sell a ‘Europe in chaos’ story as youth and cost-of-living protests spread",
-      "summary": "As young people protest school conditions and living costs in France, Italy, Portugal and elsewhere, fact-checkers found viral clips framed as recent unrest were AI-generated or years old. An AI video of “illegal migrants” hanging flags on the Eiffel Tower drew more than six million views on X, and a “police pig squad” clip framed the protests as an Islamist revolt. The footage was fake or unrelated.",
-      "tags": [
-        "Culture & Narrative",
         "Misinformation",
-        "Immigration",
-        "Europe"
+        "Elections",
+        "Fact Check",
+        "Culture"
       ],
-      "overview": "The protests are real: AAP reports French demonstrations demanding education investment and action on living costs escalated into riots Oct. 17, and France 24 reports police dismantled housing-protest camps in Porto and Lisbon with more than 30 arrests. But much of the viral imagery attached to them pushed a migration and culture-war narrative it doesn't support. France 24 traced a million-view “millions in the streets” clip to Poland's 2017 Independence Day march, “army deployed” footage to Portugal's Army Day preparations in Porto, and an “Italian protesters tear down U.S. flag” clip to Buenos Aires in August. AAP and AFP found the Eiffel Tower flag video and images of Paris burning and an elderly couple robbed were AI-generated, and Newschecker found the “pig squad” video, which framed protesters as Muslim and “anti-white,” was AI-generated.",
+      "overview": "Continuity from last week’s viral-clip brief: the same genre of smartphone videos still moves as “proof” after Election Day. Snopes’ midterms fact check found copied-and-pasted posts naming Texas, Florida, Tennessee and Ohio, plus high-profile amplification, but only sparse firsthand anecdotes and no credible evidence machines were programmed to switch parties. Election equipment is locally administered, typically offline, publicly tested, and—in many states—paired with paper records voters can review before casting. That does not mean every screen worked perfectly; it means a glitch or mis-touch is not evidence of a national flip plot. After a wave election Trump publicly accepted, these clips function more as residual narrative fuel than as a coordinated White House line.",
       "knownFacts": [
         {
-          "claim": "A viral video of “illegal migrants” hanging Palestinian and Jordanian flags on the Eiffel Tower is AI-generated.",
-          "evidence": "AAP reports Meta's AI tool detected AI signatures and there were no credible reports of such an incident; it had more than six million views on X.",
+          "claim": "Snopes rated false the claim that U.S. election machines in multiple states were deliberately changing voters’ 2026 midterm choices from one party to another.",
+          "evidence": "Snopes investigation published Oct. 22 and updated Oct. 23, 2026; authors note the rumor pattern dates to at least 2008–2014 cycles.",
           "sources": [
             {
-              "name": "AAP FactCheck — Fake footage of French riots spreads online",
-              "url": "https://aap.com.au/factcheck/fake-footage-of-french-riots-spreads-online/",
-              "date": "2026-10-27"
+              "name": "Snopes — Voting machines aren't deliberately switching votes",
+              "url": "https://www.snopes.com/fact-check/voting-machines-switching-votes-midterms/",
+              "date": "2026-10-23"
             }
           ]
         },
         {
-          "claim": "Clips framed as current European unrest came from Poland in 2017, Portugal's Army Day, and Argentina in August.",
-          "evidence": "France 24 Truth or Fake traced each video's origin.",
+          "claim": "Available explanations officials gave Snopes were human error or touchscreen alignment problems, not partisan software switching; many cited states require voter verification and use paper records.",
+          "evidence": "Snopes summarizes state testing rules and federal standards requiring an opportunity to verify and correct selections before casting.",
           "sources": [
             {
-              "name": "FRANCE 24 Truth or Fake — Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
-              "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
-              "date": "2026-10-26"
+              "name": "Snopes — Voting machines aren't deliberately switching votes",
+              "url": "https://www.snopes.com/fact-check/voting-machines-switching-votes-midterms/",
+              "date": "2026-10-23"
             }
           ]
         },
         {
-          "claim": "A video of French police using pigs against Palestinian-flag-waving protesters is AI-generated.",
-          "evidence": "Newschecker documented visual artifacts and AI-detection results.",
+          "claim": "AFP fact-checks have separately documented old voting-machine clips being reused as false proof of fraudulent 2026 machines.",
+          "evidence": "AFP Fact Check item “Old clips used as false proof of fraudulent US voting machines in 2026” (doc.afp.com.D49L6T3); readers should open the AFP page directly because some automated fetches are blocked.",
           "sources": [
             {
-              "name": "Newschecker — French Police Deploy 'Pig Squad' Against Protesters? Viral Video Is AI-Generated",
-              "url": "https://newschecker.in/fact-check/french-police-deploy-pig-squad-against-protesters-viral-video-is-ai-generated",
-              "date": "2026-10-26"
+              "name": "AFP Fact Check — Old clips used as false proof of fraudulent US voting machines in 2026",
+              "url": "https://factcheck.afp.com/doc.afp.com.D49L6T3",
+              "date": "2026-11-04"
             }
           ]
         }
       ],
       "misrepresentations": [
         {
-          "outlet": "Viral social media posts, October 2026 (as documented by AAP FactCheck)",
-          "pieceTitle": "AAP FactCheck — Fake footage of French riots spreads online",
-          "pieceUrl": "https://aap.com.au/factcheck/fake-footage-of-french-riots-spreads-online/",
-          "claimMade": "Video shows “illegal migrants” hanging a Palestinian flag and a Jordanian flag on the Eiffel Tower during French unrest.",
-          "whyInaccurate": "AI-generated; no credible reports of the incident.",
-          "severity": "false"
-        },
-        {
-          "outlet": "Social media posts, October 2026 (as documented by France 24)",
-          "pieceTitle": "FRANCE 24 Truth or Fake — Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
-          "pieceUrl": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
-          "claimMade": "Portugal deployed its army to suppress protests.",
-          "whyInaccurate": "The footage shows Army Day preparations in Porto; protests were handled by police.",
+          "outlet": "Viral social posts / copied text circulating during 2026 early voting and after Election Day",
+          "pieceTitle": "Snopes — Voting machines aren't deliberately switching votes",
+          "pieceUrl": "https://www.snopes.com/fact-check/voting-machines-switching-votes-midterms/",
+          "claimMade": "Machines in Texas, Florida, Tennessee, Ohio and elsewhere are changing Democratic votes to Republican unless voters “persist” and press multiple times—i.e., deliberate midterm fraud.",
+          "whyInaccurate": "Snopes found no evidence of intentional party switching; likely causes are human error or touchscreen calibration. Similar claims have recurred for years, and many jurisdictions give voters a review/paper step before the ballot is cast.",
           "severity": "false"
         }
       ],
       "narratives": [
         {
-          "type": "culture_war",
-          "description": "Cost-of-living and school protests recast as migrant or Islamist uprisings.",
-          "example": "The “pig squad” and Eiffel Tower videos.",
-          "howItMisleads": "The documented protests are about education and living costs. Fabricated imagery inserts a migration storyline the reporting does not show."
+          "type": "framing",
+          "description": "A local screen glitch generalized into national theft.",
+          "example": "One phone video captioned as proof “they’re flipping the midterms.”",
+          "howItMisleads": "Even a real mis-touch on one machine does not scale to chamber outcomes Trump has already said he accepts. Check the paper summary screen; don’t launder anecdotes into a countrywide plot."
         }
       ]
     },
     {
-      "rank": 10,
-      "id": "clancy-nov-2-hearing",
-      "title": "Lindsay Clancy back in court Monday: prosecutors signal a retrial as judge weighs the double-jeopardy motion",
-      "summary": "Judge William Sullivan is set to hear motions Nov. 2 that could decide whether Lindsay Clancy faces a second trial over the 2023 deaths of her three children. Prosecutors filed this week to deny the defense's double-jeopardy motion and “pursue justice” for Cora, Dawson and Callan; the defense says the judge should have questioned the lone holdout juror before declaring a mistrial.",
+      "rank": 9,
+      "id": "clancy-double-jeopardy-hearing-deferred",
+      "title": "Judge defers ruling on Lindsay Clancy double-jeopardy bid; status hearing Nov. 16, retrial still possible",
+      "summary": "At a Nov. 2 Plymouth Superior Court hearing, Judge William Sullivan took under advisement the defense motion to dismiss murder charges against Lindsay Clancy on double-jeopardy grounds after a September mistrial. NBC reports he set a Nov. 16 status hearing to decide the motions. Prosecutors have indicated they plan to retry the case, though the exact charge package remains unclear; coverage has floated a possible March 2027 retrial if dismissal is denied. Culture-war framing of postpartum mental health versus “monster mother” narratives continues around the case.",
       "tags": [
-        "Culture & Narrative",
+        "Culture",
         "Courts",
-        "Mental Health",
-        "Women's Rights"
+        "Crime",
+        "Narrative",
+        "Massachusetts"
       ],
-      "overview": "The case remains a culture-war magnet over postpartum psychosis, women's mental health and criminal responsibility. Jurors reported 11 of 12 found Clancy not criminally responsible, while the holdout favored first-degree murder; Sullivan declared a mistrial in September. Prosecutor Jennifer Sprague wrote that further questioning of the holdout could have amounted to judicial coercion and that “double jeopardy does not operate to bar a retrial.” Defense attorney Kevin Reddington argues the court wrongly believed it had to declare a mistrial. Sullivan has already denied a not-guilty finding and a hearing to question juror Michael Desronvil. Prosecutors also want a gag order; the defense calls it “speculative” and “vague.” In a separate wrongful-death suit by Patrick Clancy, a Norfolk judge took a motion to dismiss under advisement Oct. 28.",
+      "overview": "Continuity from prior briefs: Clancy’s case remains a national magnet for contested stories about maternal mental health, psychiatric medication and criminal responsibility after the deaths of her three children in 2023. The legal question this week is narrower. Defense attorney Martin Weinberg argued prosecutors failed the “manifest necessity” standard for a mistrial—specifically that the court should have questioned a holdout juror before declaring deadlock—so a retrial would violate double jeopardy. NBC reports the nearly three-hour Nov. 2 hearing ended with Sullivan scheduling Nov. 16 to rule. AP coverage similarly describes arguments on the motion to dismiss and the open path to retrial if the motion fails. Outside court, activists and commentators still collapse a live evidentiary dispute into slogans; the brief sticks to the docket.",
       "knownFacts": [
         {
-          "claim": "Prosecutors asked the judge to deny the double-jeopardy motion and allow the Commonwealth “to continue to pursue justice” for the children.",
-          "evidence": "WBUR quotes the filing; NBC also reports prosecutors asked the judge to reject the motion to dismiss.",
+          "claim": "On Nov. 2, 2026, Judge William Sullivan heard argument on Clancy’s motion to dismiss murder charges on double-jeopardy grounds and scheduled a Nov. 16 status hearing to decide the motions.",
+          "evidence": "NBC News court report by Rebecca Cohen, updated Nov. 2; AP’s parallel hearing story.",
           "sources": [
             {
-              "name": "WBUR — Lindsay Clancy is due in court Monday. The hearing may settle if she'll face new trial",
-              "url": "https://www.wbur.org/news/2026/10/30/clancy-status-hearing-prosecutors-case",
-              "date": "2026-10-30"
+              "name": "NBC News — Lindsay Clancy returns to court; defense seeks to block retrial",
+              "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-returns-court-defense-seeks-block-retrial-murder-case-rcna596609",
+              "date": "2026-11-02"
             },
             {
-              "name": "NBC News — Prosecutors ask judge to reject Lindsay Clancy defense's motion to dismiss charges",
-              "url": "https://www.nbcnews.com/news/us-news/prosecutors-ask-judge-reject-lindsay-clancy-defenses-motion-dismiss-ch-rcna606386",
-              "date": "2026-10-29"
+              "name": "AP News — Lindsay Clancy seeks to dismiss charges in Massachusetts court hearing",
+              "url": "https://apnews.com/article/lindsay-clancy-murder-retrial-95658b66e472ec759c31a58726280165",
+              "date": "2026-11-02"
             }
           ]
         },
         {
-          "claim": "The judge previously denied a not-guilty finding and a request to investigate the holdout juror.",
-          "evidence": "WBUR reports both rulings and that juror names remain sealed.",
+          "claim": "Clancy’s first trial ended in a September 2026 jury deadlock and mistrial on charges she strangled her three children.",
+          "evidence": "NBC recounts the mistrial procedural posture that frames the double-jeopardy fight.",
           "sources": [
             {
-              "name": "WBUR — Lindsay Clancy is due in court Monday. The hearing may settle if she'll face new trial",
-              "url": "https://www.wbur.org/news/2026/10/30/clancy-status-hearing-prosecutors-case",
-              "date": "2026-10-30"
+              "name": "NBC News — Judge is weighing a retrial for Lindsay Clancy",
+              "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-returns-court-defense-seeks-block-retrial-murder-case-rcna596609",
+              "date": "2026-11-02"
             }
           ]
         },
         {
-          "claim": "Prosecutors have not formally announced whether they will retry Clancy or on what charges.",
-          "evidence": "WBUR reports the DA's office has not revealed its plans; a defense attorney not involved said the filing's language points to a retrial.",
+          "claim": "Defense counsel argued prosecutors needed to prove manifest necessity for the mistrial and that questioning the holdout juror was a viable alternative that was not used.",
+          "evidence": "NBC quotes Martin Weinberg’s in-court argument about voir dire of the holdout juror.",
           "sources": [
             {
-              "name": "WBUR — Lindsay Clancy is due in court Monday. The hearing may settle if she'll face new trial",
-              "url": "https://www.wbur.org/news/2026/10/30/clancy-status-hearing-prosecutors-case",
-              "date": "2026-10-30"
+              "name": "NBC News — Lindsay Clancy returns to court",
+              "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-returns-court-defense-seeks-block-retrial-murder-case-rcna596609",
+              "date": "2026-11-02"
+            }
+          ]
+        },
+        {
+          "claim": "Prosecutors have indicated they intend to retry the case if charges are not dismissed; the precise charging theory for any retrial has been described as still unsettled in coverage.",
+          "evidence": "AP and related hearing coverage note the state’s plan to proceed while leaving “what that looks like” open pending the judge’s ruling.",
+          "sources": [
+            {
+              "name": "AP News — Lindsay Clancy seeks to dismiss charges",
+              "url": "https://apnews.com/article/lindsay-clancy-murder-retrial-95658b66e472ec759c31a58726280165",
+              "date": "2026-11-02"
+            },
+            {
+              "name": "Boston Globe — Lindsay Clancy: Judge hears arguments on motion to dismiss",
+              "url": "https://www.bostonglobe.com/2026/11/02/metro/lindsay-clancy-retrial-juror-gag-order-dismissal/",
+              "date": "2026-11-02"
             }
           ]
         }
@@ -760,15 +746,88 @@
       "narratives": [
         {
           "type": "framing",
-          "description": "A retrial treated as already decided.",
-          "example": "Coverage reading prosecutors' “pursue justice” language as an announced retrial.",
-          "howItMisleads": "WBUR reports the DA's office has not revealed its plans or which charges it would pursue; the retrial expectation comes from outside legal experts. The judge must first rule on the double-jeopardy motion."
+          "description": "“She’s walking free” versus “show trial continues.”",
+          "example": "Social posts treating the deferred ruling as either exoneration or proof of a rigged system.",
+          "howItMisleads": "No dismissal has been granted. The judge scheduled Nov. 16 to decide. Charges remain active until a court order says otherwise."
         },
         {
           "type": "selective_emphasis",
-          "description": "Wrongful-death suit read as Clancy's admission.",
-          "example": "Patrick Clancy's attorney suggesting at an Oct. 28 hearing that Lindsay Clancy would testify she told clinicians she had thoughts of harming her children.",
-          "howItMisleads": "Her lawyer says she never told providers she had homicidal ideation and has no plans to testify; nothing in that suit has been proven."
+          "description": "Culture-war slogans replacing the double-jeopardy legal question.",
+          "example": "Coverage that only debates medication or motherhood archetypes and skips the mistrial standard.",
+          "howItMisleads": "This week’s hearing turned on manifest necessity and juror voir dire—checkable courtroom procedure—not a referendum on postpartum illness."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "mississippi-senate-still-counting",
+      "title": "Mississippi Senate still uncalled: Colom leads Hyde-Smith by under 2,000 votes with mail and affidavit ballots outstanding",
+      "summary": "Alongside Alaska, Mississippi is the other uncalled Senate race. CBS reports Democrat Scott Colom leads Republican Sen. Cindy Hyde-Smith by fewer than 2,000 votes, with about 3,600 outstanding mail ballots and an unknown number of affidavit/provisional ballots. Counties have until Nov. 13 to certify. Both parties have lawyers on the ground; Republicans asked counties to segregate affidavit ballots, which Colom’s campaign called a “desperate stunt.” Mississippi has no recounts—plurality wins.",
+      "tags": [
+        "Midterms",
+        "Senate",
+        "Mississippi",
+        "Elections"
+      ],
+      "overview": "National Democratic control of the Senate does not depend on Mississippi given the already-called flips, but the state’s finish will set the final margin and test post-Election Day process fights in the Deep South. CBS’s Nov. 6 updates detail Secretary of State Michael Watson’s outstanding-ballot figures, DSCC lawyers monitoring the count, and NRSC/Hyde-Smith requests to preserve affidavit ballots. Hyde-Smith publicly predicted late Republican-county votes would save her; Colom said he is confident Mississippi chose “a new direction.” Because the state awards the seat on plurality and does not allow recounts, every remaining legal ballot matter. Readers should wait for certification rather than treat either campaign’s confidence as a call—AP and CBS still list the race unresolved.",
+      "knownFacts": [
+        {
+          "claim": "As of CBS’s Thursday reporting, Colom led Hyde-Smith by fewer than 2,000 votes with roughly 3,600 outstanding mail ballots plus an unknown number of affidavit ballots.",
+          "evidence": "CBS cites Mississippi Secretary of State Michael Watson; absentee ballots may arrive within five business days and affidavit ballots are processed in the certification window ending Nov. 13.",
+          "sources": [
+            {
+              "name": "CBS News — Midterm live updates: Where the razor-thin Mississippi Senate race stands",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            }
+          ]
+        },
+        {
+          "claim": "The DSCC deployed lawyers to Mississippi; the NRSC and Hyde-Smith campaign asked counties to separate and preserve affidavit ballots, which the Colom campaign called a “desperate stunt.”",
+          "evidence": "CBS confirms DSCC presence and reports both parties’ ballot-handling moves.",
+          "sources": [
+            {
+              "name": "CBS News — Mississippi Senate race update",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            }
+          ]
+        },
+        {
+          "claim": "Mississippi does not allow recounts; the winner is decided by plurality.",
+          "evidence": "CBS explainer in the same live-updates item.",
+          "sources": [
+            {
+              "name": "CBS News — Mississippi Senate race update",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            }
+          ]
+        },
+        {
+          "claim": "National trackers still list Mississippi (with Alaska) among unresolved Senate races while Democrats sit at about 54–44 among called seats.",
+          "evidence": "CBS and Reuters chamber summaries as of Nov. 5–6.",
+          "sources": [
+            {
+              "name": "CBS News — Midterm election live updates",
+              "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+              "date": "2026-11-06"
+            },
+            {
+              "name": "Reuters graphics — US midterm election results",
+              "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/",
+              "date": "2026-11-05"
+            }
+          ]
+        }
+      ],
+      "misrepresentations": [],
+      "narratives": [
+        {
+          "type": "framing",
+          "description": "Normal outstanding-ballot counting cast as theft in progress.",
+          "example": "Posts claiming affidavit-ballot reviews prove Democrats are “finding votes.”",
+          "howItMisleads": "Mail and provisional counting after Election Day is written into Mississippi’s calendar through Nov. 13. Lawyers on both sides are expected in a margin this thin; that is not itself evidence of fraud."
         }
       ]
     }
